@@ -1,0 +1,963 @@
+[
+  {
+    "chapter": 2,
+    "chapterTitle": "Protection Solutions",
+    "category": "Purpose of Insurance",
+    "difficulty": "easy",
+    "questionType": "multiple-choice",
+    "id": 201,
+    "question": "At its core, why does the PDF say people buy insurance?",
+    "answers": [
+      "To provide financial security for themselves and the people they care about",
+      "To replace every investment account",
+      "To avoid ever reviewing their financial plan again",
+      "To guarantee market-based growth"
+    ],
+    "correct": 0,
+    "correctExplanation": "The PDF says the decision to purchase insurance is about providing financial security for yourself and the people you care about.",
+    "wrongExplanations": [
+      {
+        "answer": "To replace every investment account",
+        "explanation": "Insurance is part of the financial plan, but the PDF does not say it replaces investment accounts."
+      },
+      {
+        "answer": "To avoid ever reviewing their financial plan again",
+        "explanation": "The PDF says coverage should be reviewed regularly as needs and income change."
+      },
+      {
+        "answer": "To guarantee market-based growth",
+        "explanation": "Protection insurance is not presented as a guarantee of market growth."
+      }
+    ]
+  },
+  {
+    "chapter": 2,
+    "chapterTitle": "Protection Solutions",
+    "category": "Buying Process",
+    "difficulty": "easy",
+    "questionType": "multiple-choice",
+    "id": 202,
+    "question": "What is the first step in the insurance buying process?",
+    "answers": [
+      "Choose the policy with the highest premium",
+      "Determine goals, insurance need over time, and affordability",
+      "Buy the product with the most features",
+      "Replace any existing policy immediately"
+    ],
+    "correct": 1,
+    "correctExplanation": "The PDF lists the first step as determining your goals, how much insurance you need over time, and what you can afford to pay.",
+    "wrongExplanations": [
+      {
+        "answer": "Choose the policy with the highest premium",
+        "explanation": "A high premium does not automatically mean the product fits the client's needs."
+      },
+      {
+        "answer": "Buy the product with the most features",
+        "explanation": "The PDF focuses on matching needs, not chasing the most features."
+      },
+      {
+        "answer": "Replace any existing policy immediately",
+        "explanation": "The PDF warns that replacing coverage may be costly and should be reviewed carefully."
+      }
+    ]
+  },
+  {
+    "chapter": 2,
+    "chapterTitle": "Protection Solutions",
+    "category": "Buying Process",
+    "difficulty": "easy",
+    "questionType": "multiple-choice",
+    "id": 203,
+    "question": "What does the PDF say a financial professional can help explain?",
+    "answers": [
+      "The differences between types of policies",
+      "Why insurance removes all risk",
+      "Why every client needs the same product",
+      "Why policy applications do not matter"
+    ],
+    "correct": 0,
+    "correctExplanation": "The PDF says a financial professional can explain the differences between types of policies, help calculate the amount needed, and present appropriate options.",
+    "wrongExplanations": [
+      {
+        "answer": "Why insurance removes all risk",
+        "explanation": "Insurance can reduce certain risks, but the PDF does not say it removes all risk."
+      },
+      {
+        "answer": "Why every client needs the same product",
+        "explanation": "The PDF supports matching products to the client's needs."
+      },
+      {
+        "answer": "Why policy applications do not matter",
+        "explanation": "The PDF says applications should be reviewed carefully before signing."
+      }
+    ]
+  },
+  {
+    "chapter": 2,
+    "chapterTitle": "Protection Solutions",
+    "category": "Term Life",
+    "difficulty": "easy",
+    "questionType": "multiple-choice",
+    "id": 204,
+    "question": "What is term life insurance mainly designed for?",
+    "answers": [
+      "Temporary protection",
+      "Lifetime income payments",
+      "Direct mutual fund investing",
+      "Guaranteed market participation"
+    ],
+    "correct": 0,
+    "correctExplanation": "The PDF presents term life as temporary protection that can be more affordable than long-term coverage.",
+    "wrongExplanations": [
+      {
+        "answer": "Lifetime income payments",
+        "explanation": "Lifetime income payments are connected to retirement income products, not term life."
+      },
+      {
+        "answer": "Direct mutual fund investing",
+        "explanation": "Direct mutual funds are investment solutions, not term life insurance."
+      },
+      {
+        "answer": "Guaranteed market participation",
+        "explanation": "Term life does not provide market participation."
+      }
+    ]
+  },
+  {
+    "chapter": 2,
+    "chapterTitle": "Protection Solutions",
+    "category": "Term Life",
+    "difficulty": "medium",
+    "questionType": "multiple-choice",
+    "id": 205,
+    "question": "Why might term life allow a client to afford more coverage than long-term insurance?",
+    "answers": [
+      "Because it is designed as lower-cost temporary protection",
+      "Because it always builds cash value faster",
+      "Because it has no premium payments",
+      "Because it guarantees dividends"
+    ],
+    "correct": 0,
+    "correctExplanation": "The PDF says term insurance can allow a client to afford more coverage than long-term insurance because it provides temporary protection.",
+    "wrongExplanations": [
+      {
+        "answer": "Because it always builds cash value faster",
+        "explanation": "The PDF describes term life as death benefit protection without cash value accumulation."
+      },
+      {
+        "answer": "Because it has no premium payments",
+        "explanation": "Term life requires premiums to keep coverage active."
+      },
+      {
+        "answer": "Because it guarantees dividends",
+        "explanation": "Dividend eligibility is associated with participating products, not term life in this section."
+      }
+    ]
+  },
+  {
+    "chapter": 2,
+    "chapterTitle": "Protection Solutions",
+    "category": "Term Life",
+    "difficulty": "medium",
+    "questionType": "multiple-choice",
+    "id": 206,
+    "question": "What is the conversion privilege in term life insurance?",
+    "answers": [
+      "The right to convert some or all term insurance to long-term life insurance within certain rules",
+      "The right to convert insurance into a brokerage account",
+      "The right to stop paying premiums forever",
+      "The right to guarantee investment returns"
+    ],
+    "correct": 0,
+    "correctExplanation": "The PDF says term insurance may allow conversion of some or all term insurance to long-term life insurance with no additional medical questions or exams, subject to restrictions and time limits.",
+    "wrongExplanations": [
+      {
+        "answer": "The right to convert insurance into a brokerage account",
+        "explanation": "The conversion privilege refers to changing term coverage into long-term life insurance."
+      },
+      {
+        "answer": "The right to stop paying premiums forever",
+        "explanation": "The PDF does not say conversion eliminates premium obligations."
+      },
+      {
+        "answer": "The right to guarantee investment returns",
+        "explanation": "Conversion is about insurance coverage, not investment guarantees."
+      }
+    ]
+  },
+  {
+    "chapter": 2,
+    "chapterTitle": "Protection Solutions",
+    "category": "Term Life",
+    "difficulty": "medium",
+    "questionType": "multiple-choice",
+    "id": 207,
+    "question": "Which disadvantage does the PDF list for term life?",
+    "answers": [
+      "It is generally not designed to last your whole life",
+      "It always has the highest initial premium",
+      "It always has market risk",
+      "It cannot provide a death benefit"
+    ],
+    "correct": 0,
+    "correctExplanation": "The PDF lists temporary coverage as a disadvantage because term life is generally not designed to last your whole life.",
+    "wrongExplanations": [
+      {
+        "answer": "It always has the highest initial premium",
+        "explanation": "The PDF says term life can be more affordable for a fixed duration."
+      },
+      {
+        "answer": "It always has market risk",
+        "explanation": "Market risk is not a term life feature."
+      },
+      {
+        "answer": "It cannot provide a death benefit",
+        "explanation": "Term life is specifically designed to provide death benefit protection."
+      }
+    ]
+  },
+  {
+    "chapter": 2,
+    "chapterTitle": "Protection Solutions",
+    "category": "Whole Life",
+    "difficulty": "easy",
+    "questionType": "multiple-choice",
+    "id": 208,
+    "question": "What is whole life insurance designed to provide?",
+    "answers": [
+      "Permanent life insurance with steady cash value growth",
+      "Temporary coverage only",
+      "Income for a fixed number of years",
+      "A brokerage account with self-directed trades"
+    ],
+    "correct": 0,
+    "correctExplanation": "The PDF says whole life is permanent life insurance designed for the long term with steady cash value growth.",
+    "wrongExplanations": [
+      {
+        "answer": "Temporary coverage only",
+        "explanation": "Temporary coverage describes term life."
+      },
+      {
+        "answer": "Income for a fixed number of years",
+        "explanation": "That describes a retirement income annuity concept, not whole life."
+      },
+      {
+        "answer": "A brokerage account with self-directed trades",
+        "explanation": "Whole life is insurance, not a brokerage account."
+      }
+    ]
+  },
+  {
+    "chapter": 2,
+    "chapterTitle": "Protection Solutions",
+    "category": "Whole Life",
+    "difficulty": "medium",
+    "questionType": "multiple-choice",
+    "id": 209,
+    "question": "Which whole life feature does the PDF describe as fixed and level?",
+    "answers": [
+      "Premiums",
+      "Market returns",
+      "Dividend amounts",
+      "Interest rates on all investments"
+    ],
+    "correct": 0,
+    "correctExplanation": "The PDF says whole life premiums are locked in at the time of purchase and will never go up because of health, age, or the economy.",
+    "wrongExplanations": [
+      {
+        "answer": "Market returns",
+        "explanation": "Whole life does not guarantee market returns."
+      },
+      {
+        "answer": "Dividend amounts",
+        "explanation": "The PDF says dividends are not guaranteed."
+      },
+      {
+        "answer": "Interest rates on all investments",
+        "explanation": "The PDF does not make this claim."
+      }
+    ]
+  },
+  {
+    "chapter": 2,
+    "chapterTitle": "Protection Solutions",
+    "category": "Whole Life",
+    "difficulty": "medium",
+    "questionType": "multiple-choice",
+    "id": 210,
+    "question": "What does whole life cash value allow the policyowner to potentially do?",
+    "answers": [
+      "Access cash value for needs while alive",
+      "Avoid ever paying premiums",
+      "Guarantee stock market performance",
+      "Cancel all tax rules"
+    ],
+    "correct": 0,
+    "correctExplanation": "The PDF says whole life cash value may be accessed while alive and used for needs such as college, a home down payment, or supplemental retirement income.",
+    "wrongExplanations": [
+      {
+        "answer": "Avoid ever paying premiums",
+        "explanation": "The PDF says protection depends on premiums being paid."
+      },
+      {
+        "answer": "Guarantee stock market performance",
+        "explanation": "Whole life does not guarantee stock market performance."
+      },
+      {
+        "answer": "Cancel all tax rules",
+        "explanation": "The PDF discusses tax advantages but does not say taxes are eliminated."
+      }
+    ]
+  },
+  {
+    "chapter": 2,
+    "chapterTitle": "Protection Solutions",
+    "category": "Whole Life",
+    "difficulty": "hard",
+    "questionType": "multiple-choice",
+    "id": 211,
+    "question": "What tradeoff does the PDF identify for whole life?",
+    "answers": [
+      "The initial premium is often higher than other forms of life insurance",
+      "It has no long-term insurance coverage",
+      "It has no cash value growth",
+      "It can only last to age 90"
+    ],
+    "correct": 0,
+    "correctExplanation": "The PDF lists whole life's potential disadvantage as an initial premium that is often higher than other forms of life insurance.",
+    "wrongExplanations": [
+      {
+        "answer": "It has no long-term insurance coverage",
+        "explanation": "Whole life is long-term insurance coverage."
+      },
+      {
+        "answer": "It has no cash value growth",
+        "explanation": "The PDF says whole life has guaranteed cash value growth."
+      },
+      {
+        "answer": "It can only last to age 90",
+        "explanation": "That age limit is listed under term life death benefit coverage, not whole life."
+      }
+    ]
+  },
+  {
+    "chapter": 2,
+    "chapterTitle": "Protection Solutions",
+    "category": "Universal Life",
+    "difficulty": "medium",
+    "questionType": "multiple-choice",
+    "id": 212,
+    "question": "What does universal life combine?",
+    "answers": [
+      "Long-term coverage and the ability to accumulate cash value with interest",
+      "Temporary coverage and no flexibility",
+      "Guaranteed market returns and no monitoring",
+      "A fixed-period income stream and no death benefit"
+    ],
+    "correct": 0,
+    "correctExplanation": "The PDF says universal life offers a combination of long-term coverage and the ability to accumulate cash value with interest.",
+    "wrongExplanations": [
+      {
+        "answer": "Temporary coverage and no flexibility",
+        "explanation": "Universal life is described as long-term coverage with adjustable premiums."
+      },
+      {
+        "answer": "Guaranteed market returns and no monitoring",
+        "explanation": "Universal life requires monitoring and does not guarantee market returns."
+      },
+      {
+        "answer": "A fixed-period income stream and no death benefit",
+        "explanation": "That describes an annuity concept, not universal life."
+      }
+    ]
+  },
+  {
+    "chapter": 2,
+    "chapterTitle": "Protection Solutions",
+    "category": "Universal Life",
+    "difficulty": "hard",
+    "questionType": "multiple-choice",
+    "id": 213,
+    "question": "Why does the PDF say universal life must be monitored closely?",
+    "answers": [
+      "Interest rate changes may affect cash value accumulation and future premiums",
+      "It has no death benefit",
+      "It cannot accumulate cash value",
+      "It is always fully guaranteed without conditions"
+    ],
+    "correct": 0,
+    "correctExplanation": "The PDF says interest rate changes may affect cash value accumulation and the premiums needed over time, so universal life must be monitored closely.",
+    "wrongExplanations": [
+      {
+        "answer": "It has no death benefit",
+        "explanation": "Universal life includes death benefit protection."
+      },
+      {
+        "answer": "It cannot accumulate cash value",
+        "explanation": "The PDF says universal life has the ability to accumulate cash value."
+      },
+      {
+        "answer": "It is always fully guaranteed without conditions",
+        "explanation": "The PDF says universal life has fewer guarantees than whole life."
+      }
+    ]
+  },
+  {
+    "chapter": 2,
+    "chapterTitle": "Protection Solutions",
+    "category": "Universal Life",
+    "difficulty": "hard",
+    "questionType": "multiple-choice",
+    "id": 214,
+    "question": "What is a key risk created by universal life's flexible premiums?",
+    "answers": [
+      "Coverage may lapse if premiums or cash value are not sufficient to cover charges",
+      "The policy automatically becomes term insurance",
+      "The death benefit is never available",
+      "The policy cannot be reviewed"
+    ],
+    "correct": 0,
+    "correctExplanation": "The PDF says universal life coverage may lapse if premiums or cash value are not sufficient to cover monthly charges including cost of insurance.",
+    "wrongExplanations": [
+      {
+        "answer": "The policy automatically becomes term insurance",
+        "explanation": "The PDF does not say universal life converts automatically into term insurance."
+      },
+      {
+        "answer": "The death benefit is never available",
+        "explanation": "Universal life provides death benefit protection if the policy remains in force."
+      },
+      {
+        "answer": "The policy cannot be reviewed",
+        "explanation": "The PDF says regular monitoring and review are important."
+      }
+    ]
+  },
+  {
+    "chapter": 2,
+    "chapterTitle": "Protection Solutions",
+    "category": "Variable Universal Life",
+    "difficulty": "medium",
+    "questionType": "multiple-choice",
+    "id": 215,
+    "question": "What does variable universal life add to long-term death benefit protection?",
+    "answers": [
+      "A variety of investment options with potential cash value accumulation",
+      "Only temporary low-cost coverage",
+      "Guaranteed fixed premiums with no monitoring",
+      "Income payments for a fixed number of years only"
+    ],
+    "correct": 0,
+    "correctExplanation": "The PDF says variable universal life provides death benefit protection and access to investment options with the potential for cash value accumulation.",
+    "wrongExplanations": [
+      {
+        "answer": "Only temporary low-cost coverage",
+        "explanation": "That better describes term life."
+      },
+      {
+        "answer": "Guaranteed fixed premiums with no monitoring",
+        "explanation": "The PDF says premiums and investment returns must be monitored."
+      },
+      {
+        "answer": "Income payments for a fixed number of years only",
+        "explanation": "That is not the purpose of variable universal life."
+      }
+    ]
+  },
+  {
+    "chapter": 2,
+    "chapterTitle": "Protection Solutions",
+    "category": "Variable Universal Life",
+    "difficulty": "hard",
+    "questionType": "multiple-choice",
+    "id": 216,
+    "question": "What major risk does variable universal life introduce?",
+    "answers": [
+      "Cash value is subject to market risk and can fluctuate",
+      "The policy cannot have a death benefit",
+      "The policy has no investment options",
+      "The policy has no tax considerations"
+    ],
+    "correct": 0,
+    "correctExplanation": "The PDF says returns from the policy's investment options are subject to market risk and will fluctuate with market conditions.",
+    "wrongExplanations": [
+      {
+        "answer": "The policy cannot have a death benefit",
+        "explanation": "Variable universal life includes death benefit protection."
+      },
+      {
+        "answer": "The policy has no investment options",
+        "explanation": "Investment options are one of its defining features."
+      },
+      {
+        "answer": "The policy has no tax considerations",
+        "explanation": "The PDF discusses tax advantages and tax rules connected to policy access."
+      }
+    ]
+  },
+  {
+    "chapter": 2,
+    "chapterTitle": "Protection Solutions",
+    "category": "Variable Universal Life",
+    "difficulty": "hard",
+    "questionType": "multiple-choice",
+    "id": 217,
+    "question": "Which client profile best matches variable universal life based on the PDF?",
+    "answers": [
+      "A client seeking long-term death benefit protection with market participation and cash value growth potential",
+      "A client seeking only temporary protection with no cash value",
+      "A client seeking guaranteed fixed income payments for life",
+      "A client seeking protection against income loss due to disability"
+    ],
+    "correct": 0,
+    "correctExplanation": "The PDF says variable universal life is for long-term death benefit protection, potential cash value accumulation, and potential upside growth through financial markets.",
+    "wrongExplanations": [
+      {
+        "answer": "A client seeking only temporary protection with no cash value",
+        "explanation": "That matches term life."
+      },
+      {
+        "answer": "A client seeking guaranteed fixed income payments for life",
+        "explanation": "That matches retirement income annuities."
+      },
+      {
+        "answer": "A client seeking protection against income loss due to disability",
+        "explanation": "That matches Individual Disability Insurance."
+      }
+    ]
+  },
+  {
+    "chapter": 2,
+    "chapterTitle": "Protection Solutions",
+    "category": "Individual Disability Insurance",
+    "difficulty": "easy",
+    "questionType": "multiple-choice",
+    "id": 218,
+    "question": "What does Individual Disability Insurance help protect against?",
+    "answers": [
+      "Loss of income due to sickness or injury that results in disability",
+      "Losses from market downturns",
+      "Estate tax only",
+      "A temporary need for life insurance"
+    ],
+    "correct": 0,
+    "correctExplanation": "The PDF says Individual Disability Insurance helps protect against income loss due to injury or sickness that results in disability.",
+    "wrongExplanations": [
+      {
+        "answer": "Losses from market downturns",
+        "explanation": "Disability insurance protects income, not investment values."
+      },
+      {
+        "answer": "Estate tax only",
+        "explanation": "Estate tax is not the purpose of Individual Disability Insurance."
+      },
+      {
+        "answer": "A temporary need for life insurance",
+        "explanation": "Temporary life insurance needs are connected to term life."
+      }
+    ]
+  },
+  {
+    "chapter": 2,
+    "chapterTitle": "Protection Solutions",
+    "category": "Individual Disability Insurance",
+    "difficulty": "medium",
+    "questionType": "multiple-choice",
+    "id": 219,
+    "question": "Why is Individual Disability Insurance portable?",
+    "answers": [
+      "Because the client owns it and it is not tied to employer-provided disability coverage",
+      "Because it converts into term life automatically",
+      "Because it has no underwriting",
+      "Because it only works inside an employer plan"
+    ],
+    "correct": 0,
+    "correctExplanation": "The PDF says Individual Disability Insurance follows the client if they switch jobs or go out on their own because they own it.",
+    "wrongExplanations": [
+      {
+        "answer": "Because it converts into term life automatically",
+        "explanation": "The PDF does not say Individual Disability Insurance converts into term life."
+      },
+      {
+        "answer": "Because it has no underwriting",
+        "explanation": "The PDF lists financial, medical, and occupational underwriting as a disadvantage."
+      },
+      {
+        "answer": "Because it only works inside an employer plan",
+        "explanation": "The PDF says it is not tied to employer-provided disability coverage."
+      }
+    ]
+  },
+  {
+    "chapter": 2,
+    "chapterTitle": "Protection Solutions",
+    "category": "Individual Disability Insurance",
+    "difficulty": "medium",
+    "questionType": "multiple-choice",
+    "id": 220,
+    "question": "If Individual Disability Insurance benefits are paid from an individually owned policy with after-tax dollars, how are the benefits generally treated?",
+    "answers": [
+      "Generally tax free",
+      "Always taxed twice",
+      "Always treated as capital gains",
+      "Automatically converted into dividends"
+    ],
+    "correct": 0,
+    "correctExplanation": "The PDF says benefits paid by an individually owned policy are generally tax free if premiums are paid with after-tax dollars.",
+    "wrongExplanations": [
+      {
+        "answer": "Always taxed twice",
+        "explanation": "The PDF does not say this."
+      },
+      {
+        "answer": "Always treated as capital gains",
+        "explanation": "The PDF does not describe disability benefits as capital gains."
+      },
+      {
+        "answer": "Automatically converted into dividends",
+        "explanation": "Benefits are not described as automatically converting into dividends."
+      }
+    ]
+  },
+  {
+    "chapter": 2,
+    "chapterTitle": "Protection Solutions",
+    "category": "Individual Disability Insurance",
+    "difficulty": "hard",
+    "questionType": "multiple-choice",
+    "id": 221,
+    "question": "What is an elimination period in Individual Disability Insurance?",
+    "answers": [
+      "A waiting period before disability benefits begin to be paid",
+      "A period where premiums are guaranteed to disappear",
+      "A period where the death benefit doubles",
+      "A period where market losses are eliminated"
+    ],
+    "correct": 0,
+    "correctExplanation": "The PDF lists the elimination period as the time the insured must wait before disability benefits begin to be paid.",
+    "wrongExplanations": [
+      {
+        "answer": "A period where premiums are guaranteed to disappear",
+        "explanation": "The PDF does not define the elimination period this way."
+      },
+      {
+        "answer": "A period where the death benefit doubles",
+        "explanation": "Individual Disability Insurance is not primarily about a death benefit."
+      },
+      {
+        "answer": "A period where market losses are eliminated",
+        "explanation": "Disability insurance does not protect against market losses."
+      }
+    ]
+  },
+  {
+    "chapter": 2,
+    "chapterTitle": "Protection Solutions",
+    "category": "Product Comparison",
+    "difficulty": "medium",
+    "questionType": "multiple-choice",
+    "id": 222,
+    "question": "Which product has death benefit protection but no cash value accumulation according to the comparison table?",
+    "answers": [
+      "Term life",
+      "Whole life",
+      "Universal life",
+      "Variable universal life"
+    ],
+    "correct": 0,
+    "correctExplanation": "The PDF describes term life as death benefit protection without cash value accumulation.",
+    "wrongExplanations": [
+      {
+        "answer": "Whole life",
+        "explanation": "Whole life includes cash value accumulation."
+      },
+      {
+        "answer": "Universal life",
+        "explanation": "Universal life can accumulate cash value."
+      },
+      {
+        "answer": "Variable universal life",
+        "explanation": "Variable universal life has cash value accumulation potential."
+      }
+    ]
+  },
+  {
+    "chapter": 2,
+    "chapterTitle": "Protection Solutions",
+    "category": "Product Comparison",
+    "difficulty": "medium",
+    "questionType": "multiple-choice",
+    "id": 223,
+    "question": "Which protection product is most directly tied to market participation?",
+    "answers": [
+      "Variable universal life",
+      "Term life",
+      "Whole life",
+      "Individual Disability Insurance"
+    ],
+    "correct": 0,
+    "correctExplanation": "The comparison table and product description connect market participation to variable universal life.",
+    "wrongExplanations": [
+      {
+        "answer": "Term life",
+        "explanation": "Term life does not include market participation."
+      },
+      {
+        "answer": "Whole life",
+        "explanation": "Whole life emphasizes guarantees, fixed premiums, dividends, and cash value growth rather than market participation."
+      },
+      {
+        "answer": "Individual Disability Insurance",
+        "explanation": "Individual Disability Insurance protects against income loss from disability."
+      }
+    ]
+  },
+  {
+    "chapter": 2,
+    "chapterTitle": "Protection Solutions",
+    "category": "Product Comparison",
+    "difficulty": "hard",
+    "questionType": "multiple-choice",
+    "id": 224,
+    "question": "Which product is most clearly described as having guaranteed cash value accumulation?",
+    "answers": [
+      "Whole life",
+      "Term life",
+      "Individual Disability Insurance",
+      "Variable universal life"
+    ],
+    "correct": 0,
+    "correctExplanation": "The PDF lists guaranteed cash value growth as a whole life feature.",
+    "wrongExplanations": [
+      {
+        "answer": "Term life",
+        "explanation": "Term life has no cash value accumulation."
+      },
+      {
+        "answer": "Individual Disability Insurance",
+        "explanation": "Individual Disability Insurance protects income and is not presented as a cash value product."
+      },
+      {
+        "answer": "Variable universal life",
+        "explanation": "Variable universal life has cash value accumulation potential, but it is not guaranteed and is subject to market risk."
+      }
+    ]
+  },
+  {
+    "chapter": 2,
+    "chapterTitle": "Protection Solutions",
+    "category": "Things to Consider",
+    "difficulty": "medium",
+    "questionType": "multiple-choice",
+    "id": 225,
+    "question": "Why does the PDF say clients should consider more than just the initial premium?",
+    "answers": [
+      "Because premiums may increase over time depending on the product",
+      "Because premiums never change in any product",
+      "Because premiums do not matter",
+      "Because all policies are free after issue"
+    ],
+    "correct": 0,
+    "correctExplanation": "The PDF says clients should consider not only the initial premium but any possible premium increases over time.",
+    "wrongExplanations": [
+      {
+        "answer": "Because premiums never change in any product",
+        "explanation": "Some products have possible premium increases or funding changes."
+      },
+      {
+        "answer": "Because premiums do not matter",
+        "explanation": "Affordability is part of the insurance buying process."
+      },
+      {
+        "answer": "Because all policies are free after issue",
+        "explanation": "The PDF does not say this."
+      }
+    ]
+  },
+  {
+    "chapter": 2,
+    "chapterTitle": "Protection Solutions",
+    "category": "Things to Consider",
+    "difficulty": "medium",
+    "questionType": "multiple-choice",
+    "id": 226,
+    "question": "Why does the PDF warn that buying long-term life insurance requires commitment?",
+    "answers": [
+      "It may be very costly if the client stops during the early years of the policy",
+      "It never requires premiums",
+      "It can only be held for 1 year",
+      "It cannot provide long-term protection"
+    ],
+    "correct": 0,
+    "correctExplanation": "The PDF says clients should buy long-term life insurance only if they intend to stick with their plans because stopping during the early years may be costly.",
+    "wrongExplanations": [
+      {
+        "answer": "It never requires premiums",
+        "explanation": "Long-term life insurance requires premium funding."
+      },
+      {
+        "answer": "It can only be held for 1 year",
+        "explanation": "Long-term life insurance is designed for long-term protection."
+      },
+      {
+        "answer": "It cannot provide long-term protection",
+        "explanation": "That contradicts the purpose of long-term life insurance."
+      }
+    ]
+  },
+  {
+    "chapter": 2,
+    "chapterTitle": "Protection Solutions",
+    "category": "Things to Consider",
+    "difficulty": "hard",
+    "questionType": "multiple-choice",
+    "id": 227,
+    "question": "Why should replacing insurance coverage be reviewed carefully?",
+    "answers": [
+      "It may be costly and the client may lose some benefits",
+      "Replacement is always the best choice",
+      "Older policies never have value",
+      "New policies never require underwriting"
+    ],
+    "correct": 0,
+    "correctExplanation": "The PDF says replacing coverage may be costly and may cause the client to lose benefits, so both the old and new policy should be reviewed carefully.",
+    "wrongExplanations": [
+      {
+        "answer": "Replacement is always the best choice",
+        "explanation": "The PDF does not say replacement is always best."
+      },
+      {
+        "answer": "Older policies never have value",
+        "explanation": "Existing policies may contain valuable benefits or guarantees."
+      },
+      {
+        "answer": "New policies never require underwriting",
+        "explanation": "The PDF discusses underwriting requirements for some protection products."
+      }
+    ]
+  },
+  {
+    "chapter": 2,
+    "chapterTitle": "Protection Solutions",
+    "category": "Client Matching",
+    "difficulty": "hard",
+    "questionType": "multiple-choice",
+    "id": 228,
+    "question": "A client wants affordable protection for a limited period while their children are young. Which product best matches that need?",
+    "answers": [
+      "Term life",
+      "Whole life",
+      "Variable universal life",
+      "Individual Disability Insurance"
+    ],
+    "correct": 0,
+    "correctExplanation": "Term life is designed for temporary protection and may allow more affordable coverage during limited high-need years.",
+    "wrongExplanations": [
+      {
+        "answer": "Whole life",
+        "explanation": "Whole life is long-term coverage with cash value and often higher initial premiums."
+      },
+      {
+        "answer": "Variable universal life",
+        "explanation": "Variable universal life adds investment options and market risk, which is not the cleanest match for simple temporary protection."
+      },
+      {
+        "answer": "Individual Disability Insurance",
+        "explanation": "Individual Disability Insurance protects income from disability, not death benefit needs for a limited period."
+      }
+    ]
+  },
+  {
+    "chapter": 2,
+    "chapterTitle": "Protection Solutions",
+    "category": "Client Matching",
+    "difficulty": "hard",
+    "questionType": "multiple-choice",
+    "id": 229,
+    "question": "A client wants lifetime protection, fixed level premiums, cash value growth, and potential dividends. Which product best matches that need?",
+    "answers": [
+      "Whole life",
+      "Term life",
+      "Universal life",
+      "Individual Disability Insurance"
+    ],
+    "correct": 0,
+    "correctExplanation": "Whole life fits because the PDF describes it as lifetime protection with fixed level premiums, guaranteed cash value growth, and dividend eligibility.",
+    "wrongExplanations": [
+      {
+        "answer": "Term life",
+        "explanation": "Term life is temporary and does not provide cash value accumulation."
+      },
+      {
+        "answer": "Universal life",
+        "explanation": "Universal life has adjustable premiums and fewer guarantees than whole life."
+      },
+      {
+        "answer": "Individual Disability Insurance",
+        "explanation": "Individual Disability Insurance protects against income loss due to disability."
+      }
+    ]
+  },
+  {
+    "chapter": 2,
+    "chapterTitle": "Protection Solutions",
+    "category": "Client Matching",
+    "difficulty": "hard",
+    "questionType": "multiple-choice",
+    "id": 230,
+    "question": "A client wants long-term life insurance with adjustable premiums and understands that active monitoring is required. Which product best matches that need?",
+    "answers": [
+      "Universal life",
+      "Term life",
+      "Whole life",
+      "Individual Disability Insurance"
+    ],
+    "correct": 0,
+    "correctExplanation": "Universal life fits because the PDF describes adjustable premiums and the need to monitor the policy to ensure it continues meeting the client's goals.",
+    "wrongExplanations": [
+      {
+        "answer": "Term life",
+        "explanation": "Term life is temporary protection, not adjustable-premium long-term life insurance."
+      },
+      {
+        "answer": "Whole life",
+        "explanation": "Whole life emphasizes fixed level premiums rather than adjustable premiums."
+      },
+      {
+        "answer": "Individual Disability Insurance",
+        "explanation": "Individual Disability Insurance is for income loss from sickness or injury."
+      }
+    ]
+  },
+  {
+    "chapter": 2,
+    "chapterTitle": "Protection Solutions",
+    "category": "Hard Ass Question",
+    "difficulty": "boss",
+    "questionType": "multiple-choice",
+    "id": 231,
+    "question": "Hard ass question: A client wants cheap protection now, lifetime security later, no market risk, and guaranteed cash value growth. Based strictly on the PDF, what is the strongest advisor-level interpretation?",
+    "answers": [
+      "Start by recognizing term life may solve the cheap temporary need, while whole life better matches lifetime security and guaranteed cash value growth",
+      "Recommend variable universal life immediately because market risk is required for all protection products",
+      "Recommend only Individual Disability Insurance because it replaces all life insurance needs",
+      "Recommend universal life because adjustable premiums automatically guarantee cash value growth"
+    ],
+    "correct": 0,
+    "correctExplanation": "This answer correctly separates the client's conflicting needs. Term life fits cheap temporary protection. Whole life fits lifetime protection, fixed premiums, guaranteed cash value growth, and no market participation.",
+    "wrongExplanations": [
+      {
+        "answer": "Recommend variable universal life immediately because market risk is required for all protection products",
+        "explanation": "The PDF says variable universal life has market risk, but not all protection products require market risk."
+      },
+      {
+        "answer": "Recommend only Individual Disability Insurance because it replaces all life insurance needs",
+        "explanation": "Individual Disability Insurance protects income from disability. It does not replace life insurance death benefit planning."
+      },
+      {
+        "answer": "Recommend universal life because adjustable premiums automatically guarantee cash value growth",
+        "explanation": "The PDF says universal life has adjustable premiums and potential cash value, but it requires monitoring and does not guarantee cash value accumulation the same way whole life does."
+      }
+    ]
+  }
+]
