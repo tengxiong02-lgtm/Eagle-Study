@@ -12,9 +12,11 @@ let wrongAnswers = [];
   2. questions-product.json
 */
 
-async function loadQuizData(type) {
+async function loadQuizData(type, chapterNumber) {
 
-  const possibleFiles =
+  const chapterFileName = `chapter-${chapterNumber}.json`;
+
+  const legacyFiles =
     type === "product"
       ? [
           "./data/questions-product.json",
@@ -24,6 +26,12 @@ async function loadQuizData(type) {
           "./data/questions-strategy.json",
           "questions-strategy.json"
         ];
+
+  const possibleFiles = [
+    `./data/${chapterFileName}`,
+    chapterFileName,
+    ...legacyFiles
+  ];
 
   let lastError = null;
 
@@ -63,7 +71,7 @@ async function startChapter(type, chapterNumber) {
 
   try {
 
-    allQuestions = await loadQuizData(type);
+    allQuestions = await loadQuizData(type, chapterNumber);
 
   } catch (error) {
 
