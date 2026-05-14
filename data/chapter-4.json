@@ -1,0 +1,963 @@
+[
+  {
+    "chapter": 4,
+    "chapterTitle": "Wealth Accumulation",
+    "category": "Investment Strategy Purpose",
+    "difficulty": "easy",
+    "questionType": "multiple-choice",
+    "id": 1,
+    "question": "What is the main purpose of having a sound investment strategy according to the Wealth Accumulation section?",
+    "answers": [
+      "To avoid all financial risk permanently",
+      "To address retirement, education, estate, and legacy goals",
+      "To replace insurance protection with market investing",
+      "To guarantee the highest possible investment return"
+    ],
+    "correct": 1,
+    "correctExplanation": "A sound investment strategy is meant to help address long-term goals such as retirement, education, estate planning, and legacy planning.",
+    "wrongExplanations": [
+      {
+        "answer": "To avoid all financial risk permanently",
+        "explanation": "This is wrong because the PDF does not say investment strategy eliminates risk. Some products involve market risk."
+      },
+      {
+        "answer": "To replace insurance protection with market investing",
+        "explanation": "This is wrong because wealth accumulation is part of the broader plan, not a replacement for protection."
+      },
+      {
+        "answer": "To guarantee the highest possible investment return",
+        "explanation": "This is wrong because the PDF focuses on matching strategy to goals, risk tolerance, time horizon, income, and asset needs, not chasing the highest return."
+      }
+    ]
+  },
+  {
+    "chapter": 4,
+    "chapterTitle": "Wealth Accumulation",
+    "category": "Selection Process",
+    "difficulty": "easy",
+    "questionType": "multiple-choice",
+    "id": 2,
+    "question": "Which factor should be considered when selecting wealth accumulation programs?",
+    "answers": [
+      "Only the current interest rate",
+      "Only the advisor's preferred product",
+      "Goals, risk tolerance, time horizon, income, and asset level requirements",
+      "Only whether the product has market participation"
+    ],
+    "correct": 2,
+    "correctExplanation": "The PDF says the selection process should consider goals, risk tolerance, time horizon, income, and asset level requirements before choosing the right combination of programs.",
+    "wrongExplanations": [
+      {
+        "answer": "Only the current interest rate",
+        "explanation": "This is too narrow. Interest rate may matter for some products, but the PDF uses a broader planning framework."
+      },
+      {
+        "answer": "Only the advisor's preferred product",
+        "explanation": "This is wrong because the plan should be based on the client's needs and circumstances."
+      },
+      {
+        "answer": "Only whether the product has market participation",
+        "explanation": "This is wrong because market participation is only one feature. The product must fit the client's full profile."
+      }
+    ]
+  },
+  {
+    "chapter": 4,
+    "chapterTitle": "Wealth Accumulation",
+    "category": "Fixed Annuities",
+    "difficulty": "easy",
+    "questionType": "multiple-choice",
+    "id": 3,
+    "question": "What does a fixed annuity primarily offer for wealth accumulation?",
+    "answers": [
+      "A guaranteed fixed rate of interest",
+      "Unlimited stock market upside with no downside",
+      "Short-term cash access with no restrictions",
+      "Dividend payments every year"
+    ],
+    "correct": 0,
+    "correctExplanation": "A fixed annuity helps grow money through a guaranteed, fixed rate of interest.",
+    "wrongExplanations": [
+      {
+        "answer": "Unlimited stock market upside with no downside",
+        "explanation": "This is wrong because fixed annuities do not provide equity market growth potential."
+      },
+      {
+        "answer": "Short-term cash access with no restrictions",
+        "explanation": "This is wrong because withdrawals may be subject to surrender charges and market value adjustments."
+      },
+      {
+        "answer": "Dividend payments every year",
+        "explanation": "This is wrong because the fixed annuity section does not describe dividend eligibility as its core feature."
+      }
+    ]
+  },
+  {
+    "chapter": 4,
+    "chapterTitle": "Wealth Accumulation",
+    "category": "Fixed Annuities",
+    "difficulty": "medium",
+    "questionType": "multiple-choice",
+    "id": 4,
+    "question": "Why might a fixed annuity fit someone seeking a long-term low-risk retirement solution?",
+    "answers": [
+      "It is designed for aggressive short-term trading",
+      "It provides guaranteed interest growth and tax-deferred earnings until withdrawal",
+      "It guarantees market gains every year",
+      "It eliminates all taxes on withdrawals"
+    ],
+    "correct": 1,
+    "correctExplanation": "Fixed annuities can grow savings with a guaranteed fixed interest rate, and earnings are not taxed until money is withdrawn.",
+    "wrongExplanations": [
+      {
+        "answer": "It is designed for aggressive short-term trading",
+        "explanation": "This is wrong because fixed annuities are presented as long-term, low-risk retirement solutions."
+      },
+      {
+        "answer": "It guarantees market gains every year",
+        "explanation": "This is wrong because fixed annuities do not rely on market participation for growth."
+      },
+      {
+        "answer": "It eliminates all taxes on withdrawals",
+        "explanation": "This is wrong because the PDF says taxes are deferred until withdrawal, not eliminated."
+      }
+    ]
+  },
+  {
+    "chapter": 4,
+    "chapterTitle": "Wealth Accumulation",
+    "category": "Fixed Annuities",
+    "difficulty": "medium",
+    "questionType": "multiple-choice",
+    "id": 5,
+    "question": "What is one possible disadvantage of a fixed annuity compared with equity market-related investments?",
+    "answers": [
+      "It has no guaranteed rate",
+      "It may provide lower returns than equity market-related investments",
+      "It requires active trading by the owner",
+      "It always loses value when the market rises"
+    ],
+    "correct": 1,
+    "correctExplanation": "The PDF explains that fixed annuity returns may be lower than returns available through equity market-related investments.",
+    "wrongExplanations": [
+      {
+        "answer": "It has no guaranteed rate",
+        "explanation": "This is wrong because a fixed annuity offers a guaranteed fixed rate of interest."
+      },
+      {
+        "answer": "It requires active trading by the owner",
+        "explanation": "This is wrong because fixed annuities are not described as trading accounts."
+      },
+      {
+        "answer": "It always loses value when the market rises",
+        "explanation": "This is wrong because the PDF does not say fixed annuities lose value when markets rise. It says they may have lower upside."
+      }
+    ]
+  },
+  {
+    "chapter": 4,
+    "chapterTitle": "Wealth Accumulation",
+    "category": "Fixed Annuities",
+    "difficulty": "medium",
+    "questionType": "multiple-choice",
+    "id": 6,
+    "question": "What does the market value adjustment feature do in some fixed annuities?",
+    "answers": [
+      "It guarantees stock market returns",
+      "It can add or deduct value during certain withdrawals or surrender periods based on interest rate conditions",
+      "It removes all surrender charges permanently",
+      "It converts the annuity into a brokerage account"
+    ],
+    "correct": 1,
+    "correctExplanation": "A market value adjustment can add or deduct an amount during surrender or withdrawals above the free amount during the surrender charge period.",
+    "wrongExplanations": [
+      {
+        "answer": "It guarantees stock market returns",
+        "explanation": "This is wrong because the MVA is tied to interest rate risk, not guaranteed equity market returns."
+      },
+      {
+        "answer": "It removes all surrender charges permanently",
+        "explanation": "This is wrong because surrender charges may still apply."
+      },
+      {
+        "answer": "It converts the annuity into a brokerage account",
+        "explanation": "This is wrong because an MVA is a contract feature, not a conversion to another account type."
+      }
+    ]
+  },
+  {
+    "chapter": 4,
+    "chapterTitle": "Wealth Accumulation",
+    "category": "Fixed Annuities",
+    "difficulty": "medium",
+    "questionType": "multiple-choice",
+    "id": 7,
+    "question": "How are renewal rates described for most fixed annuity products?",
+    "answers": [
+      "They will always be higher than the initial rate",
+      "They are received on the policy anniversary after the initial interest rate guarantee period and will not be below the guaranteed minimum interest rate",
+      "They are based only on stock market performance",
+      "They disappear after the first year"
+    ],
+    "correct": 1,
+    "correctExplanation": "The PDF states that most fixed annuity products receive a renewal rate on the policy anniversary after the initial guarantee period, and renewal rates will never be less than the guaranteed minimum interest rate.",
+    "wrongExplanations": [
+      {
+        "answer": "They will always be higher than the initial rate",
+        "explanation": "This is wrong because the PDF says the renewal rate may be lower than the initial rate."
+      },
+      {
+        "answer": "They are based only on stock market performance",
+        "explanation": "This is wrong because fixed annuities are not presented as market participation products."
+      },
+      {
+        "answer": "They disappear after the first year",
+        "explanation": "This is wrong because renewal rates can apply after the initial interest rate guarantee period."
+      }
+    ]
+  },
+  {
+    "chapter": 4,
+    "chapterTitle": "Wealth Accumulation",
+    "category": "Variable Annuities",
+    "difficulty": "easy",
+    "questionType": "multiple-choice",
+    "id": 8,
+    "question": "What is a key reason someone may consider a variable annuity?",
+    "answers": [
+      "They want access to financial markets and growth potential through investment options",
+      "They want no market risk in any account",
+      "They want guaranteed dividends every year",
+      "They want a product with no fees or restrictions"
+    ],
+    "correct": 0,
+    "correctExplanation": "Variable annuities offer access to financial markets and growth potential through a wide choice of investment options.",
+    "wrongExplanations": [
+      {
+        "answer": "They want no market risk in any account",
+        "explanation": "This is wrong because returns are subject to market risk and can fluctuate."
+      },
+      {
+        "answer": "They want guaranteed dividends every year",
+        "explanation": "This is wrong because variable annuities are not described as dividend eligible products."
+      },
+      {
+        "answer": "They want a product with no fees or restrictions",
+        "explanation": "This is wrong because the PDF states that fees, expenses, limitations, restrictions, and risks apply."
+      }
+    ]
+  },
+  {
+    "chapter": 4,
+    "chapterTitle": "Wealth Accumulation",
+    "category": "Variable Annuities",
+    "difficulty": "medium",
+    "questionType": "multiple-choice",
+    "id": 9,
+    "question": "What makes variable annuities different from fixed annuities in terms of growth potential?",
+    "answers": [
+      "Variable annuities use market-linked investment options while fixed annuities offer a fixed rate of return",
+      "Variable annuities have no investment risk while fixed annuities have market risk",
+      "Variable annuities never charge fees while fixed annuities always do",
+      "Variable annuities are only for immediate income while fixed annuities are only for legacy planning"
+    ],
+    "correct": 0,
+    "correctExplanation": "Variable annuities provide access to market-based investment options, while fixed annuities focus on guaranteed fixed interest growth.",
+    "wrongExplanations": [
+      {
+        "answer": "Variable annuities have no investment risk while fixed annuities have market risk",
+        "explanation": "This is reversed. Variable annuity returns are subject to market risk."
+      },
+      {
+        "answer": "Variable annuities never charge fees while fixed annuities always do",
+        "explanation": "This is wrong because variable annuities can have fees, expenses, limitations, and restrictions."
+      },
+      {
+        "answer": "Variable annuities are only for immediate income while fixed annuities are only for legacy planning",
+        "explanation": "This is wrong because both are discussed under wealth accumulation, and variable annuities can also support legacy protection."
+      }
+    ]
+  },
+  {
+    "chapter": 4,
+    "chapterTitle": "Wealth Accumulation",
+    "category": "Variable Annuities",
+    "difficulty": "medium",
+    "questionType": "multiple-choice",
+    "id": 10,
+    "question": "What type of investment access do variable annuities offer?",
+    "answers": [
+      "Only one fixed account with no alternatives",
+      "A wide array of investment options across asset classes, investment philosophies, and geography",
+      "Only direct ownership of individual real estate properties",
+      "Only bank CDs"
+    ],
+    "correct": 1,
+    "correctExplanation": "The PDF says variable annuities offer a wide array of investment options that provide diversification across asset classes, investment philosophy, and geography.",
+    "wrongExplanations": [
+      {
+        "answer": "Only one fixed account with no alternatives",
+        "explanation": "This is wrong because variable annuities offer multiple investment options."
+      },
+      {
+        "answer": "Only direct ownership of individual real estate properties",
+        "explanation": "This is wrong because the PDF does not describe variable annuities as direct real estate ownership."
+      },
+      {
+        "answer": "Only bank CDs",
+        "explanation": "This is wrong because variable annuities are not bank CD products."
+      }
+    ]
+  },
+  {
+    "chapter": 4,
+    "chapterTitle": "Wealth Accumulation",
+    "category": "Variable Annuities",
+    "difficulty": "medium",
+    "questionType": "multiple-choice",
+    "id": 11,
+    "question": "What happens to returns from variable annuity investment options?",
+    "answers": [
+      "They are guaranteed never to go down",
+      "They are subject to market risk and will fluctuate in value",
+      "They are fixed by the insurance company forever",
+      "They only increase when interest rates fall"
+    ],
+    "correct": 1,
+    "correctExplanation": "The PDF clearly states that returns from variable annuity investment options are subject to market risk and fluctuate in value.",
+    "wrongExplanations": [
+      {
+        "answer": "They are guaranteed never to go down",
+        "explanation": "This is wrong because gains and losses are possible."
+      },
+      {
+        "answer": "They are fixed by the insurance company forever",
+        "explanation": "This is wrong because variable annuity investment values can move with market conditions."
+      },
+      {
+        "answer": "They only increase when interest rates fall",
+        "explanation": "This is wrong because variable annuity returns are tied to investment performance, not only interest-rate movement."
+      }
+    ]
+  },
+  {
+    "chapter": 4,
+    "chapterTitle": "Wealth Accumulation",
+    "category": "Variable Annuities",
+    "difficulty": "medium",
+    "questionType": "multiple-choice",
+    "id": 12,
+    "question": "What is one legacy-related feature available with variable annuities?",
+    "answers": [
+      "The ability to purchase enhanced legacy protection",
+      "A guarantee that heirs pay no tax of any kind",
+      "Automatic dividend eligibility",
+      "A required liquidation of all assets at age 59 1/2"
+    ],
+    "correct": 0,
+    "correctExplanation": "Variable annuities can offer the ability to purchase enhanced legacy protection, including death benefit protection for beneficiaries unless the policy is annuitized.",
+    "wrongExplanations": [
+      {
+        "answer": "A guarantee that heirs pay no tax of any kind",
+        "explanation": "This is wrong because the PDF does not make that broad tax guarantee."
+      },
+      {
+        "answer": "Automatic dividend eligibility",
+        "explanation": "This is wrong because dividend eligibility is not a listed feature of variable annuities in this section."
+      },
+      {
+        "answer": "A required liquidation of all assets at age 59 1/2",
+        "explanation": "This is wrong because the PDF does not say variable annuities must be liquidated at that age."
+      }
+    ]
+  },
+  {
+    "chapter": 4,
+    "chapterTitle": "Wealth Accumulation",
+    "category": "Variable Annuities",
+    "difficulty": "medium",
+    "questionType": "multiple-choice",
+    "id": 13,
+    "question": "What can happen if a variable annuity is annuitized?",
+    "answers": [
+      "The accumulated value can be converted into a stream of income guaranteed for life",
+      "All market risk disappears retroactively",
+      "The owner receives guaranteed dividends",
+      "The product becomes a term life policy"
+    ],
+    "correct": 0,
+    "correctExplanation": "The PDF says that if the policy is annuitized, the accumulated value is converted into a stream of income that is guaranteed for life.",
+    "wrongExplanations": [
+      {
+        "answer": "All market risk disappears retroactively",
+        "explanation": "This is wrong because the PDF does not describe annuitization as eliminating past market risk."
+      },
+      {
+        "answer": "The owner receives guaranteed dividends",
+        "explanation": "This is wrong because dividends are not described as a variable annuity feature."
+      },
+      {
+        "answer": "The product becomes a term life policy",
+        "explanation": "This is wrong because annuitization converts annuity value into income, not life insurance."
+      }
+    ]
+  },
+  {
+    "chapter": 4,
+    "chapterTitle": "Wealth Accumulation",
+    "category": "Variable Annuities",
+    "difficulty": "medium",
+    "questionType": "multiple-choice",
+    "id": 14,
+    "question": "What should clients understand about variable annuity riders and guarantees?",
+    "answers": [
+      "Riders and guarantees may involve fees, expenses, limitations, restrictions, and risks",
+      "All riders are free and have no limits",
+      "All guarantees apply directly to market investment performance",
+      "Riders remove the need to review the policy"
+    ],
+    "correct": 0,
+    "correctExplanation": "The PDF emphasizes that fees, expenses, limitations, restrictions, and risks should be carefully considered before investing.",
+    "wrongExplanations": [
+      {
+        "answer": "All riders are free and have no limits",
+        "explanation": "This is wrong because riders can have charges, limitations, and restrictions."
+      },
+      {
+        "answer": "All guarantees apply directly to market investment performance",
+        "explanation": "This is wrong because guarantees are generally tied to the claims-paying ability of the insurer and do not eliminate underlying investment risk."
+      },
+      {
+        "answer": "Riders remove the need to review the policy",
+        "explanation": "This is wrong because the PDF repeatedly emphasizes careful review and professional guidance."
+      }
+    ]
+  },
+  {
+    "chapter": 4,
+    "chapterTitle": "Wealth Accumulation",
+    "category": "Investment Protection",
+    "difficulty": "easy",
+    "questionType": "multiple-choice",
+    "id": 15,
+    "question": "What is the main purpose of variable annuities with investment protection?",
+    "answers": [
+      "To combine market growth potential with principal protection features",
+      "To guarantee daily stock market gains",
+      "To remove every fee from the product",
+      "To provide only temporary life insurance"
+    ],
+    "correct": 0,
+    "correctExplanation": "Variable annuities with investment protection are presented as a solution for clients who want market growth potential with principal protection.",
+    "wrongExplanations": [
+      {
+        "answer": "To guarantee daily stock market gains",
+        "explanation": "This is wrong because the PDF says the protection rider does not protect against day-to-day market fluctuations."
+      },
+      {
+        "answer": "To remove every fee from the product",
+        "explanation": "This is wrong because investment protection can involve additional fees and restrictions."
+      },
+      {
+        "answer": "To provide only temporary life insurance",
+        "explanation": "This is wrong because this product is an annuity for wealth accumulation, not term life insurance."
+      }
+    ]
+  },
+  {
+    "chapter": 4,
+    "chapterTitle": "Wealth Accumulation",
+    "category": "Investment Protection",
+    "difficulty": "medium",
+    "questionType": "multiple-choice",
+    "id": 16,
+    "question": "How does the optional investment protection rider protect the initial investment?",
+    "answers": [
+      "It protects 100% of the initial investment after the required holding period if the account value is lower than the amount invested",
+      "It protects only daily gains and ignores losses",
+      "It protects the owner only during the first month",
+      "It protects only money invested after the holding period ends"
+    ],
+    "correct": 0,
+    "correctExplanation": "The rider can protect 100% of the money initially invested after the holding period by adding an amount to restore the guaranteed amount if the account value is lower.",
+    "wrongExplanations": [
+      {
+        "answer": "It protects only daily gains and ignores losses",
+        "explanation": "This is wrong because the rider does not protect against day-to-day fluctuations."
+      },
+      {
+        "answer": "It protects the owner only during the first month",
+        "explanation": "This is wrong because the protection depends on completing the required holding period."
+      },
+      {
+        "answer": "It protects only money invested after the holding period ends",
+        "explanation": "This is wrong because the PDF describes protection on the money initially invested when the rider is elected."
+      }
+    ]
+  },
+  {
+    "chapter": 4,
+    "chapterTitle": "Wealth Accumulation",
+    "category": "Investment Protection",
+    "difficulty": "medium",
+    "questionType": "multiple-choice",
+    "id": 17,
+    "question": "What does the investment protection rider allow an investor to do with market gains?",
+    "answers": [
+      "Lock in market gains according to the rider rules",
+      "Turn all gains into guaranteed dividends",
+      "Avoid all surrender charges forever",
+      "Use gains to buy term life automatically"
+    ],
+    "correct": 0,
+    "correctExplanation": "The PDF says the optional investment protection rider allows the investor to lock in market gains.",
+    "wrongExplanations": [
+      {
+        "answer": "Turn all gains into guaranteed dividends",
+        "explanation": "This is wrong because dividends are not described as part of the investment protection rider."
+      },
+      {
+        "answer": "Avoid all surrender charges forever",
+        "explanation": "This is wrong because surrender charges may still apply."
+      },
+      {
+        "answer": "Use gains to buy term life automatically",
+        "explanation": "This is wrong because the rider is connected to investment protection inside a variable annuity, not automatic term life purchases."
+      }
+    ]
+  },
+  {
+    "chapter": 4,
+    "chapterTitle": "Wealth Accumulation",
+    "category": "Index-Linked Account",
+    "difficulty": "medium",
+    "questionType": "multiple-choice",
+    "id": 18,
+    "question": "What is a key feature of the index-linked account option described in the PDF?",
+    "answers": [
+      "Amounts allocated to it will not lose value due to market fluctuation",
+      "It guarantees the highest return in the stock market",
+      "It has unlimited index credits every year",
+      "It removes all product fees"
+    ],
+    "correct": 0,
+    "correctExplanation": "The PDF says the index-linked account will not lose value due to market fluctuation, though index-linked credits are not guaranteed and could be $0.",
+    "wrongExplanations": [
+      {
+        "answer": "It guarantees the highest return in the stock market",
+        "explanation": "This is wrong because index-linked credits are not guaranteed and could be $0."
+      },
+      {
+        "answer": "It has unlimited index credits every year",
+        "explanation": "This is wrong because the PDF does not describe unlimited credits."
+      },
+      {
+        "answer": "It removes all product fees",
+        "explanation": "This is wrong because fees, expenses, limitations, and restrictions can still apply."
+      }
+    ]
+  },
+  {
+    "chapter": 4,
+    "chapterTitle": "Wealth Accumulation",
+    "category": "Index-Linked Account",
+    "difficulty": "hard",
+    "questionType": "multiple-choice",
+    "id": 19,
+    "question": "Which statement best explains the tradeoff of the index-linked account option?",
+    "answers": [
+      "It can prevent loss from market fluctuation, but index-linked credits are not guaranteed and could be $0",
+      "It guarantees full stock market participation with no limits",
+      "It removes all surrender charges in exchange for lower fees",
+      "It creates dividend eligibility in exchange for no liquidity"
+    ],
+    "correct": 0,
+    "correctExplanation": "The strategic tradeoff is downside protection from market fluctuation, paired with the possibility that index-linked credits may be $0.",
+    "wrongExplanations": [
+      {
+        "answer": "It guarantees full stock market participation with no limits",
+        "explanation": "This is wrong because credits are not guaranteed and the PDF does not say participation is unlimited."
+      },
+      {
+        "answer": "It removes all surrender charges in exchange for lower fees",
+        "explanation": "This is wrong because surrender charges may still apply during the surrender charge period."
+      },
+      {
+        "answer": "It creates dividend eligibility in exchange for no liquidity",
+        "explanation": "This is wrong because dividend eligibility is not a feature listed for this account."
+      }
+    ]
+  },
+  {
+    "chapter": 4,
+    "chapterTitle": "Wealth Accumulation",
+    "category": "Surrender Charges",
+    "difficulty": "medium",
+    "questionType": "multiple-choice",
+    "id": 20,
+    "question": "What should a client understand about surrender charges on variable annuities with investment protection?",
+    "answers": [
+      "Surrender charges may apply during a surrender charge period if the policy is surrendered or withdrawals exceed certain amounts",
+      "Surrender charges never apply to any variable annuity",
+      "Surrender charges only apply to term life insurance",
+      "Surrender charges are always paid by the advisor"
+    ],
+    "correct": 0,
+    "correctExplanation": "The PDF states that surrender charges may apply during the surrender charge period if the policy is surrendered or if withdrawals exceed certain amounts.",
+    "wrongExplanations": [
+      {
+        "answer": "Surrender charges never apply to any variable annuity",
+        "explanation": "This is wrong because the PDF specifically says surrender charges may apply."
+      },
+      {
+        "answer": "Surrender charges only apply to term life insurance",
+        "explanation": "This is wrong because surrender charges are discussed in the annuity sections."
+      },
+      {
+        "answer": "Surrender charges are always paid by the advisor",
+        "explanation": "This is wrong because the PDF discusses them as charges connected to the policy and withdrawals."
+      }
+    ]
+  },
+  {
+    "chapter": 4,
+    "chapterTitle": "Wealth Accumulation",
+    "category": "Liquidity",
+    "difficulty": "medium",
+    "questionType": "multiple-choice",
+    "id": 21,
+    "question": "What does the Wealth Accumulation comparison show about liquidity across the annuity products?",
+    "answers": [
+      "Liquidity exists, but access may be limited or affected by product rules, fees, surrender charges, or restrictions",
+      "All products have unlimited penalty-free liquidity",
+      "No wealth accumulation product offers any access to money",
+      "Liquidity is only available after death"
+    ],
+    "correct": 0,
+    "correctExplanation": "The comparison shows liquidity as a feature, but the product descriptions explain that withdrawals and access may be subject to rules, taxes, surrender charges, fees, and restrictions.",
+    "wrongExplanations": [
+      {
+        "answer": "All products have unlimited penalty-free liquidity",
+        "explanation": "This is wrong because the PDF describes surrender charges, taxes, fees, and restrictions."
+      },
+      {
+        "answer": "No wealth accumulation product offers any access to money",
+        "explanation": "This is wrong because fixed and variable annuity sections both describe some access to money."
+      },
+      {
+        "answer": "Liquidity is only available after death",
+        "explanation": "This is wrong because the PDF discusses access to money while the owner is alive."
+      }
+    ]
+  },
+  {
+    "chapter": 4,
+    "chapterTitle": "Wealth Accumulation",
+    "category": "Product Comparison",
+    "difficulty": "medium",
+    "questionType": "multiple-choice",
+    "id": 22,
+    "question": "Which wealth accumulation product is most directly connected with no market risk?",
+    "answers": [
+      "Fixed annuity",
+      "Variable annuity",
+      "Variable annuity with investment protection rider only",
+      "Advisory variable annuity"
+    ],
+    "correct": 0,
+    "correctExplanation": "The fixed annuity is most directly connected to no market risk because it offers a fixed rate of return rather than market participation.",
+    "wrongExplanations": [
+      {
+        "answer": "Variable annuity",
+        "explanation": "This is wrong because variable annuities are subject to market risk."
+      },
+      {
+        "answer": "Variable annuity with investment protection rider only",
+        "explanation": "This is not the best answer because investment protection can reduce specific downside outcomes, but variable annuity returns are still tied to market risk and product rules."
+      },
+      {
+        "answer": "Advisory variable annuity",
+        "explanation": "This is wrong because advisory variable annuities still involve market participation and risk."
+      }
+    ]
+  },
+  {
+    "chapter": 4,
+    "chapterTitle": "Wealth Accumulation",
+    "category": "Product Comparison",
+    "difficulty": "medium",
+    "questionType": "multiple-choice",
+    "id": 23,
+    "question": "Which product type best fits a client who wants market participation and is willing to accept fluctuating value?",
+    "answers": [
+      "Fixed annuity",
+      "Variable annuity",
+      "Fixed period income annuity",
+      "Term life insurance"
+    ],
+    "correct": 1,
+    "correctExplanation": "A variable annuity fits market participation because it offers investment options whose values fluctuate with market conditions.",
+    "wrongExplanations": [
+      {
+        "answer": "Fixed annuity",
+        "explanation": "This is wrong because fixed annuities offer fixed interest growth, not full market participation."
+      },
+      {
+        "answer": "Fixed period income annuity",
+        "explanation": "This is wrong because that product is focused on guaranteed income for a specific period, not wealth accumulation through markets."
+      },
+      {
+        "answer": "Term life insurance",
+        "explanation": "This is wrong because term life provides temporary protection, not market-based wealth accumulation."
+      }
+    ]
+  },
+  {
+    "chapter": 4,
+    "chapterTitle": "Wealth Accumulation",
+    "category": "Product Comparison",
+    "difficulty": "hard",
+    "questionType": "multiple-choice",
+    "id": 24,
+    "question": "A client wants low-risk growth, tax-deferred earnings, and does not need equity market upside. Which product aligns best?",
+    "answers": [
+      "Fixed annuity",
+      "Variable annuity with no investment protection",
+      "Variable universal life",
+      "Brokerage account"
+    ],
+    "correct": 0,
+    "correctExplanation": "A fixed annuity best aligns because it offers guaranteed fixed interest growth, tax-deferred earnings until withdrawal, and no market risk.",
+    "wrongExplanations": [
+      {
+        "answer": "Variable annuity with no investment protection",
+        "explanation": "This is wrong because it involves market risk and fluctuating values."
+      },
+      {
+        "answer": "Variable universal life",
+        "explanation": "This is wrong because it is a life insurance product with market participation, not the fixed annuity solution described in wealth accumulation."
+      },
+      {
+        "answer": "Brokerage account",
+        "explanation": "This is wrong because a brokerage account generally involves market exposure and does not match the low-risk guaranteed fixed interest profile."
+      }
+    ]
+  },
+  {
+    "chapter": 4,
+    "chapterTitle": "Wealth Accumulation",
+    "category": "Product Comparison",
+    "difficulty": "hard",
+    "questionType": "multiple-choice",
+    "id": 25,
+    "question": "A client wants market growth potential but is nervous about losing the original investment after a required holding period. Which solution best fits?",
+    "answers": [
+      "Fixed annuity only",
+      "Variable annuity with investment protection",
+      "Fixed period income annuity",
+      "Individual disability insurance"
+    ],
+    "correct": 1,
+    "correctExplanation": "A variable annuity with investment protection best fits because it combines market growth potential with a rider that can protect 100% of the initial investment after the required holding period.",
+    "wrongExplanations": [
+      {
+        "answer": "Fixed annuity only",
+        "explanation": "This is wrong because it does not provide the same market growth potential."
+      },
+      {
+        "answer": "Fixed period income annuity",
+        "explanation": "This is wrong because it is designed for guaranteed income for a specified period, not market growth with principal protection."
+      },
+      {
+        "answer": "Individual disability insurance",
+        "explanation": "This is wrong because IDI protects income from disability, not investment principal."
+      }
+    ]
+  },
+  {
+    "chapter": 4,
+    "chapterTitle": "Wealth Accumulation",
+    "category": "Additional Premiums",
+    "difficulty": "medium",
+    "questionType": "multiple-choice",
+    "id": 26,
+    "question": "What does the wealth accumulation comparison note about additional premiums when the optional investment protection rider is selected?",
+    "answers": [
+      "Premiums are only accepted within the first 12 months of the policy",
+      "Premiums can be added without limit forever",
+      "Additional premiums are never accepted for any annuity product",
+      "Additional premiums automatically remove surrender charges"
+    ],
+    "correct": 0,
+    "correctExplanation": "The comparison footnote says premiums are only accepted within the first 12 months of the policy when the optional investment protection rider is selected.",
+    "wrongExplanations": [
+      {
+        "answer": "Premiums can be added without limit forever",
+        "explanation": "This is wrong because the PDF identifies a 12-month limit when that rider is selected."
+      },
+      {
+        "answer": "Additional premiums are never accepted for any annuity product",
+        "explanation": "This is wrong because the comparison shows additional premiums for some variable annuity products."
+      },
+      {
+        "answer": "Additional premiums automatically remove surrender charges",
+        "explanation": "This is wrong because the PDF does not say additional premiums remove surrender charges."
+      }
+    ]
+  },
+  {
+    "chapter": 4,
+    "chapterTitle": "Wealth Accumulation",
+    "category": "Advisory Variable Annuity",
+    "difficulty": "medium",
+    "questionType": "multiple-choice",
+    "id": 27,
+    "question": "What additional feature is connected with advisory variable annuities?",
+    "answers": [
+      "Proactive ongoing advice for a fee",
+      "Guaranteed no fees",
+      "No investment risk",
+      "Mandatory dividend payments"
+    ],
+    "correct": 0,
+    "correctExplanation": "Advisory variable annuities are connected with proactive ongoing advice, support, and monitoring for a fee.",
+    "wrongExplanations": [
+      {
+        "answer": "Guaranteed no fees",
+        "explanation": "This is wrong because advisory variable annuities include advisory fees and other product-related charges."
+      },
+      {
+        "answer": "No investment risk",
+        "explanation": "This is wrong because advisory variable annuities still involve market-related investment risk."
+      },
+      {
+        "answer": "Mandatory dividend payments",
+        "explanation": "This is wrong because dividend eligibility is not a listed feature for advisory variable annuities."
+      }
+    ]
+  },
+  {
+    "chapter": 4,
+    "chapterTitle": "Wealth Accumulation",
+    "category": "Advisory Variable Annuity",
+    "difficulty": "hard",
+    "questionType": "multiple-choice",
+    "id": 28,
+    "question": "What is the best strategic reason to choose an advisory variable annuity instead of a regular variable annuity?",
+    "answers": [
+      "The client wants proactive ongoing advice, support, and monitoring for a fee",
+      "The client wants to avoid all fees",
+      "The client wants no market participation",
+      "The client wants guaranteed dividends"
+    ],
+    "correct": 0,
+    "correctExplanation": "The key strategic difference is advisory support: the Eagle Advisor can provide proactive ongoing advice, support, and monitoring for a fee.",
+    "wrongExplanations": [
+      {
+        "answer": "The client wants to avoid all fees",
+        "explanation": "This is wrong because advisory variable annuities involve advisory fees in addition to other product fees."
+      },
+      {
+        "answer": "The client wants no market participation",
+        "explanation": "This is wrong because variable annuities are market participation products."
+      },
+      {
+        "answer": "The client wants guaranteed dividends",
+        "explanation": "This is wrong because dividends are not the reason to select an advisory variable annuity."
+      }
+    ]
+  },
+  {
+    "chapter": 4,
+    "chapterTitle": "Wealth Accumulation",
+    "category": "Client Review",
+    "difficulty": "medium",
+    "questionType": "multiple-choice",
+    "id": 29,
+    "question": "What does the PDF recommend before replacing an annuity policy?",
+    "answers": [
+      "Replace it immediately if the new product sounds better",
+      "Carefully consider the features and benefits of the existing policy compared with the new policy",
+      "Ignore surrender charges because they never matter",
+      "Only compare the first-year rate"
+    ],
+    "correct": 1,
+    "correctExplanation": "The PDF says to carefully consider the features and benefits of the existing policy compared with the new policy before replacing an annuity.",
+    "wrongExplanations": [
+      {
+        "answer": "Replace it immediately if the new product sounds better",
+        "explanation": "This is wrong because the PDF emphasizes careful comparison before replacement."
+      },
+      {
+        "answer": "Ignore surrender charges because they never matter",
+        "explanation": "This is wrong because surrender charges may apply and are specifically discussed."
+      },
+      {
+        "answer": "Only compare the first-year rate",
+        "explanation": "This is wrong because the decision should consider full product features, benefits, and limitations."
+      }
+    ]
+  },
+  {
+    "chapter": 4,
+    "chapterTitle": "Wealth Accumulation",
+    "category": "Client Review",
+    "difficulty": "medium",
+    "questionType": "multiple-choice",
+    "id": 30,
+    "question": "Why should a client review wealth accumulation plans with a financial professional regularly?",
+    "answers": [
+      "To ensure the annuity keeps up with changes in needs and income",
+      "To avoid ever reading the policy",
+      "To guarantee every investment beats the market",
+      "To remove the need for risk tolerance analysis"
+    ],
+    "correct": 0,
+    "correctExplanation": "The PDF says clients should review plans regularly with a financial professional to ensure the annuity is keeping up with changes in needs and income.",
+    "wrongExplanations": [
+      {
+        "answer": "To avoid ever reading the policy",
+        "explanation": "This is wrong because the PDF also says clients should read the policy carefully."
+      },
+      {
+        "answer": "To guarantee every investment beats the market",
+        "explanation": "This is wrong because no such guarantee is made."
+      },
+      {
+        "answer": "To remove the need for risk tolerance analysis",
+        "explanation": "This is wrong because risk tolerance is part of selecting the right strategy."
+      }
+    ]
+  },
+  {
+    "chapter": 4,
+    "chapterTitle": "Wealth Accumulation",
+    "category": "Hard Ass Question",
+    "difficulty": "hard",
+    "questionType": "multiple-choice",
+    "id": 31,
+    "question": "Hard ass question: A client says, 'I want growth, I want access to markets, I do not want to lose my original investment after the required period, and I am willing to accept fees, restrictions, and limited investment choices for that protection.' What is the most strategically aligned solution?",
+    "answers": [
+      "Fixed annuity because it has no market risk and a guaranteed fixed rate",
+      "Variable annuity with investment protection because it combines market participation with a rider that can protect the initial investment after the holding period",
+      "Brokerage account because it gives the client full control with no product restrictions",
+      "Lifetime income annuity because it provides income for life immediately"
+    ],
+    "correct": 1,
+    "correctExplanation": "The client wants both market growth potential and principal protection after a required period. A variable annuity with investment protection is the best match because the rider can protect 100% of the initial investment after the holding period, while still allowing market participation, subject to fees, restrictions, and investment limits.",
+    "wrongExplanations": [
+      {
+        "answer": "Fixed annuity because it has no market risk and a guaranteed fixed rate",
+        "explanation": "This is wrong because the client specifically wants market access and growth potential, not only fixed interest growth."
+      },
+      {
+        "answer": "Brokerage account because it gives the client full control with no product restrictions",
+        "explanation": "This is wrong because a brokerage account does not provide the described annuity investment protection rider."
+      },
+      {
+        "answer": "Lifetime income annuity because it provides income for life immediately",
+        "explanation": "This is wrong because the client is describing wealth accumulation with market access and principal protection, not immediate lifetime income."
+      }
+    ]
+  }
+]
