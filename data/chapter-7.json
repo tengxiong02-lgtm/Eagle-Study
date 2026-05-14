@@ -1,0 +1,591 @@
+[
+  {
+    "chapter": 7,
+    "chapterTitle": "Product Relationship Hierarchy",
+    "category": "Protection Foundation",
+    "difficulty": "easy",
+    "questionType": "multiple-choice",
+    "id": 1,
+    "question": "According to the Eagle Charting framework, what is positioned as the foundation before wealth growth strategies?",
+    "answers": [
+      "Aggressive investing",
+      "Protection planning",
+      "Stock trading",
+      "Speculative assets"
+    ],
+    "correct": 1,
+    "correctExplanation": "Protection planning is correct because the PDF repeatedly explains that protecting what matters most should be the foundation of every financial plan before growth strategies are considered.",
+    "wrongExplanations": [
+      {
+        "answer": "Aggressive investing",
+        "explanation": "The framework does not begin with aggressive investing. It begins with protection and financial stability."
+      },
+      {
+        "answer": "Stock trading",
+        "explanation": "Stock trading is not treated as the foundational layer in the hierarchy."
+      },
+      {
+        "answer": "Speculative assets",
+        "explanation": "Speculation increases risk and is not presented as the starting point of planning."
+      }
+    ]
+  },
+  {
+    "chapter": 7,
+    "chapterTitle": "Product Relationship Hierarchy",
+    "category": "Hierarchy Logic",
+    "difficulty": "medium",
+    "questionType": "multiple-choice",
+    "id": 2,
+    "question": "Why does the product hierarchy place protection solutions before investment solutions?",
+    "answers": [
+      "Protection products generate higher market returns",
+      "Protection creates financial stability for future growth",
+      "Investments are unnecessary for retirement",
+      "Insurance replaces all investing needs"
+    ],
+    "correct": 1,
+    "correctExplanation": "Protection creates financial stability for future growth is correct because the PDF explains that protection provides a foundation and springboard for long-term growth.",
+    "wrongExplanations": [
+      {
+        "answer": "Protection products generate higher market returns",
+        "explanation": "Protection products are primarily for security and risk management, not maximizing market returns."
+      },
+      {
+        "answer": "Investments are unnecessary for retirement",
+        "explanation": "The PDF clearly includes investment and retirement products as important later-stage tools."
+      },
+      {
+        "answer": "Insurance replaces all investing needs",
+        "explanation": "Insurance and investing work together within the hierarchy rather than replacing one another."
+      }
+    ]
+  },
+  {
+    "chapter": 7,
+    "chapterTitle": "Product Relationship Hierarchy",
+    "category": "Term Life",
+    "difficulty": "easy",
+    "questionType": "multiple-choice",
+    "id": 3,
+    "question": "Where does term life generally fit within the product hierarchy?",
+    "answers": [
+      "Short-term protection layer",
+      "Market participation layer",
+      "Investment advisory layer",
+      "Estate taxation layer"
+    ],
+    "correct": 0,
+    "correctExplanation": "Short-term protection layer is correct because term life is designed primarily for temporary protection needs without cash value accumulation.",
+    "wrongExplanations": [
+      {
+        "answer": "Market participation layer",
+        "explanation": "Term life does not participate in market investments."
+      },
+      {
+        "answer": "Investment advisory layer",
+        "explanation": "Term life is an insurance product, not an advisory service."
+      },
+      {
+        "answer": "Estate taxation layer",
+        "explanation": "Estate strategies may use insurance, but term life itself is categorized under protection."
+      }
+    ]
+  },
+  {
+    "chapter": 7,
+    "chapterTitle": "Product Relationship Hierarchy",
+    "category": "Whole Life",
+    "difficulty": "medium",
+    "questionType": "multiple-choice",
+    "id": 4,
+    "question": "Why is whole life positioned differently than term life within the hierarchy?",
+    "answers": [
+      "Whole life includes guaranteed cash value accumulation",
+      "Whole life eliminates all taxes",
+      "Whole life invests fully into stocks",
+      "Whole life only lasts for a fixed period"
+    ],
+    "correct": 0,
+    "correctExplanation": "Whole life includes guaranteed cash value accumulation is correct because whole life combines permanent protection with long-term cash value growth.",
+    "wrongExplanations": [
+      {
+        "answer": "Whole life eliminates all taxes",
+        "explanation": "The policy offers tax advantages, not complete elimination of taxes."
+      },
+      {
+        "answer": "Whole life invests fully into stocks",
+        "explanation": "Whole life is not structured as a fully market-invested product."
+      },
+      {
+        "answer": "Whole life only lasts for a fixed period",
+        "explanation": "Whole life is designed for lifetime coverage."
+      }
+    ]
+  },
+  {
+    "chapter": 7,
+    "chapterTitle": "Product Relationship Hierarchy",
+    "category": "Universal Life",
+    "difficulty": "medium",
+    "questionType": "multiple-choice",
+    "id": 5,
+    "question": "What strategic role does universal life serve in the hierarchy?",
+    "answers": [
+      "Temporary income replacement only",
+      "Flexible long-term protection with cash value potential",
+      "Guaranteed stock market growth",
+      "Pure retirement income only"
+    ],
+    "correct": 1,
+    "correctExplanation": "Flexible long-term protection with cash value potential is correct because universal life combines long-term coverage with adjustable premiums and cash value accumulation.",
+    "wrongExplanations": [
+      {
+        "answer": "Temporary income replacement only",
+        "explanation": "Universal life is designed for long-term coverage rather than temporary protection."
+      },
+      {
+        "answer": "Guaranteed stock market growth",
+        "explanation": "Universal life does not guarantee market growth."
+      },
+      {
+        "answer": "Pure retirement income only",
+        "explanation": "Universal life serves multiple strategic purposes beyond retirement income."
+      }
+    ]
+  },
+  {
+    "chapter": 7,
+    "chapterTitle": "Product Relationship Hierarchy",
+    "category": "Variable Universal Life",
+    "difficulty": "hard",
+    "questionType": "multiple-choice",
+    "id": 6,
+    "question": "Why is variable universal life placed closer to the growth side of the hierarchy?",
+    "answers": [
+      "It removes insurance risk entirely",
+      "It allows market participation and investment allocation",
+      "It guarantees maximum returns",
+      "It eliminates the need for retirement planning"
+    ],
+    "correct": 1,
+    "correctExplanation": "It allows market participation and investment allocation is correct because variable universal life introduces investment options and market exposure into the insurance structure.",
+    "wrongExplanations": [
+      {
+        "answer": "It removes insurance risk entirely",
+        "explanation": "Variable universal life still contains risks including market risk and lapse risk."
+      },
+      {
+        "answer": "It guarantees maximum returns",
+        "explanation": "Market returns are never guaranteed."
+      },
+      {
+        "answer": "It eliminates the need for retirement planning",
+        "explanation": "It is only one tool within broader retirement and wealth planning."
+      }
+    ]
+  },
+  {
+    "chapter": 7,
+    "chapterTitle": "Product Relationship Hierarchy",
+    "category": "Disability Insurance",
+    "difficulty": "medium",
+    "questionType": "multiple-choice",
+    "id": 7,
+    "question": "Why is disability insurance considered a core foundational product in the hierarchy?",
+    "answers": [
+      "Because it protects income generation ability",
+      "Because it replaces investment accounts",
+      "Because it guarantees retirement wealth",
+      "Because it removes all financial risk"
+    ],
+    "correct": 0,
+    "correctExplanation": "Because it protects income generation ability is correct because disability insurance protects the income that supports the entire financial structure.",
+    "wrongExplanations": [
+      {
+        "answer": "Because it replaces investment accounts",
+        "explanation": "Disability insurance protects income rather than replacing investments."
+      },
+      {
+        "answer": "Because it guarantees retirement wealth",
+        "explanation": "It provides income protection, not guaranteed wealth."
+      },
+      {
+        "answer": "Because it removes all financial risk",
+        "explanation": "No product removes all financial risk."
+      }
+    ]
+  },
+  {
+    "chapter": 7,
+    "chapterTitle": "Product Relationship Hierarchy",
+    "category": "Retirement Income",
+    "difficulty": "medium",
+    "questionType": "multiple-choice",
+    "id": 8,
+    "question": "Within the hierarchy, what is the primary purpose of guaranteed income annuities?",
+    "answers": [
+      "Speculative growth",
+      "Guaranteed retirement income",
+      "Short-term liquidity trading",
+      "Business acquisition financing"
+    ],
+    "correct": 1,
+    "correctExplanation": "Guaranteed retirement income is correct because income annuities are designed to create stable retirement cash flow that cannot be outlived.",
+    "wrongExplanations": [
+      {
+        "answer": "Speculative growth",
+        "explanation": "Guaranteed income annuities focus on stability rather than speculation."
+      },
+      {
+        "answer": "Short-term liquidity trading",
+        "explanation": "These products are long-term retirement tools."
+      },
+      {
+        "answer": "Business acquisition financing",
+        "explanation": "The products are designed for retirement income planning."
+      }
+    ]
+  },
+  {
+    "chapter": 7,
+    "chapterTitle": "Product Relationship Hierarchy",
+    "category": "Dividend Logic",
+    "difficulty": "hard",
+    "questionType": "multiple-choice",
+    "id": 9,
+    "question": "How do dividend-eligible products strategically differ from non-dividend products in the hierarchy?",
+    "answers": [
+      "They exchange some guaranteed income for possible future growth",
+      "They remove all guarantees",
+      "They are only available for businesses",
+      "They avoid all market conditions"
+    ],
+    "correct": 0,
+    "correctExplanation": "They exchange some guaranteed income for possible future growth is correct because dividend-eligible products often start with lower guaranteed income but offer potential upside through dividends.",
+    "wrongExplanations": [
+      {
+        "answer": "They remove all guarantees",
+        "explanation": "Dividend products still contain guarantees."
+      },
+      {
+        "answer": "They are only available for businesses",
+        "explanation": "Dividend-eligible products are available for individual planning."
+      },
+      {
+        "answer": "They avoid all market conditions",
+        "explanation": "Dividends are influenced by company performance and other factors."
+      }
+    ]
+  },
+  {
+    "chapter": 7,
+    "chapterTitle": "Product Relationship Hierarchy",
+    "category": "Fixed Annuities",
+    "difficulty": "medium",
+    "questionType": "multiple-choice",
+    "id": 10,
+    "question": "Why are fixed annuities placed lower-risk in the hierarchy than variable annuities?",
+    "answers": [
+      "Fixed annuities avoid market participation",
+      "Fixed annuities guarantee stock growth",
+      "Fixed annuities eliminate surrender charges",
+      "Fixed annuities are fully liquid"
+    ],
+    "correct": 0,
+    "correctExplanation": "Fixed annuities avoid market participation is correct because they use guaranteed fixed interest rates rather than direct market exposure.",
+    "wrongExplanations": [
+      {
+        "answer": "Fixed annuities guarantee stock growth",
+        "explanation": "Fixed annuities do not directly invest in the stock market."
+      },
+      {
+        "answer": "Fixed annuities eliminate surrender charges",
+        "explanation": "Surrender charges may still apply."
+      },
+      {
+        "answer": "Fixed annuities are fully liquid",
+        "explanation": "Liquidity can still be limited depending on the product."
+      }
+    ]
+  },
+  {
+    "chapter": 7,
+    "chapterTitle": "Product Relationship Hierarchy",
+    "category": "Variable Annuities",
+    "difficulty": "hard",
+    "questionType": "multiple-choice",
+    "id": 11,
+    "question": "What causes variable annuities to sit higher on the risk and growth hierarchy?",
+    "answers": [
+      "Guaranteed principal protection",
+      "Direct exposure to market performance",
+      "Absence of fees",
+      "Lack of investment options"
+    ],
+    "correct": 1,
+    "correctExplanation": "Direct exposure to market performance is correct because variable annuities participate in financial markets and fluctuate with investment performance.",
+    "wrongExplanations": [
+      {
+        "answer": "Guaranteed principal protection",
+        "explanation": "Variable annuities involve market risk unless specific protection riders are added."
+      },
+      {
+        "answer": "Absence of fees",
+        "explanation": "Variable annuities may contain multiple fees and expenses."
+      },
+      {
+        "answer": "Lack of investment options",
+        "explanation": "Variable annuities actually provide many investment options."
+      }
+    ]
+  },
+  {
+    "chapter": 7,
+    "chapterTitle": "Product Relationship Hierarchy",
+    "category": "Investment Protection",
+    "difficulty": "hard",
+    "questionType": "multiple-choice",
+    "id": 12,
+    "question": "What strategic purpose do investment protection riders serve in the hierarchy?",
+    "answers": [
+      "They blend growth potential with downside protection",
+      "They eliminate all fees",
+      "They remove surrender periods",
+      "They create unlimited liquidity"
+    ],
+    "correct": 0,
+    "correctExplanation": "They blend growth potential with downside protection is correct because investment protection riders attempt to balance market participation with principal safeguards.",
+    "wrongExplanations": [
+      {
+        "answer": "They eliminate all fees",
+        "explanation": "Investment protection riders often add additional fees."
+      },
+      {
+        "answer": "They remove surrender periods",
+        "explanation": "Surrender periods may still apply."
+      },
+      {
+        "answer": "They create unlimited liquidity",
+        "explanation": "Liquidity restrictions can still exist."
+      }
+    ]
+  },
+  {
+    "chapter": 7,
+    "chapterTitle": "Product Relationship Hierarchy",
+    "category": "Brokerage Accounts",
+    "difficulty": "medium",
+    "questionType": "multiple-choice",
+    "id": 13,
+    "question": "How are brokerage accounts strategically different from advisory solutions in the hierarchy?",
+    "answers": [
+      "Brokerage accounts emphasize investor control and transaction-based activity",
+      "Brokerage accounts guarantee investment returns",
+      "Brokerage accounts eliminate market exposure",
+      "Brokerage accounts are insurance policies"
+    ],
+    "correct": 0,
+    "correctExplanation": "Brokerage accounts emphasize investor control and transaction-based activity is correct because they are designed for investors who want greater self-direction.",
+    "wrongExplanations": [
+      {
+        "answer": "Brokerage accounts guarantee investment returns",
+        "explanation": "No brokerage account guarantees returns."
+      },
+      {
+        "answer": "Brokerage accounts eliminate market exposure",
+        "explanation": "Brokerage accounts generally increase market exposure."
+      },
+      {
+        "answer": "Brokerage accounts are insurance policies",
+        "explanation": "Brokerage accounts are investment platforms, not insurance contracts."
+      }
+    ]
+  },
+  {
+    "chapter": 7,
+    "chapterTitle": "Product Relationship Hierarchy",
+    "category": "Advisory Solutions",
+    "difficulty": "medium",
+    "questionType": "multiple-choice",
+    "id": 14,
+    "question": "What separates advisory solutions from self-directed investment approaches in the hierarchy?",
+    "answers": [
+      "Ongoing professional guidance and fee-based management",
+      "Guaranteed investment outcomes",
+      "Elimination of all investment risks",
+      "Mandatory stock ownership"
+    ],
+    "correct": 0,
+    "correctExplanation": "Ongoing professional guidance and fee-based management is correct because advisory programs focus on active management and ongoing advice.",
+    "wrongExplanations": [
+      {
+        "answer": "Guaranteed investment outcomes",
+        "explanation": "Investment outcomes are never guaranteed."
+      },
+      {
+        "answer": "Elimination of all investment risks",
+        "explanation": "Advisory solutions still involve investment risks."
+      },
+      {
+        "answer": "Mandatory stock ownership",
+        "explanation": "Advisory solutions can use many asset classes."
+      }
+    ]
+  },
+  {
+    "chapter": 7,
+    "chapterTitle": "Product Relationship Hierarchy",
+    "category": "Risk Positioning",
+    "difficulty": "hard",
+    "questionType": "multiple-choice",
+    "id": 15,
+    "question": "Strategically, why does the hierarchy move from guarantees toward market participation over time?",
+    "answers": [
+      "Because clients often move from stability needs toward growth needs",
+      "Because guarantees become illegal later in life",
+      "Because markets are always safer than guarantees",
+      "Because insurance loses all value over time"
+    ],
+    "correct": 0,
+    "correctExplanation": "Because clients often move from stability needs toward growth needs is correct because the hierarchy reflects evolving financial objectives and risk tolerance.",
+    "wrongExplanations": [
+      {
+        "answer": "Because guarantees become illegal later in life",
+        "explanation": "Guarantees remain valid throughout financial planning."
+      },
+      {
+        "answer": "Because markets are always safer than guarantees",
+        "explanation": "Markets involve volatility and are not always safer."
+      },
+      {
+        "answer": "Because insurance loses all value over time",
+        "explanation": "Many insurance products retain strategic long-term value."
+      }
+    ]
+  },
+  {
+    "chapter": 7,
+    "chapterTitle": "Product Relationship Hierarchy",
+    "category": "Client Flow",
+    "difficulty": "hard",
+    "questionType": "multiple-choice",
+    "id": 16,
+    "question": "A client with unstable income and no emergency protection would most logically start at which level of the hierarchy?",
+    "answers": [
+      "Protection solutions",
+      "High-risk variable annuities",
+      "Advanced advisory management",
+      "Direct market speculation"
+    ],
+    "correct": 0,
+    "correctExplanation": "Protection solutions is correct because the hierarchy prioritizes securing foundational financial stability before aggressive growth planning.",
+    "wrongExplanations": [
+      {
+        "answer": "High-risk variable annuities",
+        "explanation": "High-risk investments are usually inappropriate without financial stability."
+      },
+      {
+        "answer": "Advanced advisory management",
+        "explanation": "Advisory management generally comes later after foundational planning."
+      },
+      {
+        "answer": "Direct market speculation",
+        "explanation": "Speculation without protection increases vulnerability."
+      }
+    ]
+  },
+  {
+    "chapter": 7,
+    "chapterTitle": "Product Relationship Hierarchy",
+    "category": "Strategic Design",
+    "difficulty": "hard",
+    "questionType": "multiple-choice",
+    "id": 17,
+    "question": "Why does the hierarchy combine protection income retirement and investments instead of treating them separately?",
+    "answers": [
+      "Because financial planning works as an interconnected system",
+      "Because all products perform the same role",
+      "Because investing removes the need for protection",
+      "Because retirement planning replaces wealth accumulation"
+    ],
+    "correct": 0,
+    "correctExplanation": "Because financial planning works as an interconnected system is correct because each layer supports and strengthens the others strategically.",
+    "wrongExplanations": [
+      {
+        "answer": "Because all products perform the same role",
+        "explanation": "Each product category serves different strategic purposes."
+      },
+      {
+        "answer": "Because investing removes the need for protection",
+        "explanation": "Protection remains essential regardless of investing."
+      },
+      {
+        "answer": "Because retirement planning replaces wealth accumulation",
+        "explanation": "Retirement and accumulation often work together."
+      }
+    ]
+  },
+  {
+    "chapter": 7,
+    "chapterTitle": "Product Relationship Hierarchy",
+    "category": "Long-Term Philosophy",
+    "difficulty": "hard",
+    "questionType": "multiple-choice",
+    "id": 18,
+    "question": "What is the deeper philosophy behind the product hierarchy presented in Eagle Charting?",
+    "answers": [
+      "Build financial growth on protected foundations",
+      "Prioritize maximum risk immediately",
+      "Focus only on short-term returns",
+      "Avoid all guaranteed products"
+    ],
+    "correct": 0,
+    "correctExplanation": "Build financial growth on protected foundations is correct because the entire framework emphasizes stability first and growth second.",
+    "wrongExplanations": [
+      {
+        "answer": "Prioritize maximum risk immediately",
+        "explanation": "The hierarchy intentionally avoids beginning with maximum risk."
+      },
+      {
+        "answer": "Focus only on short-term returns",
+        "explanation": "The framework is built around long-term planning."
+      },
+      {
+        "answer": "Avoid all guaranteed products",
+        "explanation": "Guaranteed products are central to the hierarchy."
+      }
+    ]
+  },
+  {
+    "chapter": 7,
+    "chapterTitle": "Product Relationship Hierarchy",
+    "category": "Mastery Question",
+    "difficulty": "hard",
+    "questionType": "multiple-choice",
+    "id": 19,
+    "question": "Hard Question: A client wants maximum market growth but has no income protection no emergency stability and no retirement guarantees. According to the hierarchy what is the biggest strategic weakness in their plan?",
+    "answers": [
+      "They skipped foundational protection layers before pursuing growth",
+      "They are investing too conservatively",
+      "They own too many guarantees",
+      "They are focusing too much on liquidity"
+    ],
+    "correct": 0,
+    "correctExplanation": "They skipped foundational protection layers before pursuing growth is correct because the hierarchy is built on the idea that growth should rest on stable protected financial foundations.",
+    "wrongExplanations": [
+      {
+        "answer": "They are investing too conservatively",
+        "explanation": "The issue is not conservatism. The issue is lack of protection and stability."
+      },
+      {
+        "answer": "They own too many guarantees",
+        "explanation": "The scenario specifically lacks guarantees and protection."
+      },
+      {
+        "answer": "They are focusing too much on liquidity",
+        "explanation": "Liquidity is not the central strategic issue described."
+      }
+    ]
+  }
+]

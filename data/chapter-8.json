@@ -1,0 +1,312 @@
+[
+  {
+    "chapter": 8,
+    "chapterTitle": "Risk vs Growth Flow",
+    "category": "Core Strategy",
+    "difficulty": "easy",
+    "questionType": "multiple-choice",
+    "id": 801,
+    "question": "What is the main idea behind the Risk vs Growth Flow concept?",
+    "answers": [
+      "Financial planning should balance protection, stability, and growth over time",
+      "Clients should always maximize market risk immediately",
+      "Protection products eliminate the need for investments",
+      "Growth should always come before stability"
+    ],
+    "correct": 0,
+    "correctExplanation": "The strategic framework teaches that protection and stability create the foundation that allows future growth planning.",
+    "wrongExplanations": [
+      {
+        "answer": "Clients should always maximize market risk immediately",
+        "explanation": "The framework emphasizes balanced planning rather than maximum risk."
+      },
+      {
+        "answer": "Protection products eliminate the need for investments",
+        "explanation": "The PDF presents protection and investments as complementary layers."
+      },
+      {
+        "answer": "Growth should always come before stability",
+        "explanation": "The philosophy emphasizes stability before aggressive growth."
+      }
+    ]
+  },
+  {
+    "chapter": 8,
+    "chapterTitle": "Risk vs Growth Flow",
+    "category": "Protection Layer",
+    "difficulty": "easy",
+    "questionType": "multiple-choice",
+    "id": 802,
+    "question": "Why is protection positioned first in the Risk vs Growth Flow?",
+    "answers": [
+      "Because unexpected financial shocks can destroy future plans",
+      "Because growth products are unnecessary",
+      "Because retirement planning is optional",
+      "Because investments never work"
+    ],
+    "correct": 0,
+    "correctExplanation": "Protection is positioned first because risks like death, disability, or income loss can damage long-term financial goals if left unmanaged.",
+    "wrongExplanations": [
+      {
+        "answer": "Because growth products are unnecessary",
+        "explanation": "Growth products are still important later in the planning hierarchy."
+      },
+      {
+        "answer": "Because retirement planning is optional",
+        "explanation": "Retirement planning remains a major planning goal."
+      },
+      {
+        "answer": "Because investments never work",
+        "explanation": "The framework still supports wealth accumulation and investing."
+      }
+    ]
+  },
+  {
+    "chapter": 8,
+    "chapterTitle": "Risk vs Growth Flow",
+    "category": "Cash Flow Stability",
+    "difficulty": "medium",
+    "questionType": "multiple-choice",
+    "id": 803,
+    "question": "Why is stable income important before aggressive wealth accumulation?",
+    "answers": [
+      "Because stable income supports savings, premiums, and long-term planning",
+      "Because stable income guarantees market returns",
+      "Because stable income removes all financial risk",
+      "Because stable income eliminates taxes"
+    ],
+    "correct": 0,
+    "correctExplanation": "Stable income acts as the engine that supports savings behavior, insurance premiums, and long-term financial goals.",
+    "wrongExplanations": [
+      {
+        "answer": "Because stable income guarantees market returns",
+        "explanation": "Income stability does not guarantee investment performance."
+      },
+      {
+        "answer": "Because stable income removes all financial risk",
+        "explanation": "Risk can be managed but not completely removed."
+      },
+      {
+        "answer": "Because stable income eliminates taxes",
+        "explanation": "Income stability does not eliminate taxes."
+      }
+    ]
+  },
+  {
+    "chapter": 8,
+    "chapterTitle": "Risk vs Growth Flow",
+    "category": "Growth Strategy",
+    "difficulty": "medium",
+    "questionType": "multiple-choice",
+    "id": 804,
+    "question": "What is the strategic advantage of building a strong protection layer first?",
+    "answers": [
+      "It creates a stronger foundation for future growth decisions",
+      "It guarantees clients become wealthy",
+      "It replaces all future planning",
+      "It removes the need for emergency savings"
+    ],
+    "correct": 0,
+    "correctExplanation": "A strong protection layer helps stabilize the client's financial situation before larger growth risks are taken.",
+    "wrongExplanations": [
+      {
+        "answer": "It guarantees clients become wealthy",
+        "explanation": "Protection supports planning but does not guarantee wealth."
+      },
+      {
+        "answer": "It replaces all future planning",
+        "explanation": "Planning must continue as goals and risks evolve."
+      },
+      {
+        "answer": "It removes the need for emergency savings",
+        "explanation": "Emergency reserves remain important."
+      }
+    ]
+  },
+  {
+    "chapter": 8,
+    "chapterTitle": "Risk vs Growth Flow",
+    "category": "Risk Awareness",
+    "difficulty": "medium",
+    "questionType": "multiple-choice",
+    "id": 805,
+    "question": "Which statement best reflects the philosophy of risk management in the PDF?",
+    "answers": [
+      "Risk should be understood and managed before pursuing aggressive growth",
+      "All risk should be avoided forever",
+      "The highest risk products are always best",
+      "Protection products are designed for speculation"
+    ],
+    "correct": 0,
+    "correctExplanation": "The material focuses on understanding, managing, and layering risk appropriately rather than blindly avoiding or maximizing it.",
+    "wrongExplanations": [
+      {
+        "answer": "All risk should be avoided forever",
+        "explanation": "The framework accepts that some risk is necessary for growth."
+      },
+      {
+        "answer": "The highest risk products are always best",
+        "explanation": "Higher risk is not automatically better."
+      },
+      {
+        "answer": "Protection products are designed for speculation",
+        "explanation": "Protection products are designed for stability and security."
+      }
+    ]
+  },
+  {
+    "chapter": 8,
+    "chapterTitle": "Risk vs Growth Flow",
+    "category": "Client Psychology",
+    "difficulty": "hard",
+    "questionType": "multiple-choice",
+    "id": 806,
+    "question": "Why can clients emotionally tolerate investment volatility better after building protection layers?",
+    "answers": [
+      "Because financial stability can reduce panic during uncertainty",
+      "Because losses become impossible",
+      "Because protection products guarantee stock gains",
+      "Because markets stop fluctuating"
+    ],
+    "correct": 0,
+    "correctExplanation": "Clients with stable protection layers often feel more financially secure, which may help reduce emotional decision-making during market stress.",
+    "wrongExplanations": [
+      {
+        "answer": "Because losses become impossible",
+        "explanation": "Losses and volatility still exist."
+      },
+      {
+        "answer": "Because protection products guarantee stock gains",
+        "explanation": "Protection products do not guarantee stock performance."
+      },
+      {
+        "answer": "Because markets stop fluctuating",
+        "explanation": "Markets continue to fluctuate regardless of protection planning."
+      }
+    ]
+  },
+  {
+    "chapter": 8,
+    "chapterTitle": "Risk vs Growth Flow",
+    "category": "Advisor Thinking",
+    "difficulty": "hard",
+    "questionType": "multiple-choice",
+    "id": 807,
+    "question": "What is the danger of pursuing growth without a protection strategy?",
+    "answers": [
+      "Unexpected events may force the client to abandon long-term plans",
+      "The client automatically avoids taxes",
+      "The client becomes fully diversified instantly",
+      "The client no longer needs financial reviews"
+    ],
+    "correct": 0,
+    "correctExplanation": "Without protection, unexpected risks such as death, disability, or income disruption can damage long-term wealth-building plans.",
+    "wrongExplanations": [
+      {
+        "answer": "The client automatically avoids taxes",
+        "explanation": "Growth without protection does not eliminate taxes."
+      },
+      {
+        "answer": "The client becomes fully diversified instantly",
+        "explanation": "Diversification requires intentional planning."
+      },
+      {
+        "answer": "The client no longer needs financial reviews",
+        "explanation": "Ongoing reviews remain important."
+      }
+    ]
+  },
+  {
+    "chapter": 8,
+    "chapterTitle": "Risk vs Growth Flow",
+    "category": "Layered Planning",
+    "difficulty": "hard",
+    "questionType": "multiple-choice",
+    "id": 808,
+    "question": "Which sequence best represents the strategic Risk vs Growth Flow?",
+    "answers": [
+      "Protection \u2192 Stability \u2192 Accumulation \u2192 Advanced Growth",
+      "Speculation \u2192 Borrowing \u2192 Protection",
+      "Growth \u2192 Protection \u2192 Retirement",
+      "Trading \u2192 Taxes \u2192 Insurance"
+    ],
+    "correct": 0,
+    "correctExplanation": "The framework progressively layers financial security before more advanced accumulation and growth strategies.",
+    "wrongExplanations": [
+      {
+        "answer": "Speculation \u2192 Borrowing \u2192 Protection",
+        "explanation": "This reverses the planning philosophy."
+      },
+      {
+        "answer": "Growth \u2192 Protection \u2192 Retirement",
+        "explanation": "Protection is intended to come first."
+      },
+      {
+        "answer": "Trading \u2192 Taxes \u2192 Insurance",
+        "explanation": "This does not reflect the strategic structure in the PDF."
+      }
+    ]
+  },
+  {
+    "chapter": 8,
+    "chapterTitle": "Risk vs Growth Flow",
+    "category": "Long-Term Planning",
+    "difficulty": "hard",
+    "questionType": "multiple-choice",
+    "id": 809,
+    "question": "Why does the framework focus on long-term positioning instead of short-term performance?",
+    "answers": [
+      "Because long-term stability and discipline are more important than temporary market movements",
+      "Because markets never change",
+      "Because short-term goals are meaningless",
+      "Because protection products outperform every investment"
+    ],
+    "correct": 0,
+    "correctExplanation": "The framework emphasizes sustainable planning and long-term positioning rather than reacting emotionally to short-term changes.",
+    "wrongExplanations": [
+      {
+        "answer": "Because markets never change",
+        "explanation": "Markets constantly fluctuate."
+      },
+      {
+        "answer": "Because short-term goals are meaningless",
+        "explanation": "Short-term goals can still matter within a larger plan."
+      },
+      {
+        "answer": "Because protection products outperform every investment",
+        "explanation": "The PDF does not make this claim."
+      }
+    ]
+  },
+  {
+    "chapter": 8,
+    "chapterTitle": "Risk vs Growth Flow",
+    "category": "Hard Ass Question",
+    "difficulty": "boss",
+    "questionType": "multiple-choice",
+    "id": 810,
+    "question": "Hard ass question: A client wants maximum market growth immediately but has no emergency savings, weak protection coverage, unstable income, and large financial obligations. Based on the Risk vs Growth Flow philosophy, what is the strongest advisor-level interpretation?",
+    "answers": [
+      "The client's financial foundation may be too fragile for aggressive growth positioning without first strengthening stability and protection layers",
+      "The client should immediately leverage into the highest risk investments possible",
+      "Protection products automatically eliminate all investment risk",
+      "The client should ignore protection because growth solves every financial problem"
+    ],
+    "correct": 0,
+    "correctExplanation": "The framework teaches that aggressive growth without foundational stability increases the probability that unexpected events may disrupt or destroy long-term plans.",
+    "wrongExplanations": [
+      {
+        "answer": "The client should immediately leverage into the highest risk investments possible",
+        "explanation": "The philosophy emphasizes sequencing and risk management."
+      },
+      {
+        "answer": "Protection products automatically eliminate all investment risk",
+        "explanation": "Protection can reduce certain risks but does not eliminate market risk."
+      },
+      {
+        "answer": "The client should ignore protection because growth solves every financial problem",
+        "explanation": "The framework explicitly positions protection as foundational."
+      }
+    ]
+  }
+]
