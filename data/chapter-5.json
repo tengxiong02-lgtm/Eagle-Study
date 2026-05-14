@@ -1,0 +1,1025 @@
+[
+  {
+    "chapter": 5,
+    "chapterTitle": "Investment Management / Advisory",
+    "category": "Brokerage and Direct Mutual Funds",
+    "difficulty": "easy",
+    "questionType": "multiple-choice",
+    "id": 501,
+    "question": "What type of client is Brokerage Account and Direct Mutual Fund Investing designed for?",
+    "answers": [
+      "Clients seeking control over their investments and access to a financial professional",
+      "Clients seeking guaranteed lifetime insurance protection",
+      "Clients seeking disability income replacement",
+      "Clients seeking only fixed guaranteed income payments"
+    ],
+    "correct": 0,
+    "correctExplanation": "Brokerage accounts and direct mutual fund investing are designed for clients who want control over investments while still having access to a financial professional.",
+    "wrongExplanations": [
+      {
+        "answer": "Clients seeking guaranteed lifetime insurance protection",
+        "explanation": "That is more connected to life insurance products, not brokerage or direct mutual fund investing."
+      },
+      {
+        "answer": "Clients seeking disability income replacement",
+        "explanation": "Disability income replacement is handled by Individual Disability Insurance."
+      },
+      {
+        "answer": "Clients seeking only fixed guaranteed income payments",
+        "explanation": "Fixed guaranteed income payments are connected to retirement income annuities, not brokerage accounts."
+      }
+    ]
+  },
+  {
+    "chapter": 5,
+    "chapterTitle": "Investment Management / Advisory",
+    "category": "Brokerage and Direct Mutual Funds",
+    "difficulty": "medium",
+    "questionType": "multiple-choice",
+    "id": 502,
+    "question": "According to the PDF, Brokerage Accounts and Direct Mutual Funds are ideal for investors who do not require what?",
+    "answers": [
+      "Ongoing advice",
+      "Investment access",
+      "A financial professional",
+      "Portfolio flexibility"
+    ],
+    "correct": 0,
+    "correctExplanation": "The PDF says these options are ideal for investors who do not require ongoing advice and want to exercise control over their investment strategy.",
+    "wrongExplanations": [
+      {
+        "answer": "Investment access",
+        "explanation": "Brokerage accounts and direct mutual funds provide investment access."
+      },
+      {
+        "answer": "A financial professional",
+        "explanation": "The PDF says clients can still work with a financial professional."
+      },
+      {
+        "answer": "Portfolio flexibility",
+        "explanation": "The PDF describes flexibility as a feature of these programs."
+      }
+    ]
+  },
+  {
+    "chapter": 5,
+    "chapterTitle": "Investment Management / Advisory",
+    "category": "Brokerage and Direct Mutual Funds",
+    "difficulty": "medium",
+    "questionType": "multiple-choice",
+    "id": 503,
+    "question": "What does portfolio control mean in the Brokerage Account and Direct Mutual Fund section?",
+    "answers": [
+      "The client selects the appropriate investment options and controls the trading",
+      "The insurer guarantees all investment returns",
+      "The advisor controls all trades without client input",
+      "The account can only hold insurance contracts"
+    ],
+    "correct": 0,
+    "correctExplanation": "The PDF says the investor selects the appropriate investment options and controls the trading.",
+    "wrongExplanations": [
+      {
+        "answer": "The insurer guarantees all investment returns",
+        "explanation": "Brokerage and direct mutual fund investments are not described as guaranteed-return products."
+      },
+      {
+        "answer": "The advisor controls all trades without client input",
+        "explanation": "The PDF frames this option around investor control."
+      },
+      {
+        "answer": "The account can only hold insurance contracts",
+        "explanation": "Brokerage accounts and direct mutual funds are investment accounts, not limited to insurance contracts."
+      }
+    ]
+  },
+  {
+    "chapter": 5,
+    "chapterTitle": "Investment Management / Advisory",
+    "category": "Brokerage Account",
+    "difficulty": "medium",
+    "questionType": "multiple-choice",
+    "id": 504,
+    "question": "What can a brokerage account hold according to the PDF?",
+    "answers": [
+      "Only mutual funds or a variety of securities in one account",
+      "Only term life policies",
+      "Only disability insurance policies",
+      "Only fixed income annuities"
+    ],
+    "correct": 0,
+    "correctExplanation": "The PDF says brokerage accounts offer the ability to hold only mutual funds or a variety of securities in one account.",
+    "wrongExplanations": [
+      {
+        "answer": "Only term life policies",
+        "explanation": "Term life is an insurance product, not the investment holding described here."
+      },
+      {
+        "answer": "Only disability insurance policies",
+        "explanation": "Disability insurance is not what brokerage accounts are designed to hold."
+      },
+      {
+        "answer": "Only fixed income annuities",
+        "explanation": "Fixed income annuities are retirement income products, not the only holding in a brokerage account."
+      }
+    ]
+  },
+  {
+    "chapter": 5,
+    "chapterTitle": "Investment Management / Advisory",
+    "category": "Direct Mutual Funds",
+    "difficulty": "medium",
+    "questionType": "multiple-choice",
+    "id": 505,
+    "question": "What does Direct Mutual Fund investing allow a client to do?",
+    "answers": [
+      "Consolidate mutual fund holdings with one firm",
+      "Convert disability benefits into market investments",
+      "Guarantee no investment loss",
+      "Avoid all fund expenses"
+    ],
+    "correct": 0,
+    "correctExplanation": "The PDF says Direct Mutual Fund investing allows clients to consolidate mutual fund holdings with one firm.",
+    "wrongExplanations": [
+      {
+        "answer": "Convert disability benefits into market investments",
+        "explanation": "The PDF does not describe Direct Mutual Funds this way."
+      },
+      {
+        "answer": "Guarantee no investment loss",
+        "explanation": "Mutual fund investing is not presented as guaranteed against loss."
+      },
+      {
+        "answer": "Avoid all fund expenses",
+        "explanation": "The investment solutions comparison says fund expenses and miscellaneous fees may apply."
+      }
+    ]
+  },
+  {
+    "chapter": 5,
+    "chapterTitle": "Investment Management / Advisory",
+    "category": "Diversification",
+    "difficulty": "easy",
+    "questionType": "multiple-choice",
+    "id": 506,
+    "question": "How does the PDF describe diversification in investment solutions?",
+    "answers": [
+      "Diversifying across asset classes, sectors, and geographic regions",
+      "Putting all assets into one product",
+      "Avoiding all investment options",
+      "Only buying life insurance"
+    ],
+    "correct": 0,
+    "correctExplanation": "The PDF describes diversification as spreading investments across asset classes, sectors, and geographic regions.",
+    "wrongExplanations": [
+      {
+        "answer": "Putting all assets into one product",
+        "explanation": "This is the opposite of diversification."
+      },
+      {
+        "answer": "Avoiding all investment options",
+        "explanation": "Diversification uses multiple investment areas, not zero investments."
+      },
+      {
+        "answer": "Only buying life insurance",
+        "explanation": "Life insurance is not the investment diversification method described in this section."
+      }
+    ]
+  },
+  {
+    "chapter": 5,
+    "chapterTitle": "Investment Management / Advisory",
+    "category": "Investment Advisory Solutions",
+    "difficulty": "easy",
+    "questionType": "multiple-choice",
+    "id": 507,
+    "question": "Who are Investment Advisory Solutions designed for?",
+    "answers": [
+      "Investors who want broad financial market participation and ongoing advice from a financial professional",
+      "Clients who want no professional guidance at all",
+      "Clients who only want temporary death benefit protection",
+      "Clients who only want disability income protection"
+    ],
+    "correct": 0,
+    "correctExplanation": "The PDF says Investment Advisory Solutions are for investors who desire broad market participation and ongoing advice from a financial professional.",
+    "wrongExplanations": [
+      {
+        "answer": "Clients who want no professional guidance at all",
+        "explanation": "This section is specifically about ongoing professional advice."
+      },
+      {
+        "answer": "Clients who only want temporary death benefit protection",
+        "explanation": "Temporary death benefit protection is term life, not advisory solutions."
+      },
+      {
+        "answer": "Clients who only want disability income protection",
+        "explanation": "Disability income protection belongs to Individual Disability Insurance."
+      }
+    ]
+  },
+  {
+    "chapter": 5,
+    "chapterTitle": "Investment Management / Advisory",
+    "category": "Investment Advisory Solutions",
+    "difficulty": "medium",
+    "questionType": "multiple-choice",
+    "id": 508,
+    "question": "Which feature best separates Investment Advisory Solutions from basic brokerage access?",
+    "answers": [
+      "Proactive ongoing advice and a disciplined investment strategy",
+      "No access to financial markets",
+      "Guaranteed death benefit protection",
+      "No fees of any kind"
+    ],
+    "correct": 0,
+    "correctExplanation": "Investment Advisory Solutions are built around proactive ongoing advice, disciplined strategy, and professional portfolio support.",
+    "wrongExplanations": [
+      {
+        "answer": "No access to financial markets",
+        "explanation": "The PDF says advisory solutions are for clients seeking access to financial markets."
+      },
+      {
+        "answer": "Guaranteed death benefit protection",
+        "explanation": "That is an insurance feature, not the defining advisory feature."
+      },
+      {
+        "answer": "No fees of any kind",
+        "explanation": "The PDF says advisory fees are based on a percentage of managed assets and other expenses may apply."
+      }
+    ]
+  },
+  {
+    "chapter": 5,
+    "chapterTitle": "Investment Management / Advisory",
+    "category": "Eagle Strategies",
+    "difficulty": "medium",
+    "questionType": "multiple-choice",
+    "id": 509,
+    "question": "Which of the following is listed as an Eagle Strategies wealth management program?",
+    "answers": [
+      "Financial Planning",
+      "Term Life Conversion Only",
+      "Disability Income Replacement Only",
+      "Fixed Period Income Only"
+    ],
+    "correct": 0,
+    "correctExplanation": "The PDF lists Financial Planning as one of Eagle Strategies' wealth management programs.",
+    "wrongExplanations": [
+      {
+        "answer": "Term Life Conversion Only",
+        "explanation": "Term conversion is a term life feature, not listed here as an Eagle wealth management program."
+      },
+      {
+        "answer": "Disability Income Replacement Only",
+        "explanation": "Disability income protection is a protection product, not an Eagle wealth management program listed in this section."
+      },
+      {
+        "answer": "Fixed Period Income Only",
+        "explanation": "Fixed Period Income Annuity is a retirement income product, not an advisory program listed here."
+      }
+    ]
+  },
+  {
+    "chapter": 5,
+    "chapterTitle": "Investment Management / Advisory",
+    "category": "Eagle Strategies",
+    "difficulty": "hard",
+    "questionType": "multiple-choice",
+    "id": 510,
+    "question": "Which set of programs does the PDF list under Eagle Strategies' wealth management programs?",
+    "answers": [
+      "Financial Planning, Fund Advisory, Separately Managed Accounts, Unified Managed Accounts, and Representative Directed Accounts",
+      "Term Life, Whole Life, Universal Life, and Individual Disability Insurance",
+      "Lifetime Income Annuity, Fixed Period Income Annuity, Deferred Income Annuity, and Fixed Annuity with Lifetime Income",
+      "Direct Deposit, Payroll Services, Tax Filing, and Business Loans"
+    ],
+    "correct": 0,
+    "correctExplanation": "The PDF lists Financial Planning, Fund Advisory, Separately Managed Accounts, Unified Managed Accounts, and Representative Directed Accounts as Eagle Strategies wealth management programs.",
+    "wrongExplanations": [
+      {
+        "answer": "Term Life, Whole Life, Universal Life, and Individual Disability Insurance",
+        "explanation": "Those are protection products, not the advisory programs listed in this section."
+      },
+      {
+        "answer": "Lifetime Income Annuity, Fixed Period Income Annuity, Deferred Income Annuity, and Fixed Annuity with Lifetime Income",
+        "explanation": "Those are retirement income products."
+      },
+      {
+        "answer": "Direct Deposit, Payroll Services, Tax Filing, and Business Loans",
+        "explanation": "These are not listed as Eagle Strategies wealth management programs."
+      }
+    ]
+  },
+  {
+    "chapter": 5,
+    "chapterTitle": "Investment Management / Advisory",
+    "category": "Investment Advisory Solutions",
+    "difficulty": "medium",
+    "questionType": "multiple-choice",
+    "id": 511,
+    "question": "In Investment Advisory Solutions, who controls the underlying portfolio holdings?",
+    "answers": [
+      "The investment manager",
+      "The insurance beneficiary",
+      "The disability claims department",
+      "The annuitant only"
+    ],
+    "correct": 0,
+    "correctExplanation": "The PDF says the client and Eagle Advisor select appropriate investment options, while the investment manager controls the underlying portfolio holdings.",
+    "wrongExplanations": [
+      {
+        "answer": "The insurance beneficiary",
+        "explanation": "A beneficiary is not described as controlling advisory portfolio holdings."
+      },
+      {
+        "answer": "The disability claims department",
+        "explanation": "That relates to disability insurance administration, not investment advisory portfolios."
+      },
+      {
+        "answer": "The annuitant only",
+        "explanation": "An annuitant relates to annuity contracts, not the portfolio management structure described here."
+      }
+    ]
+  },
+  {
+    "chapter": 5,
+    "chapterTitle": "Investment Management / Advisory",
+    "category": "Investment Advisory Solutions",
+    "difficulty": "medium",
+    "questionType": "multiple-choice",
+    "id": 512,
+    "question": "How are Investment Advisory Solutions fees generally described in the comparison table?",
+    "answers": [
+      "Fees are based on a percentage of managed assets and not tied to number of transactions",
+      "Fees are only paid when a death claim occurs",
+      "Fees are always zero",
+      "Fees are paid only through disability premiums"
+    ],
+    "correct": 0,
+    "correctExplanation": "The comparison table says advisory fees are based on a percentage of managed assets and are not tied to the number of transactions.",
+    "wrongExplanations": [
+      {
+        "answer": "Fees are only paid when a death claim occurs",
+        "explanation": "That does not describe advisory fee structure."
+      },
+      {
+        "answer": "Fees are always zero",
+        "explanation": "The PDF clearly discusses advisory fees and additional expenses."
+      },
+      {
+        "answer": "Fees are paid only through disability premiums",
+        "explanation": "Disability premiums are not how advisory solution fees are described."
+      }
+    ]
+  },
+  {
+    "chapter": 5,
+    "chapterTitle": "Investment Management / Advisory",
+    "category": "Brokerage Account",
+    "difficulty": "medium",
+    "questionType": "multiple-choice",
+    "id": 513,
+    "question": "How are brokerage account fees generally described in the comparison table?",
+    "answers": [
+      "Transaction-based fees, including sales charges and trading commissions",
+      "Only percentage-based advisory fees",
+      "No fees or fund expenses",
+      "Only disability underwriting fees"
+    ],
+    "correct": 0,
+    "correctExplanation": "The comparison table says brokerage account fees are transaction-based, including sales charges and trading commissions.",
+    "wrongExplanations": [
+      {
+        "answer": "Only percentage-based advisory fees",
+        "explanation": "Percentage-based fees describe Investment Advisory Solutions, not brokerage accounts."
+      },
+      {
+        "answer": "No fees or fund expenses",
+        "explanation": "The PDF lists transaction-based fees and possible additional fund expenses."
+      },
+      {
+        "answer": "Only disability underwriting fees",
+        "explanation": "This is unrelated to brokerage account fees."
+      }
+    ]
+  },
+  {
+    "chapter": 5,
+    "chapterTitle": "Investment Management / Advisory",
+    "category": "Direct Mutual Funds",
+    "difficulty": "medium",
+    "questionType": "multiple-choice",
+    "id": 514,
+    "question": "How are Direct Mutual Fund fees generally described in the comparison table?",
+    "answers": [
+      "Transaction-based fees including sales charges in mutual funds",
+      "Only a lifetime income rider fee",
+      "Only mortality and expense charges from insurance",
+      "No fees because mutual funds are free"
+    ],
+    "correct": 0,
+    "correctExplanation": "The PDF says Direct Mutual Fund fees are transaction-based, including sales charges in mutual funds.",
+    "wrongExplanations": [
+      {
+        "answer": "Only a lifetime income rider fee",
+        "explanation": "That type of fee is connected to annuity features, not Direct Mutual Funds."
+      },
+      {
+        "answer": "Only mortality and expense charges from insurance",
+        "explanation": "The direct mutual fund comparison does not frame fees this way."
+      },
+      {
+        "answer": "No fees because mutual funds are free",
+        "explanation": "The PDF says sales charges, fund expenses, and miscellaneous fees may apply."
+      }
+    ]
+  },
+  {
+    "chapter": 5,
+    "chapterTitle": "Investment Management / Advisory",
+    "category": "Investment Solutions Comparison",
+    "difficulty": "hard",
+    "questionType": "multiple-choice",
+    "id": 515,
+    "question": "Which option is described as ideal for investors seeking initial and ongoing investment advice with portfolio management, performance reporting, periodic account reviews, and rebalancing?",
+    "answers": [
+      "Investment Advisory Solutions",
+      "Direct Mutual Funds",
+      "Term Life",
+      "Individual Disability Insurance"
+    ],
+    "correct": 0,
+    "correctExplanation": "The comparison table describes Investment Advisory Solutions as ideal for investors seeking initial and ongoing investment advice with portfolio management, reporting, reviews, and rebalancing.",
+    "wrongExplanations": [
+      {
+        "answer": "Direct Mutual Funds",
+        "explanation": "Direct Mutual Funds are described as more suitable for long-term mutual fund investors and specific mutual fund families, not full ongoing portfolio management."
+      },
+      {
+        "answer": "Term Life",
+        "explanation": "Term Life is temporary death benefit protection, not investment advisory management."
+      },
+      {
+        "answer": "Individual Disability Insurance",
+        "explanation": "Individual Disability Insurance protects income from sickness or injury."
+      }
+    ]
+  },
+  {
+    "chapter": 5,
+    "chapterTitle": "Investment Management / Advisory",
+    "category": "Investment Solutions Comparison",
+    "difficulty": "medium",
+    "questionType": "multiple-choice",
+    "id": 516,
+    "question": "Which option gives investors with full brokerage accounts the opportunity to decide for themselves which stocks, bonds, ETFs, and other securities to buy, sell, or hold?",
+    "answers": [
+      "Brokerage Account",
+      "Investment Advisory Solutions",
+      "Fixed Annuity with Lifetime Income",
+      "Whole Life"
+    ],
+    "correct": 0,
+    "correctExplanation": "The PDF says investors with full brokerage accounts may decide for themselves, without recommendations, which stocks, bonds, ETFs, and other securities to buy, sell, or hold.",
+    "wrongExplanations": [
+      {
+        "answer": "Investment Advisory Solutions",
+        "explanation": "Investment Advisory Solutions involve ongoing advice and third-party investment managers."
+      },
+      {
+        "answer": "Fixed Annuity with Lifetime Income",
+        "explanation": "That product provides annuity income features, not self-directed trading of securities."
+      },
+      {
+        "answer": "Whole Life",
+        "explanation": "Whole Life is permanent life insurance, not a self-directed securities account."
+      }
+    ]
+  },
+  {
+    "chapter": 5,
+    "chapterTitle": "Investment Management / Advisory",
+    "category": "Investment Solutions Comparison",
+    "difficulty": "medium",
+    "questionType": "multiple-choice",
+    "id": 517,
+    "question": "Which option is described as ideal for investing in mutual funds directly from a specific mutual fund family?",
+    "answers": [
+      "Direct Mutual Funds",
+      "Investment Advisory Solutions",
+      "Whole Life",
+      "Variable Universal Life"
+    ],
+    "correct": 0,
+    "correctExplanation": "The PDF describes Direct Mutual Funds as ideal for investing in mutual funds directly from a specific mutual fund family.",
+    "wrongExplanations": [
+      {
+        "answer": "Investment Advisory Solutions",
+        "explanation": "Advisory solutions are for ongoing advice and portfolio management."
+      },
+      {
+        "answer": "Whole Life",
+        "explanation": "Whole Life is permanent insurance with cash value, not direct mutual fund investing."
+      },
+      {
+        "answer": "Variable Universal Life",
+        "explanation": "Variable Universal Life is life insurance with investment options, not direct mutual fund ownership from a specific fund family."
+      }
+    ]
+  },
+  {
+    "chapter": 5,
+    "chapterTitle": "Investment Management / Advisory",
+    "category": "Account Minimums",
+    "difficulty": "medium",
+    "questionType": "multiple-choice",
+    "id": 518,
+    "question": "How does the comparison table describe account minimums for Investment Advisory Solutions?",
+    "answers": [
+      "The minimum varies by program and is generally higher than brokerage account requirements",
+      "There are never any minimums",
+      "Minimums are always lower than all mutual funds",
+      "Minimums only apply to life insurance policies"
+    ],
+    "correct": 0,
+    "correctExplanation": "The PDF says the minimum varies by program and is generally higher than the requirements for a brokerage account.",
+    "wrongExplanations": [
+      {
+        "answer": "There are never any minimums",
+        "explanation": "The PDF says minimums vary by program."
+      },
+      {
+        "answer": "Minimums are always lower than all mutual funds",
+        "explanation": "The PDF does not say this."
+      },
+      {
+        "answer": "Minimums only apply to life insurance policies",
+        "explanation": "The comparison table discusses account minimums for investment solutions."
+      }
+    ]
+  },
+  {
+    "chapter": 5,
+    "chapterTitle": "Investment Management / Advisory",
+    "category": "Additional Services",
+    "difficulty": "medium",
+    "questionType": "multiple-choice",
+    "id": 519,
+    "question": "Which additional service is listed under Investment Advisory Solutions?",
+    "answers": [
+      "Easier access to fee-based financial planning",
+      "Automatic disability claim approval",
+      "Guaranteed term conversion",
+      "No investment expenses"
+    ],
+    "correct": 0,
+    "correctExplanation": "The comparison table lists easier access to fee-based financial planning as an additional service for Investment Advisory Solutions.",
+    "wrongExplanations": [
+      {
+        "answer": "Automatic disability claim approval",
+        "explanation": "This is not listed as an investment advisory service."
+      },
+      {
+        "answer": "Guaranteed term conversion",
+        "explanation": "Term conversion is a life insurance feature, not an advisory account service."
+      },
+      {
+        "answer": "No investment expenses",
+        "explanation": "The PDF says additional fund expenses and miscellaneous fees may apply."
+      }
+    ]
+  },
+  {
+    "chapter": 5,
+    "chapterTitle": "Investment Management / Advisory",
+    "category": "Additional Services",
+    "difficulty": "medium",
+    "questionType": "multiple-choice",
+    "id": 520,
+    "question": "Which additional feature is listed for Brokerage Accounts?",
+    "answers": [
+      "Margin trading",
+      "Guaranteed no-lapse rider",
+      "Disability elimination period",
+      "Dividend eligibility from whole life"
+    ],
+    "correct": 0,
+    "correctExplanation": "The comparison table lists margin trading as one of the additional features for brokerage accounts.",
+    "wrongExplanations": [
+      {
+        "answer": "Guaranteed no-lapse rider",
+        "explanation": "That is connected to universal life insurance features."
+      },
+      {
+        "answer": "Disability elimination period",
+        "explanation": "That is connected to Individual Disability Insurance."
+      },
+      {
+        "answer": "Dividend eligibility from whole life",
+        "explanation": "That belongs to whole life insurance, not brokerage account services."
+      }
+    ]
+  },
+  {
+    "chapter": 5,
+    "chapterTitle": "Investment Management / Advisory",
+    "category": "Direct Mutual Funds",
+    "difficulty": "hard",
+    "questionType": "multiple-choice",
+    "id": 521,
+    "question": "What limitation does the PDF identify for Direct Mutual Fund accounts?",
+    "answers": [
+      "Investors cannot purchase mutual funds outside the specific fund family they apply to or self-direct different types of securities in that account",
+      "Investors must always use disability underwriting",
+      "Investors can only buy life insurance policies",
+      "Investors automatically receive guaranteed lifetime income"
+    ],
+    "correct": 0,
+    "correctExplanation": "The PDF says Direct Mutual Fund investors cannot purchase mutual funds outside the specific fund family they apply to and do not have the option to self-direct different securities like stocks, bonds, or ETFs in that account.",
+    "wrongExplanations": [
+      {
+        "answer": "Investors must always use disability underwriting",
+        "explanation": "That is unrelated to Direct Mutual Funds."
+      },
+      {
+        "answer": "Investors can only buy life insurance policies",
+        "explanation": "Direct Mutual Funds are investment accounts, not life insurance policies."
+      },
+      {
+        "answer": "Investors automatically receive guaranteed lifetime income",
+        "explanation": "Guaranteed lifetime income is associated with annuity products, not Direct Mutual Funds."
+      }
+    ]
+  },
+  {
+    "chapter": 5,
+    "chapterTitle": "Investment Management / Advisory",
+    "category": "Rollover Options",
+    "difficulty": "easy",
+    "questionType": "multiple-choice",
+    "id": 522,
+    "question": "Why does the PDF say rollover options matter?",
+    "answers": [
+      "Because clients may need to decide what to do with retirement savings when changing jobs or preparing for retirement",
+      "Because all clients must take a lump sum immediately",
+      "Because retirement savings cannot stay tax-deferred",
+      "Because employer plans never have investment options"
+    ],
+    "correct": 0,
+    "correctExplanation": "The PDF says it is important to determine what to do with retirement savings when transitioning to a new job or preparing for retirement.",
+    "wrongExplanations": [
+      {
+        "answer": "Because all clients must take a lump sum immediately",
+        "explanation": "A lump sum is only one option and comes with major disadvantages."
+      },
+      {
+        "answer": "Because retirement savings cannot stay tax-deferred",
+        "explanation": "Several rollover options maintain tax-deferred status."
+      },
+      {
+        "answer": "Because employer plans never have investment options",
+        "explanation": "Employer plans can have investment options, though they may be limited."
+      }
+    ]
+  },
+  {
+    "chapter": 5,
+    "chapterTitle": "Investment Management / Advisory",
+    "category": "Rollover Options",
+    "difficulty": "medium",
+    "questionType": "multiple-choice",
+    "id": 523,
+    "question": "Which is a potential advantage of keeping money in a former employer's plan if plan rules permit?",
+    "answers": [
+      "No taxes or early withdrawal penalties",
+      "Unlimited control over all securities",
+      "Automatic Roth tax-free treatment",
+      "No plan rules or investment limitations"
+    ],
+    "correct": 0,
+    "correctExplanation": "The PDF lists no taxes or early withdrawal penalties as a potential advantage of keeping money in a former employer's plan if plan rules permit.",
+    "wrongExplanations": [
+      {
+        "answer": "Unlimited control over all securities",
+        "explanation": "The PDF lists limited investment options as a disadvantage."
+      },
+      {
+        "answer": "Automatic Roth tax-free treatment",
+        "explanation": "Keeping money in a former employer plan is not automatically the same as a Roth IRA rollover."
+      },
+      {
+        "answer": "No plan rules or investment limitations",
+        "explanation": "The PDF says clients remain subject to plan policies and limited investment options."
+      }
+    ]
+  },
+  {
+    "chapter": 5,
+    "chapterTitle": "Investment Management / Advisory",
+    "category": "Rollover Options",
+    "difficulty": "medium",
+    "questionType": "multiple-choice",
+    "id": 524,
+    "question": "Which is a potential advantage of a direct rollover to a new employer's plan?",
+    "answers": [
+      "The plan may allow loans and additional contributions",
+      "It always eliminates required minimum distributions forever",
+      "It always gives access to every investment in the market",
+      "It always avoids all plan rules"
+    ],
+    "correct": 0,
+    "correctExplanation": "The PDF lists plan loans and additional contributions as potential advantages of a direct rollover to a new employer's plan, if plan rules permit.",
+    "wrongExplanations": [
+      {
+        "answer": "It always eliminates required minimum distributions forever",
+        "explanation": "The PDF says RMDs may not be required at age 73 if still working, subject to plan rules."
+      },
+      {
+        "answer": "It always gives access to every investment in the market",
+        "explanation": "The PDF lists limited investment options as a disadvantage."
+      },
+      {
+        "answer": "It always avoids all plan rules",
+        "explanation": "Employer plans remain subject to plan policies."
+      }
+    ]
+  },
+  {
+    "chapter": 5,
+    "chapterTitle": "Investment Management / Advisory",
+    "category": "Rollover Options",
+    "difficulty": "medium",
+    "questionType": "multiple-choice",
+    "id": 525,
+    "question": "Which is a potential advantage of a direct rollover to a traditional IRA?",
+    "answers": [
+      "Wide range of investment options and greater control over retirement investments",
+      "Loans are allowed",
+      "No required minimum distributions ever",
+      "No possible fees"
+    ],
+    "correct": 0,
+    "correctExplanation": "The PDF lists a wide range of investment options and greater control over retirement investments as advantages of a direct rollover to a traditional IRA.",
+    "wrongExplanations": [
+      {
+        "answer": "Loans are allowed",
+        "explanation": "The PDF lists loans not allowed as a disadvantage of a traditional IRA rollover."
+      },
+      {
+        "answer": "No required minimum distributions ever",
+        "explanation": "The PDF lists no ability to defer RMDs past age 73 if still employed as a disadvantage."
+      },
+      {
+        "answer": "No possible fees",
+        "explanation": "The PDF says possible higher fees than employer-sponsored plans may apply."
+      }
+    ]
+  },
+  {
+    "chapter": 5,
+    "chapterTitle": "Investment Management / Advisory",
+    "category": "Rollover Options",
+    "difficulty": "hard",
+    "questionType": "multiple-choice",
+    "id": 526,
+    "question": "Which is a key tax consideration for a direct rollover to a Roth IRA?",
+    "answers": [
+      "Taxes must be paid in the year of the rollover, preferably with assets outside the retirement account",
+      "No taxes are ever involved at rollover",
+      "A Roth rollover always creates a loan option",
+      "A Roth rollover always triggers a 20% automatic withholding"
+    ],
+    "correct": 0,
+    "correctExplanation": "The PDF says taxes must be paid in the year of the Roth rollover, preferably with assets outside the retirement account.",
+    "wrongExplanations": [
+      {
+        "answer": "No taxes are ever involved at rollover",
+        "explanation": "The PDF says taxes must be paid in the year of the rollover."
+      },
+      {
+        "answer": "A Roth rollover always creates a loan option",
+        "explanation": "The PDF lists loans not allowed as a disadvantage."
+      },
+      {
+        "answer": "A Roth rollover always triggers a 20% automatic withholding",
+        "explanation": "The 20% automatic withholding is listed under taking the money in a lump sum."
+      }
+    ]
+  },
+  {
+    "chapter": 5,
+    "chapterTitle": "Investment Management / Advisory",
+    "category": "Rollover Options",
+    "difficulty": "hard",
+    "questionType": "multiple-choice",
+    "id": 527,
+    "question": "Which is a potential disadvantage of taking retirement money in a lump sum?",
+    "answers": [
+      "Retirement account is reduced to $0 and 20% is automatically withheld for federal income taxes",
+      "The account stays fully tax-deferred",
+      "No federal, state, or local taxes may be due",
+      "No early withdrawal penalties can ever apply"
+    ],
+    "correct": 0,
+    "correctExplanation": "The PDF says taking a lump sum can reduce the retirement account to $0 and 20% is automatically withheld for federal income taxes.",
+    "wrongExplanations": [
+      {
+        "answer": "The account stays fully tax-deferred",
+        "explanation": "The PDF says taking a lump sum can cause loss of tax-deferred status on future investment earnings."
+      },
+      {
+        "answer": "No federal, state, or local taxes may be due",
+        "explanation": "The PDF says additional federal, state, and local taxes may be due."
+      },
+      {
+        "answer": "No early withdrawal penalties can ever apply",
+        "explanation": "The PDF says a possible 10% penalty tax may apply before age 59 1/2."
+      }
+    ]
+  },
+  {
+    "chapter": 5,
+    "chapterTitle": "Investment Management / Advisory",
+    "category": "Advisor Role",
+    "difficulty": "hard",
+    "questionType": "multiple-choice",
+    "id": 528,
+    "question": "What is the strongest strategic difference between brokerage and advisory solutions based on the PDF?",
+    "answers": [
+      "Brokerage is more transaction and control oriented, while advisory is more ongoing advice and managed portfolio oriented",
+      "Brokerage guarantees returns, while advisory has no market access",
+      "Brokerage is insurance only, while advisory is disability only",
+      "Brokerage has no fees, while advisory has no fees"
+    ],
+    "correct": 0,
+    "correctExplanation": "Brokerage is described with transaction-based pricing and investor control. Advisory solutions are described with ongoing advice, portfolio management, reporting, reviews, and asset-based fees.",
+    "wrongExplanations": [
+      {
+        "answer": "Brokerage guarantees returns, while advisory has no market access",
+        "explanation": "The PDF does not say brokerage guarantees returns, and advisory solutions do have market access."
+      },
+      {
+        "answer": "Brokerage is insurance only, while advisory is disability only",
+        "explanation": "Both are investment solution categories, not insurance-only categories."
+      },
+      {
+        "answer": "Brokerage has no fees, while advisory has no fees",
+        "explanation": "The PDF describes fees for both brokerage and advisory solutions."
+      }
+    ]
+  },
+  {
+    "chapter": 5,
+    "chapterTitle": "Investment Management / Advisory",
+    "category": "Client Matching",
+    "difficulty": "hard",
+    "questionType": "multiple-choice",
+    "id": 529,
+    "question": "A client wants to make their own investment decisions and control the trading. Which solution best matches that need?",
+    "answers": [
+      "Brokerage Account or Direct Mutual Funds",
+      "Investment Advisory Solutions only",
+      "Individual Disability Insurance",
+      "Fixed Period Income Annuity"
+    ],
+    "correct": 0,
+    "correctExplanation": "Brokerage Account and Direct Mutual Funds are designed for investors who want control over investments and do not require ongoing advice.",
+    "wrongExplanations": [
+      {
+        "answer": "Investment Advisory Solutions only",
+        "explanation": "Advisory solutions focus more on ongoing advice and professional management."
+      },
+      {
+        "answer": "Individual Disability Insurance",
+        "explanation": "This protects income from disability, not investment trading control."
+      },
+      {
+        "answer": "Fixed Period Income Annuity",
+        "explanation": "This provides guaranteed income for a set period, not investment trading control."
+      }
+    ]
+  },
+  {
+    "chapter": 5,
+    "chapterTitle": "Investment Management / Advisory",
+    "category": "Client Matching",
+    "difficulty": "hard",
+    "questionType": "multiple-choice",
+    "id": 530,
+    "question": "A client wants ongoing investment advice, portfolio reviews, rebalancing, and performance reporting. Which solution best matches that need?",
+    "answers": [
+      "Investment Advisory Solutions",
+      "Direct Mutual Funds only",
+      "Term Life",
+      "Individual Disability Insurance"
+    ],
+    "correct": 0,
+    "correctExplanation": "Investment Advisory Solutions are described as ideal for investors seeking ongoing advice, portfolio management, reporting, periodic reviews, and rebalancing.",
+    "wrongExplanations": [
+      {
+        "answer": "Direct Mutual Funds only",
+        "explanation": "Direct Mutual Funds are more limited to investing in mutual funds directly through a specific fund family."
+      },
+      {
+        "answer": "Term Life",
+        "explanation": "Term Life is temporary life insurance protection, not ongoing investment advice."
+      },
+      {
+        "answer": "Individual Disability Insurance",
+        "explanation": "Individual Disability Insurance protects working income against disability."
+      }
+    ]
+  },
+  {
+    "chapter": 5,
+    "chapterTitle": "Investment Management / Advisory",
+    "category": "Client Matching",
+    "difficulty": "hard",
+    "questionType": "multiple-choice",
+    "id": 531,
+    "question": "A client wants to invest directly with one mutual fund family and does not need to self-direct stocks, bonds, and ETFs in the same account. Which solution best matches that need?",
+    "answers": [
+      "Direct Mutual Funds",
+      "Full Brokerage Account",
+      "Investment Advisory Solutions",
+      "Variable Universal Life"
+    ],
+    "correct": 0,
+    "correctExplanation": "Direct Mutual Funds are designed for investing directly with a specific mutual fund family and do not provide the same self-directed securities flexibility as a full brokerage account.",
+    "wrongExplanations": [
+      {
+        "answer": "Full Brokerage Account",
+        "explanation": "A full brokerage account is broader and allows more self-directed securities access."
+      },
+      {
+        "answer": "Investment Advisory Solutions",
+        "explanation": "Advisory solutions are for ongoing advice and managed portfolio support."
+      },
+      {
+        "answer": "Variable Universal Life",
+        "explanation": "Variable Universal Life is a life insurance product with investment options, not a direct mutual fund account."
+      }
+    ]
+  },
+  {
+    "chapter": 5,
+    "chapterTitle": "Investment Management / Advisory",
+    "category": "Hard Ass Question",
+    "difficulty": "boss",
+    "questionType": "multiple-choice",
+    "id": 532,
+    "question": "Hard ass question: A client says, 'I want full control, no ongoing advisor management, access to stocks and ETFs, and I am okay paying transaction-based costs.' Based strictly on the PDF, what is the strongest recommendation logic?",
+    "answers": [
+      "A full brokerage account fits better than advisory solutions because the client wants self-directed control and transaction-based pricing",
+      "Investment Advisory Solutions fit better because the client clearly wants ongoing management and rebalancing",
+      "Direct Mutual Funds fit best because they allow self-directed stocks, bonds, ETFs, and unlimited fund families in one account",
+      "Whole Life fits best because the client asked for investment trading control"
+    ],
+    "correct": 0,
+    "correctExplanation": "The PDF frames brokerage accounts as more control-oriented and transaction-based, with the ability for full brokerage investors to decide for themselves which stocks, bonds, ETFs, and other securities to buy, sell, or hold.",
+    "wrongExplanations": [
+      {
+        "answer": "Investment Advisory Solutions fit better because the client clearly wants ongoing management and rebalancing",
+        "explanation": "The client specifically does not want ongoing advisor management, which points away from advisory solutions."
+      },
+      {
+        "answer": "Direct Mutual Funds fit best because they allow self-directed stocks, bonds, ETFs, and unlimited fund families in one account",
+        "explanation": "The PDF says Direct Mutual Funds are limited to a specific mutual fund family and do not allow self-directed stocks, bonds, ETFs, and other securities in that account."
+      },
+      {
+        "answer": "Whole Life fits best because the client asked for investment trading control",
+        "explanation": "Whole Life is permanent life insurance with cash value. It is not a trading account."
+      }
+    ]
+  },
+  {
+    "chapter": 5,
+    "chapterTitle": "Investment Management / Advisory",
+    "category": "Hard Ass Question",
+    "difficulty": "boss",
+    "questionType": "multiple-choice",
+    "id": 533,
+    "question": "Hard ass question: A client is leaving a job and wants control over retirement investments, a wide range of investment choices, and individual investment advice, but does not need loans. Based strictly on the rollover comparison, which option aligns best?",
+    "answers": [
+      "Direct rollover to a traditional IRA",
+      "Keep all money in the former employer's plan",
+      "Take the money in a lump sum",
+      "Direct rollover to a new employer's plan only because IRAs always allow loans"
+    ],
+    "correct": 0,
+    "correctExplanation": "The PDF lists wide investment options, greater control, consolidation opportunity, and individual investment advice as potential advantages of a direct rollover to a traditional IRA, while also noting loans are not allowed.",
+    "wrongExplanations": [
+      {
+        "answer": "Keep all money in the former employer's plan",
+        "explanation": "That may maintain tax-deferred status, but the PDF lists limited investment options and less control as disadvantages."
+      },
+      {
+        "answer": "Take the money in a lump sum",
+        "explanation": "The PDF lists major disadvantages, including possible penalties, taxes, automatic withholding, and loss of tax-deferred status."
+      },
+      {
+        "answer": "Direct rollover to a new employer's plan only because IRAs always allow loans",
+        "explanation": "The PDF says loans are not allowed in a traditional IRA."
+      }
+    ]
+  }
+]
