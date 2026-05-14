@@ -22,22 +22,22 @@
         <h2>Chapters 1–5</h2>
         <h3>PRODUCT KNOWLEDGE</h3>
 
-        <button type="button" onclick="startChapter('product', 1)">Chapter 1: Foundation / Trust Layer</button>
-        <button type="button" onclick="startChapter('product', 2)">Chapter 2: Protection Solutions</button>
-        <button type="button" onclick="startChapter('product', 3)">Chapter 3: Retirement Income</button>
-        <button type="button" onclick="startChapter('product', 4)">Chapter 4: Wealth Accumulation</button>
-        <button type="button" onclick="startChapter('product', 5)">Chapter 5: Investment Management / Advisory</button>
+        <button type="button" onclick="startChapter(1)">Chapter 1: Foundation / Trust Layer</button>
+        <button type="button" onclick="startChapter(2)">Chapter 2: Protection Solutions</button>
+        <button type="button" onclick="startChapter(3)">Chapter 3: Retirement Income</button>
+        <button type="button" onclick="startChapter(4)">Chapter 4: Wealth Accumulation</button>
+        <button type="button" onclick="startChapter(5)">Chapter 5: Investment Management / Advisory</button>
       </div>
 
       <div class="chapter-column">
         <h2>Chapters 6–10</h2>
         <h3>STRATEGIC UNDERSTANDING</h3>
 
-        <button type="button" onclick="startChapter('strategy', 6)">Chapter 6: Functional Relationship Map</button>
-        <button type="button" onclick="startChapter('strategy', 7)">Chapter 7: Product Relationship Hierarchy</button>
-        <button type="button" onclick="startChapter('strategy', 8)">Chapter 8: Risk vs Growth Flow</button>
-        <button type="button" onclick="startChapter('strategy', 9)">Chapter 9: Client Journey Flow</button>
-        <button type="button" onclick="startChapter('strategy', 10)">Chapter 10: Core Philosophy</button>
+        <button type="button" onclick="startChapter(6)">Chapter 6: Functional Relationship Map</button>
+        <button type="button" onclick="startChapter(7)">Chapter 7: Product Relationship Hierarchy</button>
+        <button type="button" onclick="startChapter(8)">Chapter 8: Risk vs Growth Flow</button>
+        <button type="button" onclick="startChapter(9)">Chapter 9: Client Journey Flow</button>
+        <button type="button" onclick="startChapter(10)">Chapter 10: Core Philosophy</button>
       </div>
 
     </section>
@@ -49,11 +49,11 @@
         <p id="progress"></p>
         <h3 id="questionText"></h3>
 
+        <button type="button" id="nextButton" class="hidden" onclick="nextQuestion()">Next Question</button>
+
         <div id="answers"></div>
 
         <div id="feedbackBox" class="feedback-box hidden"></div>
-
-        <button type="button" id="nextButton" class="hidden" onclick="nextQuestion()">Next Question</button>
       </div>
 
     </section>
