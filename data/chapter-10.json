@@ -1,0 +1,591 @@
+[
+  {
+    "chapter": 10,
+    "chapterTitle": "Core Philosophy",
+    "category": "Protection First",
+    "difficulty": "easy",
+    "questionType": "multiple-choice",
+    "id": 1,
+    "question": "What is the central philosophy repeatedly emphasized throughout Eagle Charting?",
+    "answers": [
+      "Protection should be the foundation of financial planning",
+      "Maximum market growth should come first",
+      "Short-term gains are the priority",
+      "Insurance should only be used for emergencies"
+    ],
+    "correct": 0,
+    "correctExplanation": "Protection should be the foundation of financial planning is correct because the PDF consistently explains that protecting what matters most comes before growth strategies.",
+    "wrongExplanations": [
+      {
+        "answer": "Maximum market growth should come first",
+        "explanation": "The framework does not prioritize aggressive growth before protection."
+      },
+      {
+        "answer": "Short-term gains are the priority",
+        "explanation": "The philosophy focuses heavily on long-term planning."
+      },
+      {
+        "answer": "Insurance should only be used for emergencies",
+        "explanation": "Insurance is presented as a core strategic foundation rather than a last resort."
+      }
+    ]
+  },
+  {
+    "chapter": 10,
+    "chapterTitle": "Core Philosophy",
+    "category": "Long-Term Thinking",
+    "difficulty": "medium",
+    "questionType": "multiple-choice",
+    "id": 2,
+    "question": "Why does the Eagle Charting philosophy focus so heavily on long-term planning?",
+    "answers": [
+      "Because financial security compounds over time",
+      "Because short-term planning is illegal",
+      "Because markets never fluctuate",
+      "Because all clients retire immediately"
+    ],
+    "correct": 0,
+    "correctExplanation": "Because financial security compounds over time is correct because the framework is designed around sustained stability growth and long-term financial protection.",
+    "wrongExplanations": [
+      {
+        "answer": "Because short-term planning is illegal",
+        "explanation": "Short-term planning is not illegal. It is simply incomplete by itself."
+      },
+      {
+        "answer": "Because markets never fluctuate",
+        "explanation": "The framework acknowledges that markets fluctuate and risk exists."
+      },
+      {
+        "answer": "Because all clients retire immediately",
+        "explanation": "Clients are at different stages of life and planning."
+      }
+    ]
+  },
+  {
+    "chapter": 10,
+    "chapterTitle": "Core Philosophy",
+    "category": "Client Relationships",
+    "difficulty": "medium",
+    "questionType": "multiple-choice",
+    "id": 3,
+    "question": "How does the philosophy describe the relationship between the advisor and client?",
+    "answers": [
+      "A long-term partnership built on trust and accountability",
+      "A short-term sales transaction",
+      "A market speculation partnership",
+      "A commission-only relationship"
+    ],
+    "correct": 0,
+    "correctExplanation": "A long-term partnership built on trust and accountability is correct because the PDF repeatedly emphasizes guidance trust accountability and long-term relationships.",
+    "wrongExplanations": [
+      {
+        "answer": "A short-term sales transaction",
+        "explanation": "The philosophy strongly rejects purely transactional thinking."
+      },
+      {
+        "answer": "A market speculation partnership",
+        "explanation": "The framework is broader than speculation and focuses on holistic planning."
+      },
+      {
+        "answer": "A commission-only relationship",
+        "explanation": "The philosophy emphasizes guidance and planning rather than compensation."
+      }
+    ]
+  },
+  {
+    "chapter": 10,
+    "chapterTitle": "Core Philosophy",
+    "category": "Mutuality",
+    "difficulty": "medium",
+    "questionType": "multiple-choice",
+    "id": 4,
+    "question": "Why is New York Life's mutual company structure highlighted in the philosophy?",
+    "answers": [
+      "Because policyowners are prioritized over shareholders",
+      "Because it guarantees market dominance",
+      "Because it eliminates all financial risk",
+      "Because it removes the need for planning"
+    ],
+    "correct": 0,
+    "correctExplanation": "Because policyowners are prioritized over shareholders is correct because the PDF explains that mutuality allows focus on long-term policyowner interests.",
+    "wrongExplanations": [
+      {
+        "answer": "Because it guarantees market dominance",
+        "explanation": "Mutuality does not guarantee dominance."
+      },
+      {
+        "answer": "Because it eliminates all financial risk",
+        "explanation": "No company structure eliminates all risk."
+      },
+      {
+        "answer": "Because it removes the need for planning",
+        "explanation": "Planning remains central to the philosophy."
+      }
+    ]
+  },
+  {
+    "chapter": 10,
+    "chapterTitle": "Core Philosophy",
+    "category": "Financial Security",
+    "difficulty": "easy",
+    "questionType": "multiple-choice",
+    "id": 5,
+    "question": "According to the philosophy what is the purpose of financial protection?",
+    "answers": [
+      "To create peace of mind and financial stability",
+      "To maximize speculation",
+      "To avoid all investing",
+      "To guarantee luxury lifestyles"
+    ],
+    "correct": 0,
+    "correctExplanation": "To create peace of mind and financial stability is correct because the philosophy emphasizes security confidence and stability.",
+    "wrongExplanations": [
+      {
+        "answer": "To maximize speculation",
+        "explanation": "Protection products are not designed for speculation."
+      },
+      {
+        "answer": "To avoid all investing",
+        "explanation": "The framework includes investing as part of long-term planning."
+      },
+      {
+        "answer": "To guarantee luxury lifestyles",
+        "explanation": "The philosophy focuses on security and preparedness."
+      }
+    ]
+  },
+  {
+    "chapter": 10,
+    "chapterTitle": "Core Philosophy",
+    "category": "Planning Process",
+    "difficulty": "medium",
+    "questionType": "multiple-choice",
+    "id": 6,
+    "question": "What is the first step in the Eagle Charting planning philosophy?",
+    "answers": [
+      "Understanding the client's goals position and aspirations",
+      "Selling investment products immediately",
+      "Maximizing retirement withdrawals",
+      "Creating speculative portfolios"
+    ],
+    "correct": 0,
+    "correctExplanation": "Understanding the client's goals position and aspirations is correct because the framework begins with understanding the client's overall financial picture.",
+    "wrongExplanations": [
+      {
+        "answer": "Selling investment products immediately",
+        "explanation": "The framework prioritizes understanding before recommending products."
+      },
+      {
+        "answer": "Maximizing retirement withdrawals",
+        "explanation": "Withdrawals are only one part of planning."
+      },
+      {
+        "answer": "Creating speculative portfolios",
+        "explanation": "Speculation is not the starting point of the philosophy."
+      }
+    ]
+  },
+  {
+    "chapter": 10,
+    "chapterTitle": "Core Philosophy",
+    "category": "Education",
+    "difficulty": "medium",
+    "questionType": "multiple-choice",
+    "id": 7,
+    "question": "Why does the philosophy emphasize ongoing education and reporting?",
+    "answers": [
+      "Because financial situations and needs evolve over time",
+      "Because products never change",
+      "Because one meeting solves everything",
+      "Because planning should stay static forever"
+    ],
+    "correct": 0,
+    "correctExplanation": "Because financial situations and needs evolve over time is correct because the philosophy stresses ongoing review and adaptation.",
+    "wrongExplanations": [
+      {
+        "answer": "Because products never change",
+        "explanation": "Products and circumstances both change over time."
+      },
+      {
+        "answer": "Because one meeting solves everything",
+        "explanation": "The philosophy emphasizes ongoing guidance."
+      },
+      {
+        "answer": "Because planning should stay static forever",
+        "explanation": "Planning must adapt as life changes."
+      }
+    ]
+  },
+  {
+    "chapter": 10,
+    "chapterTitle": "Core Philosophy",
+    "category": "Protection vs Growth",
+    "difficulty": "hard",
+    "questionType": "multiple-choice",
+    "id": 8,
+    "question": "How does the philosophy balance protection and growth?",
+    "answers": [
+      "Protection supports and stabilizes future growth",
+      "Growth replaces the need for protection",
+      "Protection prevents wealth building",
+      "Growth should always override stability"
+    ],
+    "correct": 0,
+    "correctExplanation": "Protection supports and stabilizes future growth is correct because the framework treats protection as the base that allows confident long-term growth.",
+    "wrongExplanations": [
+      {
+        "answer": "Growth replaces the need for protection",
+        "explanation": "The philosophy treats both as complementary."
+      },
+      {
+        "answer": "Protection prevents wealth building",
+        "explanation": "Protection is positioned as a foundation for wealth building."
+      },
+      {
+        "answer": "Growth should always override stability",
+        "explanation": "The framework emphasizes balance rather than reckless growth."
+      }
+    ]
+  },
+  {
+    "chapter": 10,
+    "chapterTitle": "Core Philosophy",
+    "category": "Comprehensive Solutions",
+    "difficulty": "medium",
+    "questionType": "multiple-choice",
+    "id": 9,
+    "question": "What does the philosophy mean by 'comprehensive solutions'?",
+    "answers": [
+      "Using multiple financial tools together to address different needs",
+      "Using only one product for every situation",
+      "Avoiding retirement planning",
+      "Focusing entirely on investments"
+    ],
+    "correct": 0,
+    "correctExplanation": "Using multiple financial tools together to address different needs is correct because the framework integrates protection retirement investments and advisory services.",
+    "wrongExplanations": [
+      {
+        "answer": "Using only one product for every situation",
+        "explanation": "Different goals require different solutions."
+      },
+      {
+        "answer": "Avoiding retirement planning",
+        "explanation": "Retirement planning is a major part of the philosophy."
+      },
+      {
+        "answer": "Focusing entirely on investments",
+        "explanation": "The framework extends far beyond investments."
+      }
+    ]
+  },
+  {
+    "chapter": 10,
+    "chapterTitle": "Core Philosophy",
+    "category": "Risk Management",
+    "difficulty": "hard",
+    "questionType": "multiple-choice",
+    "id": 10,
+    "question": "Why is risk management central to the Eagle Charting philosophy?",
+    "answers": [
+      "Because unprotected risks can destroy long-term plans",
+      "Because risk can be fully eliminated",
+      "Because all risk is bad",
+      "Because growth is impossible"
+    ],
+    "correct": 0,
+    "correctExplanation": "Because unprotected risks can destroy long-term plans is correct because the philosophy emphasizes protecting income assets and family stability.",
+    "wrongExplanations": [
+      {
+        "answer": "Because risk can be fully eliminated",
+        "explanation": "Risk can be managed but never fully removed."
+      },
+      {
+        "answer": "Because all risk is bad",
+        "explanation": "Some risk is necessary for growth."
+      },
+      {
+        "answer": "Because growth is impossible",
+        "explanation": "Growth remains a major objective of planning."
+      }
+    ]
+  },
+  {
+    "chapter": 10,
+    "chapterTitle": "Core Philosophy",
+    "category": "Legacy",
+    "difficulty": "medium",
+    "questionType": "multiple-choice",
+    "id": 11,
+    "question": "How does the philosophy view legacy planning?",
+    "answers": [
+      "As part of long-term responsibility and generational planning",
+      "As unnecessary for most clients",
+      "As only relevant to wealthy investors",
+      "As separate from protection planning"
+    ],
+    "correct": 0,
+    "correctExplanation": "As part of long-term responsibility and generational planning is correct because the framework discusses creating legacies for future generations.",
+    "wrongExplanations": [
+      {
+        "answer": "As unnecessary for most clients",
+        "explanation": "Legacy planning is treated as an important consideration."
+      },
+      {
+        "answer": "As only relevant to wealthy investors",
+        "explanation": "Legacy planning can apply broadly."
+      },
+      {
+        "answer": "As separate from protection planning",
+        "explanation": "Legacy planning connects directly to protection and wealth transfer."
+      }
+    ]
+  },
+  {
+    "chapter": 10,
+    "chapterTitle": "Core Philosophy",
+    "category": "Advisor Role",
+    "difficulty": "medium",
+    "questionType": "multiple-choice",
+    "id": 12,
+    "question": "Within the philosophy what is the advisor's primary role?",
+    "answers": [
+      "Guide clients through informed thoughtful financial decisions",
+      "Predict market crashes perfectly",
+      "Guarantee profits",
+      "Replace the client's decision-making"
+    ],
+    "correct": 0,
+    "correctExplanation": "Guide clients through informed thoughtful financial decisions is correct because the philosophy emphasizes education guidance and partnership.",
+    "wrongExplanations": [
+      {
+        "answer": "Predict market crashes perfectly",
+        "explanation": "Perfect prediction is impossible."
+      },
+      {
+        "answer": "Guarantee profits",
+        "explanation": "Profits cannot be guaranteed."
+      },
+      {
+        "answer": "Replace the client's decision-making",
+        "explanation": "The relationship is collaborative rather than controlling."
+      }
+    ]
+  },
+  {
+    "chapter": 10,
+    "chapterTitle": "Core Philosophy",
+    "category": "Financial Strength",
+    "difficulty": "hard",
+    "questionType": "multiple-choice",
+    "id": 13,
+    "question": "Why does the philosophy repeatedly mention financial strength and endurance?",
+    "answers": [
+      "Because trust depends on long-term stability and claims-paying ability",
+      "Because branding is more important than planning",
+      "Because age guarantees performance",
+      "Because market losses are impossible"
+    ],
+    "correct": 0,
+    "correctExplanation": "Because trust depends on long-term stability and claims-paying ability is correct because financial strength reinforces confidence in long-term commitments.",
+    "wrongExplanations": [
+      {
+        "answer": "Because branding is more important than planning",
+        "explanation": "The philosophy prioritizes planning and trust."
+      },
+      {
+        "answer": "Because age guarantees performance",
+        "explanation": "Longevity helps credibility but does not guarantee outcomes."
+      },
+      {
+        "answer": "Because market losses are impossible",
+        "explanation": "The framework acknowledges market risk."
+      }
+    ]
+  },
+  {
+    "chapter": 10,
+    "chapterTitle": "Core Philosophy",
+    "category": "Holistic Planning",
+    "difficulty": "hard",
+    "questionType": "multiple-choice",
+    "id": 14,
+    "question": "What makes the Eagle Charting philosophy holistic rather than product-focused?",
+    "answers": [
+      "It starts with the client's overall life goals before recommending products",
+      "It sells the same solution to everyone",
+      "It avoids discussing personal circumstances",
+      "It only focuses on investment returns"
+    ],
+    "correct": 0,
+    "correctExplanation": "It starts with the client's overall life goals before recommending products is correct because the philosophy begins with understanding the client's situation and aspirations.",
+    "wrongExplanations": [
+      {
+        "answer": "It sells the same solution to everyone",
+        "explanation": "The framework is based on personalized planning."
+      },
+      {
+        "answer": "It avoids discussing personal circumstances",
+        "explanation": "Personal circumstances are central to the planning process."
+      },
+      {
+        "answer": "It only focuses on investment returns",
+        "explanation": "The framework includes protection retirement and legacy planning."
+      }
+    ]
+  },
+  {
+    "chapter": 10,
+    "chapterTitle": "Core Philosophy",
+    "category": "Client Confidence",
+    "difficulty": "medium",
+    "questionType": "multiple-choice",
+    "id": 15,
+    "question": "According to the philosophy what creates client confidence during retirement?",
+    "answers": [
+      "Knowing income and protection strategies are in place",
+      "Chasing maximum speculation",
+      "Ignoring long-term risks",
+      "Avoiding all guaranteed products"
+    ],
+    "correct": 0,
+    "correctExplanation": "Knowing income and protection strategies are in place is correct because guaranteed income and stability increase retirement confidence.",
+    "wrongExplanations": [
+      {
+        "answer": "Chasing maximum speculation",
+        "explanation": "Speculation increases uncertainty."
+      },
+      {
+        "answer": "Ignoring long-term risks",
+        "explanation": "The philosophy emphasizes managing long-term risks."
+      },
+      {
+        "answer": "Avoiding all guaranteed products",
+        "explanation": "Guarantees play a major role in the framework."
+      }
+    ]
+  },
+  {
+    "chapter": 10,
+    "chapterTitle": "Core Philosophy",
+    "category": "Adaptability",
+    "difficulty": "hard",
+    "questionType": "multiple-choice",
+    "id": 16,
+    "question": "Why is adaptability an important part of the Eagle Charting philosophy?",
+    "answers": [
+      "Because financial goals and circumstances evolve over time",
+      "Because products never remain effective",
+      "Because guarantees disappear automatically",
+      "Because retirement plans should constantly restart"
+    ],
+    "correct": 0,
+    "correctExplanation": "Because financial goals and circumstances evolve over time is correct because the philosophy stresses regular review and adjustment.",
+    "wrongExplanations": [
+      {
+        "answer": "Because products never remain effective",
+        "explanation": "Products can remain effective depending on the plan."
+      },
+      {
+        "answer": "Because guarantees disappear automatically",
+        "explanation": "Guarantees depend on product structure."
+      },
+      {
+        "answer": "Because retirement plans should constantly restart",
+        "explanation": "Plans evolve rather than restart completely."
+      }
+    ]
+  },
+  {
+    "chapter": 10,
+    "chapterTitle": "Core Philosophy",
+    "category": "Strategic Thinking",
+    "difficulty": "hard",
+    "questionType": "multiple-choice",
+    "id": 17,
+    "question": "What separates strategic financial planning from simply buying products according to the philosophy?",
+    "answers": [
+      "Products are selected to support broader long-term goals",
+      "The cheapest products are always best",
+      "The highest returns always matter most",
+      "Every client should own the same portfolio"
+    ],
+    "correct": 0,
+    "correctExplanation": "Products are selected to support broader long-term goals is correct because the philosophy emphasizes strategy before product selection.",
+    "wrongExplanations": [
+      {
+        "answer": "The cheapest products are always best",
+        "explanation": "Suitability and long-term goals matter more than price alone."
+      },
+      {
+        "answer": "The highest returns always matter most",
+        "explanation": "The framework balances growth with protection and stability."
+      },
+      {
+        "answer": "Every client should own the same portfolio",
+        "explanation": "The philosophy emphasizes customization."
+      }
+    ]
+  },
+  {
+    "chapter": 10,
+    "chapterTitle": "Core Philosophy",
+    "category": "Core Values",
+    "difficulty": "hard",
+    "questionType": "multiple-choice",
+    "id": 18,
+    "question": "Which combination best reflects the core values of the Eagle Charting philosophy?",
+    "answers": [
+      "Trust protection guidance accountability and long-term thinking",
+      "Speed speculation pressure and urgency",
+      "Short-term profits and market timing",
+      "Minimal planning and reactive decisions"
+    ],
+    "correct": 0,
+    "correctExplanation": "Trust protection guidance accountability and long-term thinking is correct because these ideas appear consistently throughout the PDF.",
+    "wrongExplanations": [
+      {
+        "answer": "Speed speculation pressure and urgency",
+        "explanation": "The philosophy is careful and long-term oriented."
+      },
+      {
+        "answer": "Short-term profits and market timing",
+        "explanation": "The framework avoids short-term speculative thinking."
+      },
+      {
+        "answer": "Minimal planning and reactive decisions",
+        "explanation": "The framework is proactive and strategic."
+      }
+    ]
+  },
+  {
+    "chapter": 10,
+    "chapterTitle": "Core Philosophy",
+    "category": "Mastery Question",
+    "difficulty": "hard",
+    "questionType": "multiple-choice",
+    "id": 19,
+    "question": "Hard Question: A client wants aggressive wealth accumulation immediately while ignoring protection retirement income and risk management. According to the Eagle Charting philosophy what is the deepest flaw in this approach?",
+    "answers": [
+      "The plan prioritizes growth without securing the financial foundation first",
+      "The client is being too conservative",
+      "The client owns too many guarantees",
+      "The client is focusing too much on legacy planning"
+    ],
+    "correct": 0,
+    "correctExplanation": "The plan prioritizes growth without securing the financial foundation first is correct because the philosophy consistently teaches that sustainable growth should be built on protection stability and long-term planning.",
+    "wrongExplanations": [
+      {
+        "answer": "The client is being too conservative",
+        "explanation": "The issue is actually excessive focus on growth without protection."
+      },
+      {
+        "answer": "The client owns too many guarantees",
+        "explanation": "The scenario specifically lacks foundational guarantees."
+      },
+      {
+        "answer": "The client is focusing too much on legacy planning",
+        "explanation": "Legacy planning is not the issue described."
+      }
+    ]
+  }
+]

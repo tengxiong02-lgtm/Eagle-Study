@@ -1,0 +1,653 @@
+[
+  {
+    "chapter": 9,
+    "chapterTitle": "Client Journey Flow",
+    "category": "Journey Foundation",
+    "difficulty": "easy",
+    "questionType": "multiple-choice",
+    "id": 1,
+    "question": "What is the first major step in the client journey described in the PDF?",
+    "answers": [
+      "Recommend a product before learning the client's goals",
+      "Start by understanding the client's financial position, goals, and aspirations",
+      "Begin with market performance projections",
+      "Skip education and move directly to purchase"
+    ],
+    "correct": 1,
+    "correctExplanation": "The first major step is understanding the client's financial position, goals, and aspirations. The PDF says the process starts by understanding the client before using that information to clarify decisions.",
+    "wrongExplanations": [
+      {
+        "answer": "Recommend a product before learning the client's goals",
+        "explanation": "This is wrong because the PDF presents discovery and understanding before product selection."
+      },
+      {
+        "answer": "Begin with market performance projections",
+        "explanation": "This is wrong because market performance is only relevant in certain investment products, not the starting point of the journey."
+      },
+      {
+        "answer": "Skip education and move directly to purchase",
+        "explanation": "This is wrong because the PDF emphasizes ongoing reporting, education, and guidance."
+      }
+    ]
+  },
+  {
+    "chapter": 9,
+    "chapterTitle": "Client Journey Flow",
+    "category": "Client Discovery",
+    "difficulty": "easy",
+    "questionType": "multiple-choice",
+    "id": 2,
+    "question": "Why does the client journey begin with goals instead of products?",
+    "answers": [
+      "Because every client should buy the same product first",
+      "Because goals determine which solutions may be appropriate",
+      "Because product details are not important",
+      "Because the lowest premium is always the best choice"
+    ],
+    "correct": 1,
+    "correctExplanation": "Goals determine the solution path. The PDF repeatedly says clients should determine goals, needs, timing, risk tolerance, and affordability before choosing a product or program.",
+    "wrongExplanations": [
+      {
+        "answer": "Because every client should buy the same product first",
+        "explanation": "This is wrong because the PDF says solutions should be personalized and based on specific circumstances."
+      },
+      {
+        "answer": "Because product details are not important",
+        "explanation": "This is wrong because the PDF says clients should learn product types and review policy details carefully."
+      },
+      {
+        "answer": "Because the lowest premium is always the best choice",
+        "explanation": "This is wrong because affordability matters, but the journey also weighs guarantees, risks, benefits, and long-term needs."
+      }
+    ]
+  },
+  {
+    "chapter": 9,
+    "chapterTitle": "Client Journey Flow",
+    "category": "Protection Journey",
+    "difficulty": "medium",
+    "questionType": "multiple-choice",
+    "id": 3,
+    "question": "In the insurance buying process, what should happen before choosing the type of insurance policy?",
+    "answers": [
+      "Determine goals, insurance need, affordability, and learn what types can address the need",
+      "Cancel all existing coverage immediately",
+      "Select the policy with the most market participation",
+      "Choose only the product with the highest cash value"
+    ],
+    "correct": 0,
+    "correctExplanation": "The PDF's insurance buying process moves from determining goals, insurance amount, and affordability, to learning types of insurance, then choosing the type or combination of types that best meets the need.",
+    "wrongExplanations": [
+      {
+        "answer": "Cancel all existing coverage immediately",
+        "explanation": "This is wrong because the PDF warns that replacing coverage may be costly and should be reviewed carefully."
+      },
+      {
+        "answer": "Select the policy with the most market participation",
+        "explanation": "This is wrong because market participation is only one feature and may add risk."
+      },
+      {
+        "answer": "Choose only the product with the highest cash value",
+        "explanation": "This is wrong because some clients may need temporary protection or income replacement rather than cash value accumulation."
+      }
+    ]
+  },
+  {
+    "chapter": 9,
+    "chapterTitle": "Client Journey Flow",
+    "category": "Protection Journey",
+    "difficulty": "medium",
+    "questionType": "multiple-choice",
+    "id": 4,
+    "question": "Where does affordability fit in the client journey for protection solutions?",
+    "answers": [
+      "It is ignored after the application is signed",
+      "It is considered early when determining how much insurance is needed and what the client can afford to pay",
+      "It only matters for investment advisory accounts",
+      "It matters only after the policy lapses"
+    ],
+    "correct": 1,
+    "correctExplanation": "Affordability is part of the early protection journey. The PDF says clients should determine goals, how much insurance is needed over time, and what they can afford to pay.",
+    "wrongExplanations": [
+      {
+        "answer": "It is ignored after the application is signed",
+        "explanation": "This is wrong because the PDF says clients should review coverage regularly as needs and income change."
+      },
+      {
+        "answer": "It only matters for investment advisory accounts",
+        "explanation": "This is wrong because affordability is specifically part of the insurance buying process."
+      },
+      {
+        "answer": "It matters only after the policy lapses",
+        "explanation": "This is wrong because affordability should be considered before purchase to reduce lapse risk."
+      }
+    ]
+  },
+  {
+    "chapter": 9,
+    "chapterTitle": "Client Journey Flow",
+    "category": "Product Selection",
+    "difficulty": "medium",
+    "questionType": "multiple-choice",
+    "id": 5,
+    "question": "After a client understands their goals and product options, what is the next decision point in the journey?",
+    "answers": [
+      "Choose the product or combination of products that best meets the client's needs",
+      "Buy the most complex product available",
+      "Avoid reviewing premiums, guarantees, and living benefits",
+      "Only compare products by their name"
+    ],
+    "correct": 0,
+    "correctExplanation": "The next decision point is choosing the type of policy or combination of types that best meets the client's needs after considering premiums, death benefits, living benefits, and other features.",
+    "wrongExplanations": [
+      {
+        "answer": "Buy the most complex product available",
+        "explanation": "This is wrong because complexity does not determine suitability."
+      },
+      {
+        "answer": "Avoid reviewing premiums, guarantees, and living benefits",
+        "explanation": "This is wrong because the PDF specifically says to consider those items before choosing."
+      },
+      {
+        "answer": "Only compare products by their name",
+        "explanation": "This is wrong because the PDF stresses features, benefits, limitations, and client circumstances."
+      }
+    ]
+  },
+  {
+    "chapter": 9,
+    "chapterTitle": "Client Journey Flow",
+    "category": "Retirement Journey",
+    "difficulty": "easy",
+    "questionType": "multiple-choice",
+    "id": 6,
+    "question": "What is the first question in the retirement income journey?",
+    "answers": [
+      "How much market risk can the client ignore?",
+      "When will the client need retirement income, now or later?",
+      "Which product has the longest surrender charge?",
+      "Which account has the highest trading flexibility?"
+    ],
+    "correct": 1,
+    "correctExplanation": "The retirement income journey begins by determining retirement goals, how much income is needed, and when that income is needed, now or later.",
+    "wrongExplanations": [
+      {
+        "answer": "How much market risk can the client ignore?",
+        "explanation": "This is wrong because risk should not be ignored. The PDF emphasizes matching products to needs."
+      },
+      {
+        "answer": "Which product has the longest surrender charge?",
+        "explanation": "This is wrong because surrender charges are a consideration, not the first journey question."
+      },
+      {
+        "answer": "Which account has the highest trading flexibility?",
+        "explanation": "This is wrong because trading flexibility belongs more to investment solutions, not the core retirement income starting point."
+      }
+    ]
+  },
+  {
+    "chapter": 9,
+    "chapterTitle": "Client Journey Flow",
+    "category": "Retirement Journey",
+    "difficulty": "medium",
+    "questionType": "multiple-choice",
+    "id": 7,
+    "question": "If a client needs retirement income immediately or within the next year, which journey path fits best?",
+    "answers": [
+      "Income later through deferred income only",
+      "Income now through lifetime income annuity or fixed period income annuity options",
+      "Only brokerage account trading",
+      "Only variable universal life"
+    ],
+    "correct": 1,
+    "correctExplanation": "For income now, the PDF identifies lifetime income annuities and fixed period income annuities as options that can start immediately or within the next year.",
+    "wrongExplanations": [
+      {
+        "answer": "Income later through deferred income only",
+        "explanation": "This is wrong because deferred income annuities are for income starting later."
+      },
+      {
+        "answer": "Only brokerage account trading",
+        "explanation": "This is wrong because brokerage accounts are investment solutions, not guaranteed retirement income products."
+      },
+      {
+        "answer": "Only variable universal life",
+        "explanation": "This is wrong because variable universal life is a protection product with market participation, not the main retirement income path."
+      }
+    ]
+  },
+  {
+    "chapter": 9,
+    "chapterTitle": "Client Journey Flow",
+    "category": "Retirement Journey",
+    "difficulty": "medium",
+    "questionType": "multiple-choice",
+    "id": 8,
+    "question": "If a client does not need income until a later date, which journey path fits the PDF's retirement income flow?",
+    "answers": [
+      "Deferred income annuity or fixed annuity with lifetime income",
+      "Fixed period income annuity only",
+      "Term life conversion only",
+      "Direct mutual funds only"
+    ],
+    "correct": 0,
+    "correctExplanation": "For income later, the PDF lists deferred income annuity and fixed annuity with lifetime income as options designed to defer income until a future date.",
+    "wrongExplanations": [
+      {
+        "answer": "Fixed period income annuity only",
+        "explanation": "This is wrong because fixed period income annuity is positioned under income now."
+      },
+      {
+        "answer": "Term life conversion only",
+        "explanation": "This is wrong because term life conversion is a protection feature, not a retirement income path."
+      },
+      {
+        "answer": "Direct mutual funds only",
+        "explanation": "This is wrong because direct mutual funds are investment solutions and do not create guaranteed retirement income by themselves."
+      }
+    ]
+  },
+  {
+    "chapter": 9,
+    "chapterTitle": "Client Journey Flow",
+    "category": "Wealth Accumulation Journey",
+    "difficulty": "easy",
+    "questionType": "multiple-choice",
+    "id": 9,
+    "question": "What does the wealth accumulation journey ask the client to determine first?",
+    "answers": [
+      "The client's long-term goals and the level of assets and income needed to meet them",
+      "The client's favorite investment company logo",
+      "The fastest way to avoid all fees",
+      "The product with no application review"
+    ],
+    "correct": 0,
+    "correctExplanation": "The PDF says the wealth accumulation process begins by determining long-term goals and the level of assets and income needed to meet those goals.",
+    "wrongExplanations": [
+      {
+        "answer": "The client's favorite investment company logo",
+        "explanation": "This is wrong because branding preference is not part of the selection process."
+      },
+      {
+        "answer": "The fastest way to avoid all fees",
+        "explanation": "This is wrong because fees should be considered, but the journey starts with goals, risk tolerance, time horizon, and asset needs."
+      },
+      {
+        "answer": "The product with no application review",
+        "explanation": "This is wrong because the PDF repeatedly says applications and illustrations should be reviewed carefully."
+      }
+    ]
+  },
+  {
+    "chapter": 9,
+    "chapterTitle": "Client Journey Flow",
+    "category": "Wealth Accumulation Journey",
+    "difficulty": "medium",
+    "questionType": "multiple-choice",
+    "id": 10,
+    "question": "Which factors guide the selection of investment or annuity programs in the wealth accumulation journey?",
+    "answers": [
+      "Goals, risk tolerance, time horizon, income needs, and asset level requirements",
+      "Only age and product popularity",
+      "Only the highest projected return",
+      "Only whether the product has dividends"
+    ],
+    "correct": 0,
+    "correctExplanation": "The PDF says the client should consider goals, risk tolerance, time horizon, income, and asset level requirements before selecting the best combination of programs.",
+    "wrongExplanations": [
+      {
+        "answer": "Only age and product popularity",
+        "explanation": "This is wrong because suitability requires more than age and popularity."
+      },
+      {
+        "answer": "Only the highest projected return",
+        "explanation": "This is wrong because higher return potential can come with higher risk and may not match the client's goals."
+      },
+      {
+        "answer": "Only whether the product has dividends",
+        "explanation": "This is wrong because dividends apply to specific products and are not the only selection factor."
+      }
+    ]
+  },
+  {
+    "chapter": 9,
+    "chapterTitle": "Client Journey Flow",
+    "category": "Advice Model",
+    "difficulty": "medium",
+    "questionType": "multiple-choice",
+    "id": 11,
+    "question": "In the client journey, when would Investment Advisory Solutions fit better than a brokerage account?",
+    "answers": [
+      "When the client wants proactive ongoing advice and fee-based portfolio support",
+      "When the client wants no professional involvement at all",
+      "When the client only wants a temporary life insurance death benefit",
+      "When the client wants guaranteed income with no market participation"
+    ],
+    "correct": 0,
+    "correctExplanation": "Investment Advisory Solutions fit clients who want ongoing advice, a disciplined investment strategy, portfolio support, and fee-based pricing.",
+    "wrongExplanations": [
+      {
+        "answer": "When the client wants no professional involvement at all",
+        "explanation": "This is wrong because advisory solutions are specifically for clients seeking ongoing professional advice."
+      },
+      {
+        "answer": "When the client only wants a temporary life insurance death benefit",
+        "explanation": "This is wrong because temporary death benefit protection points to term life, not advisory solutions."
+      },
+      {
+        "answer": "When the client wants guaranteed income with no market participation",
+        "explanation": "This is wrong because that need points more toward certain guaranteed income annuities, not advisory investment programs."
+      }
+    ]
+  },
+  {
+    "chapter": 9,
+    "chapterTitle": "Client Journey Flow",
+    "category": "Advice Model",
+    "difficulty": "medium",
+    "questionType": "multiple-choice",
+    "id": 12,
+    "question": "In the client journey, when would a brokerage account or direct mutual fund path fit better than advisory solutions?",
+    "answers": [
+      "When the client seeks control over investments and does not require ongoing advice",
+      "When the client wants guaranteed lifetime income only",
+      "When the client needs disability income protection",
+      "When the client wants no access to investment choices"
+    ],
+    "correct": 0,
+    "correctExplanation": "The PDF says brokerage accounts and direct mutual fund investing are for investors who want control and access to a financial professional but do not require ongoing advice.",
+    "wrongExplanations": [
+      {
+        "answer": "When the client wants guaranteed lifetime income only",
+        "explanation": "This is wrong because guaranteed lifetime income fits retirement income annuities."
+      },
+      {
+        "answer": "When the client needs disability income protection",
+        "explanation": "This is wrong because disability insurance protects against income loss from sickness or injury."
+      },
+      {
+        "answer": "When the client wants no access to investment choices",
+        "explanation": "This is wrong because brokerage and direct mutual funds provide investment access and control."
+      }
+    ]
+  },
+  {
+    "chapter": 9,
+    "chapterTitle": "Client Journey Flow",
+    "category": "Review and Monitoring",
+    "difficulty": "medium",
+    "questionType": "multiple-choice",
+    "id": 13,
+    "question": "Why is regular review part of the client journey?",
+    "answers": [
+      "Because needs, income, goals, and policy performance can change over time",
+      "Because every product must be replaced every year",
+      "Because clients should ignore policy details after purchase",
+      "Because reviews eliminate all market risk"
+    ],
+    "correct": 0,
+    "correctExplanation": "Regular review is part of the journey because the PDF says coverage, annuities, and plans should be reviewed with a financial professional to make sure they keep up with changes in needs and income.",
+    "wrongExplanations": [
+      {
+        "answer": "Because every product must be replaced every year",
+        "explanation": "This is wrong because the PDF warns that replacement can be costly and should be carefully reviewed."
+      },
+      {
+        "answer": "Because clients should ignore policy details after purchase",
+        "explanation": "This is wrong because the PDF says clients should read policies carefully and ask questions."
+      },
+      {
+        "answer": "Because reviews eliminate all market risk",
+        "explanation": "This is wrong because market risk can still exist in variable products."
+      }
+    ]
+  },
+  {
+    "chapter": 9,
+    "chapterTitle": "Client Journey Flow",
+    "category": "Application Review",
+    "difficulty": "easy",
+    "questionType": "multiple-choice",
+    "id": 14,
+    "question": "What should a client do before signing an insurance or annuity application?",
+    "answers": [
+      "Review the application carefully to make sure answers are complete and accurate",
+      "Sign quickly and review it years later",
+      "Only check the product name",
+      "Ignore illustrations and disclosures"
+    ],
+    "correct": 0,
+    "correctExplanation": "The PDF tells clients to review applications carefully before signing and make sure all answers are complete and accurate. It also says to review illustrations carefully.",
+    "wrongExplanations": [
+      {
+        "answer": "Sign quickly and review it years later",
+        "explanation": "This is wrong because the review should happen before signing."
+      },
+      {
+        "answer": "Only check the product name",
+        "explanation": "This is wrong because complete and accurate answers matter, not just the product name."
+      },
+      {
+        "answer": "Ignore illustrations and disclosures",
+        "explanation": "This is wrong because the PDF specifically says to review illustrations carefully."
+      }
+    ]
+  },
+  {
+    "chapter": 9,
+    "chapterTitle": "Client Journey Flow",
+    "category": "Policy Understanding",
+    "difficulty": "easy",
+    "questionType": "multiple-choice",
+    "id": 15,
+    "question": "What should a client do if something in the policy is not clear?",
+    "answers": [
+      "Ask the financial professional or New York Life for clarification",
+      "Assume the unclear section does not matter",
+      "Cancel the policy immediately without review",
+      "Only rely on online opinions"
+    ],
+    "correct": 0,
+    "correctExplanation": "The PDF says clients should read the policy carefully and ask the financial professional or New York Life about anything that is not clear.",
+    "wrongExplanations": [
+      {
+        "answer": "Assume the unclear section does not matter",
+        "explanation": "This is wrong because unclear policy language can affect benefits, costs, guarantees, and limitations."
+      },
+      {
+        "answer": "Cancel the policy immediately without review",
+        "explanation": "This is wrong because the PDF encourages careful review before making changes."
+      },
+      {
+        "answer": "Only rely on online opinions",
+        "explanation": "This is wrong because the PDF directs clients to ask their financial professional or New York Life."
+      }
+    ]
+  },
+  {
+    "chapter": 9,
+    "chapterTitle": "Client Journey Flow",
+    "category": "Replacement Decision",
+    "difficulty": "medium",
+    "questionType": "multiple-choice",
+    "id": 16,
+    "question": "How should replacement of an existing insurance or annuity policy be handled in the client journey?",
+    "answers": [
+      "Automatically replace older policies with newer ones",
+      "Carefully compare the existing policy's features and benefits with the new policy before replacing",
+      "Replace only because the premium is lower at first",
+      "Ignore surrender charges and lost benefits"
+    ],
+    "correct": 1,
+    "correctExplanation": "The PDF warns that replacing coverage or an annuity may be costly and may result in lost benefits, so the existing policy and new policy should be carefully compared.",
+    "wrongExplanations": [
+      {
+        "answer": "Automatically replace older policies with newer ones",
+        "explanation": "This is wrong because newer does not automatically mean better or suitable."
+      },
+      {
+        "answer": "Replace only because the premium is lower at first",
+        "explanation": "This is wrong because lower initial cost may come with lost benefits, higher future costs, or other tradeoffs."
+      },
+      {
+        "answer": "Ignore surrender charges and lost benefits",
+        "explanation": "This is wrong because the PDF specifically warns about costs and lost benefits when replacing."
+      }
+    ]
+  },
+  {
+    "chapter": 9,
+    "chapterTitle": "Client Journey Flow",
+    "category": "Rollover Journey",
+    "difficulty": "medium",
+    "questionType": "multiple-choice",
+    "id": 17,
+    "question": "What is the main client journey question when transitioning retirement savings from an employer plan?",
+    "answers": [
+      "What should the client do with retirement savings when changing jobs or preparing for retirement?",
+      "How can the client spend the full account immediately without consequences?",
+      "Which option avoids all taxes forever in every situation?",
+      "Which option guarantees the highest return?"
+    ],
+    "correct": 0,
+    "correctExplanation": "The PDF frames rollover planning around deciding what to do with retirement savings when transitioning to a new job or preparing for retirement.",
+    "wrongExplanations": [
+      {
+        "answer": "How can the client spend the full account immediately without consequences?",
+        "explanation": "This is wrong because taking a lump sum may create taxes, penalties, withholding, and loss of tax-deferred status."
+      },
+      {
+        "answer": "Which option avoids all taxes forever in every situation?",
+        "explanation": "This is wrong because tax outcomes vary by option, account type, and timing."
+      },
+      {
+        "answer": "Which option guarantees the highest return?",
+        "explanation": "This is wrong because the rollover comparison focuses on advantages, disadvantages, control, fees, taxes, and plan rules, not guaranteed highest return."
+      }
+    ]
+  },
+  {
+    "chapter": 9,
+    "chapterTitle": "Client Journey Flow",
+    "category": "Rollover Journey",
+    "difficulty": "hard",
+    "questionType": "multiple-choice",
+    "id": 18,
+    "question": "A client is changing jobs and wants to maintain tax-deferred status, avoid early withdrawal penalties, and possibly consolidate retirement investments. Which journey path best matches the PDF's rollover options?",
+    "answers": [
+      "Take the money in a lump sum",
+      "Direct rollover to a traditional IRA or new employer plan, depending on plan rules and client needs",
+      "Cancel retirement planning until age 73",
+      "Move only into term life insurance"
+    ],
+    "correct": 1,
+    "correctExplanation": "A direct rollover to a traditional IRA or new employer plan may maintain tax-deferred status and avoid taxes or early withdrawal penalties. The right path depends on plan rules, fees, control, loan access, investment options, and client needs.",
+    "wrongExplanations": [
+      {
+        "answer": "Take the money in a lump sum",
+        "explanation": "This is wrong because the PDF lists potential disadvantages such as taxes, possible penalties, automatic federal withholding, and loss of tax-deferred status."
+      },
+      {
+        "answer": "Cancel retirement planning until age 73",
+        "explanation": "This is wrong because the PDF presents rollover decisions as important during job transition or retirement preparation, not something to ignore."
+      },
+      {
+        "answer": "Move only into term life insurance",
+        "explanation": "This is wrong because term life is protection, not a rollover destination for employer retirement savings."
+      }
+    ]
+  },
+  {
+    "chapter": 9,
+    "chapterTitle": "Client Journey Flow",
+    "category": "Long-Term Partnership",
+    "difficulty": "medium",
+    "questionType": "multiple-choice",
+    "id": 19,
+    "question": "What does the PDF describe as the nature of the relationship between the client and the financial professional?",
+    "answers": [
+      "A one-time transaction built around selling the fastest product",
+      "A long-term partnership built on trust and shared accountability",
+      "A product-only relationship with no education or guidance",
+      "A short-term trading relationship based only on market timing"
+    ],
+    "correct": 1,
+    "correctExplanation": "The PDF describes the relationship as a long-term partnership built on trust and shared accountability, supported by ongoing reporting, education, and guidance.",
+    "wrongExplanations": [
+      {
+        "answer": "A one-time transaction built around selling the fastest product",
+        "explanation": "This is wrong because the PDF emphasizes long-term partnership, not one-time sales."
+      },
+      {
+        "answer": "A product-only relationship with no education or guidance",
+        "explanation": "This is wrong because education and guidance are central parts of the process."
+      },
+      {
+        "answer": "A short-term trading relationship based only on market timing",
+        "explanation": "This is wrong because the PDF focuses on financial protection, retirement income, wealth accumulation, and long-term planning."
+      }
+    ]
+  },
+  {
+    "chapter": 9,
+    "chapterTitle": "Client Journey Flow",
+    "category": "Journey Integration",
+    "difficulty": "hard",
+    "questionType": "multiple-choice",
+    "id": 20,
+    "question": "A client has young children, limited budget, needs death benefit protection now, wants future flexibility, and may later need long-term planning. What is the strongest client journey sequence?",
+    "answers": [
+      "Start with investment advisory solutions before discussing protection needs",
+      "Begin with protection discovery, consider term life for affordable temporary coverage, review conversion options, then revisit needs over time",
+      "Recommend a fixed period income annuity because the client has children",
+      "Avoid insurance because wealth accumulation should always come first"
+    ],
+    "correct": 1,
+    "correctExplanation": "This sequence fits the PDF's journey logic: start with the client's protection need and affordability, consider term life for temporary cost-effective death benefit protection, note conversion flexibility, and review coverage as needs and income change.",
+    "wrongExplanations": [
+      {
+        "answer": "Start with investment advisory solutions before discussing protection needs",
+        "explanation": "This is wrong because the client has an immediate protection need and limited budget."
+      },
+      {
+        "answer": "Recommend a fixed period income annuity because the client has children",
+        "explanation": "This is wrong because fixed period income annuities address guaranteed retirement income for a period of time, not immediate family death benefit protection."
+      },
+      {
+        "answer": "Avoid insurance because wealth accumulation should always come first",
+        "explanation": "This is wrong because the PDF's philosophy is protection-first, with protection as a foundation and springboard for growth."
+      }
+    ]
+  },
+  {
+    "chapter": 9,
+    "chapterTitle": "Client Journey Flow",
+    "category": "Hard Ass Question",
+    "difficulty": "hard",
+    "questionType": "multiple-choice",
+    "id": 21,
+    "question": "Hard ass question: A client wants protection, retirement income, and investment growth, but refuses to discuss goals, risk tolerance, time horizon, income needs, existing policies, or affordability. What is the most correct advisor response based on the PDF's client journey?",
+    "answers": [
+      "Recommend the highest-commission product because the client wants everything",
+      "Pause product selection and return to discovery because suitable recommendations require goals, needs, timing, risk tolerance, existing coverage, and affordability",
+      "Sell only variable products because they cover every need",
+      "Tell the client that review and education are unnecessary"
+    ],
+    "correct": 1,
+    "correctExplanation": "The best response is to pause product selection and return to discovery. The PDF's journey requires understanding goals, needs, income timing, risk tolerance, affordability, existing coverage, and product tradeoffs before choosing solutions. Without discovery, the advisor cannot properly map the client to protection, income, or investment options.",
+    "wrongExplanations": [
+      {
+        "answer": "Recommend the highest-commission product because the client wants everything",
+        "explanation": "This is wrong because the PDF positions the relationship as trust-based and client-centered, not commission-first."
+      },
+      {
+        "answer": "Sell only variable products because they cover every need",
+        "explanation": "This is wrong because variable products involve market risk and do not automatically fit protection, income, and affordability needs."
+      },
+      {
+        "answer": "Tell the client that review and education are unnecessary",
+        "explanation": "This is wrong because the PDF emphasizes ongoing reporting, education, guidance, careful review, and regular plan updates."
+      }
+    ]
+  }
+]
