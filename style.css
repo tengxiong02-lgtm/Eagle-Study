@@ -1,194 +1,203 @@
-let allQuestions = [];
-let currentQuestions = [];
-let currentIndex = 0;
-let selectedAnswer = null;
-let userAnswers = [];
-let wrongAnswers = [];
+* {
+  box-sizing: border-box;
+}
 
-async function startChapter(type, chapterNumber) {
-  const file =
-    type === "product"
-      ? "./data/questions-product.json"
-      : "./data/questions-strategy.json";
+body {
+  font-family: Arial, sans-serif;
+  background: linear-gradient(135deg, #eef2f7, #dbe5f1);
+  margin: 0;
+  padding: 24px;
+  color: #111827;
+}
 
-  try {
-    const response = await fetch(file);
+#app {
+  max-width: 1100px;
+  margin: 0 auto;
+}
 
-    if (!response.ok) {
-      throw new Error("Failed to load JSON.");
-    }
+.app-header {
+  text-align: center;
+  margin-bottom: 32px;
+  padding: 28px 20px;
+  background: white;
+  border-radius: 18px;
+  box-shadow: 0 8px 22px rgba(0, 0, 0, 0.08);
+}
 
-    allQuestions = await response.json();
-  } catch (error) {
-    alert("Error loading quiz data.");
-    console.error(error);
-    return;
+.app-header h1 {
+  margin: 0;
+  font-size: 42px;
+}
+
+.created-by {
+  margin: 12px 0 4px;
+  font-size: 18px;
+  font-weight: bold;
+}
+
+.created-date {
+  margin: 0;
+  font-size: 15px;
+  color: #6b7280;
+}
+
+.menu-grid {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 24px;
+}
+
+.chapter-column {
+  background: white;
+  padding: 24px;
+  border-radius: 18px;
+  text-align: center;
+  box-shadow: 0 8px 22px rgba(0, 0, 0, 0.08);
+}
+
+.chapter-column h2 {
+  margin: 0;
+  font-size: 26px;
+}
+
+.chapter-column h3 {
+  margin: 8px 0 22px;
+  font-size: 16px;
+  color: #4b5563;
+  letter-spacing: 1px;
+}
+
+button {
+  display: block;
+  width: 100%;
+  padding: 15px;
+  margin: 12px 0;
+  border: none;
+  border-radius: 12px;
+  background: #1f2937;
+  color: white;
+  font-size: 16px;
+  font-weight: bold;
+  cursor: pointer;
+}
+
+button:hover {
+  opacity: 0.92;
+}
+
+button:disabled {
+  cursor: not-allowed;
+  opacity: 1;
+}
+
+.quiz-card,
+.result-card {
+  max-width: 800px;
+  margin: 0 auto;
+  background: white;
+  padding: 28px;
+  border-radius: 18px;
+  text-align: center;
+  box-shadow: 0 8px 22px rgba(0, 0, 0, 0.08);
+}
+
+#chapterTitle {
+  margin-top: 0;
+  font-size: 28px;
+}
+
+#progress {
+  color: #6b7280;
+  font-weight: bold;
+}
+
+#questionText {
+  font-size: 22px;
+  line-height: 1.4;
+}
+
+#answers {
+  margin-top: 20px;
+}
+
+.answer-btn {
+  background: #f9fafb;
+  color: #111827;
+  border: 2px solid #d1d5db;
+  text-align: left;
+}
+
+.correct-answer {
+  background: #dcfce7;
+  border-color: #16a34a;
+  color: #14532d;
+}
+
+.wrong-answer {
+  background: #fee2e2;
+  border-color: #dc2626;
+  color: #7f1d1d;
+}
+
+.feedback-box {
+  margin-top: 22px;
+  padding: 20px;
+  background: #f9fafb;
+  border: 1px solid #d1d5db;
+  border-radius: 14px;
+  text-align: left;
+}
+
+.feedback-box h3 {
+  margin-top: 0;
+}
+
+.feedback-box ul {
+  padding-left: 22px;
+}
+
+#nextButton {
+  background: #2563eb;
+  margin-top: 20px;
+}
+
+.result-buttons {
+  margin-top: 20px;
+}
+
+.review-card {
+  background: #f9fafb;
+  padding: 18px;
+  margin-top: 18px;
+  border-radius: 14px;
+  text-align: left;
+  border: 1px solid #e5e7eb;
+}
+
+.hidden {
+  display: none;
+}
+
+@media (max-width: 700px) {
+  body {
+    padding: 14px;
   }
 
-  currentQuestions = allQuestions.filter(q => q.chapter === chapterNumber);
-  currentQuestions = currentQuestions.sort(() => Math.random() - 0.5);
-
-  currentIndex = 0;
-  selectedAnswer = null;
-  userAnswers = [];
-  wrongAnswers = [];
-
-  document.getElementById("menu").classList.add("hidden");
-  document.getElementById("results").classList.add("hidden");
-  document.getElementById("quiz").classList.remove("hidden");
-
-  showQuestion();
-}
-
-function showQuestion() {
-  const q = currentQuestions[currentIndex];
-
-  selectedAnswer = null;
-
-  document.getElementById("chapterTitle").textContent = q.chapterTitle;
-  document.getElementById("progress").textContent =
-    `Question ${currentIndex + 1} of ${currentQuestions.length}`;
-  document.getElementById("questionText").textContent = q.question;
-
-  document.getElementById("feedbackBox").classList.add("hidden");
-  document.getElementById("feedbackBox").innerHTML = "";
-  document.getElementById("nextButton").classList.add("hidden");
-
-  const answersDiv = document.getElementById("answers");
-  answersDiv.innerHTML = "";
-
-  q.answers.forEach((answer, index) => {
-    const btn = document.createElement("button");
-    btn.textContent = answer;
-    btn.className = "answer-btn";
-    btn.onclick = () => selectAnswer(index);
-    answersDiv.appendChild(btn);
-  });
-}
-
-function selectAnswer(index) {
-  if (selectedAnswer !== null) return;
-
-  selectedAnswer = index;
-
-  const q = currentQuestions[currentIndex];
-  const isCorrect = selectedAnswer === q.correct;
-
-  userAnswers.push({
-    ...q,
-    selectedAnswer,
-    isCorrect
-  });
-
-  if (!isCorrect) {
-    wrongAnswers.push(q);
+  .app-header h1 {
+    font-size: 32px;
   }
 
-  const answerButtons = document.querySelectorAll(".answer-btn");
-
-  answerButtons.forEach((btn, btnIndex) => {
-    btn.disabled = true;
-
-    if (btnIndex === q.correct) {
-      btn.classList.add("correct-answer");
-    }
-
-    if (btnIndex === selectedAnswer && btnIndex !== q.correct) {
-      btn.classList.add("wrong-answer");
-    }
-  });
-
-  showFeedback(q, isCorrect);
-}
-
-function showFeedback(q, isCorrect) {
-  const feedbackBox = document.getElementById("feedbackBox");
-
-  let resultText = isCorrect ? "Correct" : "Wrong";
-
-  let html = `
-    <h3>${resultText}</h3>
-    <p><strong>Correct Answer:</strong> ${q.answers[q.correct]}</p>
-    <p><strong>Why it is correct:</strong> ${q.correctExplanation}</p>
-    <h4>Why the others are not correct:</h4>
-    <ul>
-  `;
-
-  q.wrongExplanations.forEach(item => {
-    html += `<li><strong>${item.answer}:</strong> ${item.explanation}</li>`;
-  });
-
-  html += `
-    </ul>
-  `;
-
-  feedbackBox.innerHTML = html;
-  feedbackBox.classList.remove("hidden");
-
-  document.getElementById("nextButton").classList.remove("hidden");
-}
-
-function nextQuestion() {
-  currentIndex++;
-
-  if (currentIndex < currentQuestions.length) {
-    showQuestion();
-  } else {
-    showResults();
-  }
-}
-
-function showResults() {
-  document.getElementById("quiz").classList.add("hidden");
-  document.getElementById("results").classList.remove("hidden");
-
-  const correct = userAnswers.filter(a => a.isCorrect).length;
-
-  document.getElementById("scoreText").textContent =
-    `Score: ${correct} / ${userAnswers.length}`;
-}
-
-function retakeWrong() {
-  if (wrongAnswers.length === 0) {
-    alert("No wrong answers to retake.");
-    return;
+  .menu-grid {
+    grid-template-columns: 1fr;
   }
 
-  currentQuestions = [...wrongAnswers];
-  currentIndex = 0;
-  selectedAnswer = null;
-  userAnswers = [];
-  wrongAnswers = [];
+  .chapter-column,
+  .quiz-card,
+  .result-card {
+    padding: 20px;
+  }
 
-  document.getElementById("results").classList.add("hidden");
-  document.getElementById("quiz").classList.remove("hidden");
-
-  showQuestion();
-}
-
-function reviewAnswers() {
-  const reviewArea = document.getElementById("reviewArea");
-  reviewArea.innerHTML = "";
-
-  userAnswers.forEach((item, index) => {
-    const div = document.createElement("div");
-    div.className = "review-card";
-
-    div.innerHTML = `
-      <h3>Question ${index + 1}</h3>
-      <p><strong>${item.question}</strong></p>
-      <p>Your Answer: ${item.answers[item.selectedAnswer]}</p>
-      <p>Correct Answer: ${item.answers[item.correct]}</p>
-      <p>${item.isCorrect ? "Correct" : "Wrong"}</p>
-      <p><strong>Why correct:</strong> ${item.correctExplanation}</p>
-    `;
-
-    reviewArea.appendChild(div);
-  });
-}
-
-function backToMenu() {
-  document.getElementById("results").classList.add("hidden");
-  document.getElementById("quiz").classList.add("hidden");
-  document.getElementById("menu").classList.remove("hidden");
+  #questionText {
+    font-size: 19px;
+  }
 }
