@@ -1,77 +1,36 @@
-let allQuestions = [];
 let currentQuestions = [];
 let currentIndex = 0;
 let selectedAnswer = null;
 let userAnswers = [];
 let wrongAnswers = [];
 
-/*
-  GitHub Pages safe loader:
-  This tries BOTH possible JSON locations:
-  1. ./data/questions-product.json
-  2. questions-product.json
-*/
+async function loadQuizData(chapterNumber) {
 
-async function loadQuizData(type, chapterNumber) {
+  const file = `./data/chapter-${chapterNumber}.json`;
 
-  const chapterFileName = `chapter-${chapterNumber}.json`;
+  const response = await fetch(file, {
+    cache: "no-store"
+  });
 
-  const legacyFiles =
-    type === "product"
-      ? [
-          "./data/questions-product.json",
-          "questions-product.json"
-        ]
-      : [
-          "./data/questions-strategy.json",
-          "questions-strategy.json"
-        ];
-
-  const possibleFiles = [
-    `./data/${chapterFileName}`,
-    chapterFileName,
-    ...legacyFiles
-  ];
-
-  let lastError = null;
-
-  for (const file of possibleFiles) {
-
-    try {
-
-      const response = await fetch(file, {
-        cache: "no-store"
-      });
-
-      if (!response.ok) {
-        throw new Error(`Could not load ${file}`);
-      }
-
-      const data = await response.json();
-
-      if (!Array.isArray(data)) {
-        throw new Error(`${file} is not a valid JSON array.`);
-      }
-
-      return data;
-
-    } catch (error) {
-
-      lastError = error;
-      console.warn(error);
-
-    }
-
+  if (!response.ok) {
+    throw new Error(`Could not load ${file}`);
   }
 
-  throw lastError;
+  const data = await response.json();
+
+  if (!Array.isArray(data)) {
+    throw new Error(`${file} is not a valid JSON array.`);
+  }
+
+  return data;
 }
 
-async function startChapter(type, chapterNumber) {
+async function startChapter(chapterNumber) {
 
   try {
 
-    allQuestions = await loadQuizData(type, chapterNumber);
+    currentQuestions =
+      await loadQuizData(chapterNumber);
 
   } catch (error) {
 
@@ -83,10 +42,6 @@ async function startChapter(type, chapterNumber) {
 
     return;
   }
-
-  currentQuestions = allQuestions.filter(
-    q => Number(q.chapter) === Number(chapterNumber)
-  );
 
   currentIndex = 0;
   selectedAnswer = null;
