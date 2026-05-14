@@ -1,0 +1,994 @@
+[
+  {
+    "chapter": 3,
+    "chapterTitle": "Retirement Income",
+    "category": "Purpose of Annuities",
+    "difficulty": "easy",
+    "questionType": "multiple-choice",
+    "id": 1,
+    "question": "What is the main purpose of buying an income annuity for retirement income?",
+    "answers": [
+      "To create guaranteed income that can help provide confidence in retirement spending",
+      "To maximize short-term stock market trading gains",
+      "To avoid ever reviewing retirement plans again",
+      "To replace all insurance products with investment products"
+    ],
+    "correct": 0,
+    "correctExplanation": "This is correct because the PDF explains that an income annuity adds peace of mind by providing guaranteed income that can help retirees spend more confidently.",
+    "wrongExplanations": [
+      {
+        "answer": "To maximize short-term stock market trading gains",
+        "explanation": "This is wrong because income annuities are presented as retirement income tools, not short-term trading tools."
+      },
+      {
+        "answer": "To avoid ever reviewing retirement plans again",
+        "explanation": "This is wrong because the PDF says clients should review plans regularly with a financial professional."
+      },
+      {
+        "answer": "To replace all insurance products with investment products",
+        "explanation": "This is wrong because the PDF presents annuities as one part of a broader financial strategy, not a replacement for all other products."
+      }
+    ]
+  },
+  {
+    "chapter": 3,
+    "chapterTitle": "Retirement Income",
+    "category": "Buying Process",
+    "difficulty": "easy",
+    "questionType": "multiple-choice",
+    "id": 2,
+    "question": "In the retirement income buying process, what should a client determine first?",
+    "answers": [
+      "Which product has the most complicated features",
+      "Their retirement goals, how much income they need, and when they need it",
+      "The highest possible dividend projection",
+      "Which annuity has the longest footnote section"
+    ],
+    "correct": 1,
+    "correctExplanation": "This is correct because the first step in the PDF is to determine retirement goals, the income needed to meet them, and whether income is needed now or later.",
+    "wrongExplanations": [
+      {
+        "answer": "Which product has the most complicated features",
+        "explanation": "This is wrong because complexity is not the starting point. The process starts with goals and income needs."
+      },
+      {
+        "answer": "The highest possible dividend projection",
+        "explanation": "This is wrong because dividends are not guaranteed and should not replace planning around actual needs."
+      },
+      {
+        "answer": "Which annuity has the longest footnote section",
+        "explanation": "This is wrong because footnotes are important disclosures, but they are not the first planning step."
+      }
+    ]
+  },
+  {
+    "chapter": 3,
+    "chapterTitle": "Retirement Income",
+    "category": "Buying Process",
+    "difficulty": "easy",
+    "questionType": "multiple-choice",
+    "id": 3,
+    "question": "After determining retirement goals and learning about annuity types, what is the next step?",
+    "answers": [
+      "Choose the annuity type that best meets the client's goals after considering payment options, income timing, and features",
+      "Immediately take a lump sum withdrawal",
+      "Ignore premium payment options and focus only on market performance",
+      "Select only the annuity with the highest initial income"
+    ],
+    "correct": 0,
+    "correctExplanation": "This is correct because the PDF says clients should consider premium payment options, when income is needed, and additional features before choosing the annuity that best meets their goals.",
+    "wrongExplanations": [
+      {
+        "answer": "Immediately take a lump sum withdrawal",
+        "explanation": "This is wrong because a lump sum withdrawal is not part of the annuity selection process described in the retirement income section."
+      },
+      {
+        "answer": "Ignore premium payment options and focus only on market performance",
+        "explanation": "This is wrong because premium payment options and income timing are central to the decision."
+      },
+      {
+        "answer": "Select only the annuity with the highest initial income",
+        "explanation": "This is wrong because highest initial income may not fit every goal, especially when dividend potential, liquidity, timing, and flexibility matter."
+      }
+    ]
+  },
+  {
+    "chapter": 3,
+    "chapterTitle": "Retirement Income",
+    "category": "Income Timing",
+    "difficulty": "easy",
+    "questionType": "multiple-choice",
+    "id": 4,
+    "question": "If a client needs retirement income immediately or within the next year, which product category does the PDF point them toward?",
+    "answers": [
+      "Deferred Income Annuity only",
+      "Lifetime Income Annuity or Fixed Period Income Annuity",
+      "Fixed Annuity with Lifetime Income only",
+      "Brokerage Account and Direct Mutual Funds"
+    ],
+    "correct": 1,
+    "correctExplanation": "This is correct because the PDF lists Lifetime Income Annuity and Fixed Period Income Annuity under income needed now.",
+    "wrongExplanations": [
+      {
+        "answer": "Deferred Income Annuity only",
+        "explanation": "This is wrong because deferred income annuities are listed for income needed later."
+      },
+      {
+        "answer": "Fixed Annuity with Lifetime Income only",
+        "explanation": "This is wrong because it is listed under income later, not the immediate income category."
+      },
+      {
+        "answer": "Brokerage Account and Direct Mutual Funds",
+        "explanation": "This is wrong because those belong to investment solutions, not guaranteed retirement income annuities in this section."
+      }
+    ]
+  },
+  {
+    "chapter": 3,
+    "chapterTitle": "Retirement Income",
+    "category": "Income Timing",
+    "difficulty": "easy",
+    "questionType": "multiple-choice",
+    "id": 5,
+    "question": "If a client wants to defer income until a later date, which products are listed as options?",
+    "answers": [
+      "Deferred Income Annuity and Fixed Annuity with Lifetime Income",
+      "Term Life and Whole Life",
+      "Fixed Period Income Annuity and Individual Disability Insurance",
+      "Brokerage Account and Direct Mutual Funds"
+    ],
+    "correct": 0,
+    "correctExplanation": "This is correct because the PDF lists Deferred Income Annuity and Fixed Annuity with Lifetime Income for income needed later.",
+    "wrongExplanations": [
+      {
+        "answer": "Term Life and Whole Life",
+        "explanation": "This is wrong because those are protection products, not retirement income annuities."
+      },
+      {
+        "answer": "Fixed Period Income Annuity and Individual Disability Insurance",
+        "explanation": "This is wrong because fixed period income annuity is for income now, and disability insurance protects income from sickness or injury."
+      },
+      {
+        "answer": "Brokerage Account and Direct Mutual Funds",
+        "explanation": "This is wrong because those are wealth accumulation or investment solutions, not the guaranteed retirement income products listed here."
+      }
+    ]
+  },
+  {
+    "chapter": 3,
+    "chapterTitle": "Retirement Income",
+    "category": "Lifetime Income Annuity",
+    "difficulty": "medium",
+    "questionType": "multiple-choice",
+    "id": 6,
+    "question": "What is the core promise of a Lifetime Income Annuity?",
+    "answers": [
+      "Guaranteed income for a specified period only",
+      "A worry-free stream of guaranteed income starting now and lasting for life",
+      "Full market participation with no downside risk",
+      "A cash account that can be surrendered anytime"
+    ],
+    "correct": 1,
+    "correctExplanation": "This is correct because the PDF describes a lifetime income annuity as guaranteed income during retirement, starting now and lasting for life.",
+    "wrongExplanations": [
+      {
+        "answer": "Guaranteed income for a specified period only",
+        "explanation": "This is wrong because that describes a fixed period income annuity, not a lifetime income annuity."
+      },
+      {
+        "answer": "Full market participation with no downside risk",
+        "explanation": "This is wrong because these income annuities are not presented as market participation products."
+      },
+      {
+        "answer": "A cash account that can be surrendered anytime",
+        "explanation": "This is wrong because lifetime income annuities are designed for long-term income and generally cannot be cancelled or surrendered after the free look period."
+      }
+    ]
+  },
+  {
+    "chapter": 3,
+    "chapterTitle": "Retirement Income",
+    "category": "Dividend Eligible vs Non-Dividend Eligible",
+    "difficulty": "medium",
+    "questionType": "multiple-choice",
+    "id": 7,
+    "question": "How does the dividend eligible Lifetime Income Annuity differ from the non-dividend eligible version?",
+    "answers": [
+      "It has no guaranteed income, but has unlimited market upside",
+      "It generally offers lower initial guaranteed income with the potential for more income through dividends",
+      "It allows additional premiums at any time",
+      "It is designed only for income that starts at least 2 years later"
+    ],
+    "correct": 1,
+    "correctExplanation": "This is correct because the PDF says the dividend eligible version provides lower initial guaranteed income than the non-dividend eligible version, with the potential for more income through dividends if declared.",
+    "wrongExplanations": [
+      {
+        "answer": "It has no guaranteed income, but has unlimited market upside",
+        "explanation": "This is wrong because both versions offer guaranteed income, and dividends are not market upside."
+      },
+      {
+        "answer": "It allows additional premiums at any time",
+        "explanation": "This is wrong because lifetime income annuities do not allow additional premiums."
+      },
+      {
+        "answer": "It is designed only for income that starts at least 2 years later",
+        "explanation": "This is wrong because that timing rule applies to deferred income annuities, not lifetime income annuities."
+      }
+    ]
+  },
+  {
+    "chapter": 3,
+    "chapterTitle": "Retirement Income",
+    "category": "Lifetime Income Annuity",
+    "difficulty": "medium",
+    "questionType": "multiple-choice",
+    "id": 8,
+    "question": "Which statement best describes dividends on a dividend eligible lifetime income annuity?",
+    "answers": [
+      "They are guaranteed every year",
+      "They can be taken as cash, used to purchase additional income, or combined, if declared",
+      "They replace the guaranteed income payment",
+      "They remove the irrevocable nature of the annuity"
+    ],
+    "correct": 1,
+    "correctExplanation": "This is correct because the PDF says dividends, if declared, can be taken as cash, used to purchase additional income, or a combination of both.",
+    "wrongExplanations": [
+      {
+        "answer": "They are guaranteed every year",
+        "explanation": "This is wrong because the PDF repeatedly states that dividends are not guaranteed."
+      },
+      {
+        "answer": "They replace the guaranteed income payment",
+        "explanation": "This is wrong because dividends are potential additional income, not a replacement for the guaranteed income."
+      },
+      {
+        "answer": "They remove the irrevocable nature of the annuity",
+        "explanation": "This is wrong because the annuity remains designed for long-term income and generally cannot be cancelled or surrendered."
+      }
+    ]
+  },
+  {
+    "chapter": 3,
+    "chapterTitle": "Retirement Income",
+    "category": "Fixed Period Income Annuity",
+    "difficulty": "medium",
+    "questionType": "multiple-choice",
+    "id": 9,
+    "question": "What is the main purpose of a Fixed Period Income Annuity?",
+    "answers": [
+      "To provide guaranteed income for life",
+      "To provide guaranteed income now for a specified period of time",
+      "To provide market-based income with investment protection",
+      "To provide disability income if the client cannot work"
+    ],
+    "correct": 1,
+    "correctExplanation": "This is correct because the PDF describes a fixed period income annuity as guaranteed income now for a specified period of time.",
+    "wrongExplanations": [
+      {
+        "answer": "To provide guaranteed income for life",
+        "explanation": "This is wrong because lifetime income annuities and deferred income annuities are the lifetime income products."
+      },
+      {
+        "answer": "To provide market-based income with investment protection",
+        "explanation": "This is wrong because the fixed period income annuity is not subject to market ups and downs."
+      },
+      {
+        "answer": "To provide disability income if the client cannot work",
+        "explanation": "This is wrong because that describes disability insurance, not a retirement income annuity."
+      }
+    ]
+  },
+  {
+    "chapter": 3,
+    "chapterTitle": "Retirement Income",
+    "category": "Fixed Period Income Annuity",
+    "difficulty": "medium",
+    "questionType": "multiple-choice",
+    "id": 10,
+    "question": "Why is a Fixed Period Income Annuity useful for someone who wants no market risk?",
+    "answers": [
+      "Its payments do not fluctuate with changes in the financial markets",
+      "It invests only in equity market indexes",
+      "It allows the client to trade the account daily",
+      "It guarantees dividends every year"
+    ],
+    "correct": 0,
+    "correctExplanation": "This is correct because the PDF says fixed period income annuity payments are guaranteed for a specified period and will not fluctuate with changes in the financial markets.",
+    "wrongExplanations": [
+      {
+        "answer": "It invests only in equity market indexes",
+        "explanation": "This is wrong because the product is not presented as an index or market investment product."
+      },
+      {
+        "answer": "It allows the client to trade the account daily",
+        "explanation": "This is wrong because the product provides an income stream, not a trading account."
+      },
+      {
+        "answer": "It guarantees dividends every year",
+        "explanation": "This is wrong because fixed period income annuities do not offer potential additional income through dividends."
+      }
+    ]
+  },
+  {
+    "chapter": 3,
+    "chapterTitle": "Retirement Income",
+    "category": "Deferred Income Annuity",
+    "difficulty": "medium",
+    "questionType": "multiple-choice",
+    "id": 11,
+    "question": "What is the core purpose of a Deferred Income Annuity?",
+    "answers": [
+      "To provide guaranteed income starting later and lasting for life",
+      "To provide temporary protection for 10 to 20 years",
+      "To provide current income only for a fixed number of years",
+      "To provide a brokerage account with full trading control"
+    ],
+    "correct": 0,
+    "correctExplanation": "This is correct because the PDF describes deferred income annuities as a worry-free stream of income during retirement, starting later and lasting for life.",
+    "wrongExplanations": [
+      {
+        "answer": "To provide temporary protection for 10 to 20 years",
+        "explanation": "This is wrong because that describes term life protection."
+      },
+      {
+        "answer": "To provide current income only for a fixed number of years",
+        "explanation": "This is wrong because that describes a fixed period income annuity."
+      },
+      {
+        "answer": "To provide a brokerage account with full trading control",
+        "explanation": "This is wrong because deferred income annuity is an insurance retirement income product, not a brokerage account."
+      }
+    ]
+  },
+  {
+    "chapter": 3,
+    "chapterTitle": "Retirement Income",
+    "category": "Deferred Income Annuity",
+    "difficulty": "medium",
+    "questionType": "multiple-choice",
+    "id": 12,
+    "question": "When can payments begin on a Deferred Income Annuity according to the PDF?",
+    "answers": [
+      "Immediately after issue",
+      "Within 12 months only",
+      "At least 2 years after the policy issue date",
+      "Only after age 73"
+    ],
+    "correct": 2,
+    "correctExplanation": "This is correct because the PDF states that payments cannot start until at least 2 years after the policy issue date.",
+    "wrongExplanations": [
+      {
+        "answer": "Immediately after issue",
+        "explanation": "This is wrong because immediate income belongs to lifetime income annuities or fixed period income annuities."
+      },
+      {
+        "answer": "Within 12 months only",
+        "explanation": "This is wrong because that timing applies to income-now products that can begin immediately or be deferred up to 12 months."
+      },
+      {
+        "answer": "Only after age 73",
+        "explanation": "This is wrong because the PDF does not make age 73 the start rule for deferred income annuity payments."
+      }
+    ]
+  },
+  {
+    "chapter": 3,
+    "chapterTitle": "Retirement Income",
+    "category": "Deferred Income Annuity",
+    "difficulty": "medium",
+    "questionType": "multiple-choice",
+    "id": 13,
+    "question": "Which feature separates deferred income annuities from lifetime income annuities in the PDF?",
+    "answers": [
+      "Deferred income annuities may allow additional premiums",
+      "Deferred income annuities never provide guaranteed income",
+      "Deferred income annuities are designed for market trading",
+      "Deferred income annuities are always surrenderable anytime"
+    ],
+    "correct": 0,
+    "correctExplanation": "This is correct because the PDF states that deferred income annuities offer flexible premium payments, while lifetime income annuities do not allow additional premiums.",
+    "wrongExplanations": [
+      {
+        "answer": "Deferred income annuities never provide guaranteed income",
+        "explanation": "This is wrong because they provide guaranteed income payments for life."
+      },
+      {
+        "answer": "Deferred income annuities are designed for market trading",
+        "explanation": "This is wrong because they are retirement income products, not trading accounts."
+      },
+      {
+        "answer": "Deferred income annuities are always surrenderable anytime",
+        "explanation": "This is wrong because deferred income annuities are designed for long-term income and generally cannot be cancelled or surrendered after the free look period."
+      }
+    ]
+  },
+  {
+    "chapter": 3,
+    "chapterTitle": "Retirement Income",
+    "category": "Fixed Annuity with Lifetime Income",
+    "difficulty": "medium",
+    "questionType": "multiple-choice",
+    "id": 14,
+    "question": "What makes a Fixed Annuity with Lifetime Income different from the other income annuities described?",
+    "answers": [
+      "It provides liquidity while also offering lifetime income through a guaranteed lifetime withdrawal benefit rider",
+      "It has no fees and no surrender charge period",
+      "It provides dividends every year",
+      "It requires income to begin immediately"
+    ],
+    "correct": 0,
+    "correctExplanation": "This is correct because the PDF says a fixed annuity with lifetime income gives income for life while allowing access to funds before lifetime income payments begin, using a GLWB rider.",
+    "wrongExplanations": [
+      {
+        "answer": "It has no fees and no surrender charge period",
+        "explanation": "This is wrong because the PDF mentions an annual GLWB rider fee and possible surrender charges."
+      },
+      {
+        "answer": "It provides dividends every year",
+        "explanation": "This is wrong because dividend eligibility is not the defining feature of this product."
+      },
+      {
+        "answer": "It requires income to begin immediately",
+        "explanation": "This is wrong because clients can decide when to start receiving lifetime income payments."
+      }
+    ]
+  },
+  {
+    "chapter": 3,
+    "chapterTitle": "Retirement Income",
+    "category": "Fixed Annuity with Lifetime Income",
+    "difficulty": "medium",
+    "questionType": "multiple-choice",
+    "id": 15,
+    "question": "What does GLWB refer to in the Fixed Annuity with Lifetime Income section?",
+    "answers": [
+      "Guaranteed Lifetime Withdrawal Benefit",
+      "General Legacy Wealth Bonus",
+      "Growth Linked Withdrawal Bond",
+      "Guaranteed Liquid Wealth Brokerage"
+    ],
+    "correct": 0,
+    "correctExplanation": "This is correct because the PDF identifies the rider as the guaranteed lifetime withdrawal benefit rider, which supports lifetime income payments.",
+    "wrongExplanations": [
+      {
+        "answer": "General Legacy Wealth Bonus",
+        "explanation": "This is wrong because this phrase is not used in the PDF."
+      },
+      {
+        "answer": "Growth Linked Withdrawal Bond",
+        "explanation": "This is wrong because the PDF is describing an annuity rider, not a bond."
+      },
+      {
+        "answer": "Guaranteed Liquid Wealth Brokerage",
+        "explanation": "This is wrong because this product is not a brokerage account."
+      }
+    ]
+  },
+  {
+    "chapter": 3,
+    "chapterTitle": "Retirement Income",
+    "category": "Fixed Annuity with Lifetime Income",
+    "difficulty": "medium",
+    "questionType": "multiple-choice",
+    "id": 16,
+    "question": "According to the PDF, when can a client start taking lifetime income from a Fixed Annuity with Lifetime Income without incurring charges?",
+    "answers": [
+      "Any time after age 59 1/2",
+      "Only after age 73",
+      "Only within the first 12 months",
+      "Only after the account reaches $0"
+    ],
+    "correct": 0,
+    "correctExplanation": "This is correct because the PDF says lifetime income can start any time after age 59 1/2 without incurring charges.",
+    "wrongExplanations": [
+      {
+        "answer": "Only after age 73",
+        "explanation": "This is wrong because age 73 is mentioned in the rollover section for required minimum distributions, not this income start rule."
+      },
+      {
+        "answer": "Only within the first 12 months",
+        "explanation": "This is wrong because that timing applies to certain immediate income products, not this rule."
+      },
+      {
+        "answer": "Only after the account reaches $0",
+        "explanation": "This is wrong because the account value being reduced to $0 relates to when the rider fee ceases, not when income starts."
+      }
+    ]
+  },
+  {
+    "chapter": 3,
+    "chapterTitle": "Retirement Income",
+    "category": "Product Comparison",
+    "difficulty": "hard",
+    "questionType": "multiple-choice",
+    "id": 17,
+    "question": "A retiree wants the highest initial guaranteed lifetime income and does not care about dividend potential. Which product version best fits that preference?",
+    "answers": [
+      "Dividend eligible Lifetime Income Annuity",
+      "Non-dividend eligible Lifetime Income Annuity",
+      "Fixed Period Income Annuity",
+      "Fixed Annuity with Lifetime Income"
+    ],
+    "correct": 1,
+    "correctExplanation": "This is correct because the PDF says the non-dividend eligible lifetime income annuity offers a higher initial guaranteed income amount compared to the dividend eligible version.",
+    "wrongExplanations": [
+      {
+        "answer": "Dividend eligible Lifetime Income Annuity",
+        "explanation": "This is wrong because it offers dividend potential, but lower initial guaranteed income than the non-dividend eligible version."
+      },
+      {
+        "answer": "Fixed Period Income Annuity",
+        "explanation": "This is wrong because it provides income for a specified period, not guaranteed lifetime income."
+      },
+      {
+        "answer": "Fixed Annuity with Lifetime Income",
+        "explanation": "This is wrong because it emphasizes income, flexibility, security, and liquidity, not the highest initial guaranteed lifetime income compared with dividend eligible and non-dividend eligible lifetime income annuities."
+      }
+    ]
+  },
+  {
+    "chapter": 3,
+    "chapterTitle": "Retirement Income",
+    "category": "Product Comparison",
+    "difficulty": "hard",
+    "questionType": "multiple-choice",
+    "id": 18,
+    "question": "A client wants guaranteed income for life starting later, wants the possibility of additional income through dividends, and accepts that dividends are not guaranteed. Which product best matches?",
+    "answers": [
+      "Dividend eligible Deferred Income Annuity",
+      "Fixed Period Income Annuity",
+      "Non-dividend eligible Lifetime Income Annuity",
+      "Fixed Annuity with Lifetime Income"
+    ],
+    "correct": 0,
+    "correctExplanation": "This is correct because the dividend eligible deferred income annuity provides future lifetime guaranteed income with the potential for more income through dividends, if declared.",
+    "wrongExplanations": [
+      {
+        "answer": "Fixed Period Income Annuity",
+        "explanation": "This is wrong because it provides income for a specified period and does not offer dividend potential."
+      },
+      {
+        "answer": "Non-dividend eligible Lifetime Income Annuity",
+        "explanation": "This is wrong because it is for income now or within 12 months and does not offer dividend potential."
+      },
+      {
+        "answer": "Fixed Annuity with Lifetime Income",
+        "explanation": "This is wrong because it provides fixed return and lifetime income through a rider, but dividend potential is not the main feature."
+      }
+    ]
+  },
+  {
+    "chapter": 3,
+    "chapterTitle": "Retirement Income",
+    "category": "Product Comparison",
+    "difficulty": "hard",
+    "questionType": "multiple-choice",
+    "id": 19,
+    "question": "A client wants income now for exactly 8 years and does not want payments tied to market changes. Which product is the clearest match?",
+    "answers": [
+      "Lifetime Income Annuity",
+      "Fixed Period Income Annuity",
+      "Deferred Income Annuity",
+      "Variable Annuity with Investment Protection"
+    ],
+    "correct": 1,
+    "correctExplanation": "This is correct because a fixed period income annuity provides guaranteed income payments for a specified period, and payments do not fluctuate with market changes.",
+    "wrongExplanations": [
+      {
+        "answer": "Lifetime Income Annuity",
+        "explanation": "This is wrong because it is designed for income lasting for life, not exactly 8 years."
+      },
+      {
+        "answer": "Deferred Income Annuity",
+        "explanation": "This is wrong because it starts later and lasts for life, rather than providing income now for a set period."
+      },
+      {
+        "answer": "Variable Annuity with Investment Protection",
+        "explanation": "This is wrong because it belongs to wealth accumulation and market-linked investment solutions, not the fixed period retirement income product."
+      }
+    ]
+  },
+  {
+    "chapter": 3,
+    "chapterTitle": "Retirement Income",
+    "category": "Product Comparison",
+    "difficulty": "hard",
+    "questionType": "multiple-choice",
+    "id": 20,
+    "question": "A client values access to funds before lifetime income begins and wants to remain more in control of their money. Which retirement income product most directly fits?",
+    "answers": [
+      "Fixed Annuity with Lifetime Income",
+      "Lifetime Income Annuity",
+      "Fixed Period Income Annuity",
+      "Deferred Income Annuity"
+    ],
+    "correct": 0,
+    "correctExplanation": "This is correct because the PDF says a fixed annuity with lifetime income offers income, flexibility, security, access to funds before lifetime income payments begin, and control over when and how income is received.",
+    "wrongExplanations": [
+      {
+        "answer": "Lifetime Income Annuity",
+        "explanation": "This is wrong because it has limited liquidity and generally cannot be surrendered or cancelled after the free look period."
+      },
+      {
+        "answer": "Fixed Period Income Annuity",
+        "explanation": "This is wrong because it provides income for a specified period and is generally irrevocable after the free look period."
+      },
+      {
+        "answer": "Deferred Income Annuity",
+        "explanation": "This is wrong because it is focused on future lifetime income and is generally irrevocable after the free look period."
+      }
+    ]
+  },
+  {
+    "chapter": 3,
+    "chapterTitle": "Retirement Income",
+    "category": "Irrevocability and Liquidity",
+    "difficulty": "hard",
+    "questionType": "multiple-choice",
+    "id": 21,
+    "question": "Which statement best captures the tradeoff between income annuities and the fixed annuity with lifetime income?",
+    "answers": [
+      "Income annuities may generally offer higher guaranteed income but are irrevocable and have no cash value, while fixed annuity with lifetime income provides more liquidity",
+      "Income annuities always provide full liquidity and higher market returns",
+      "Fixed annuity with lifetime income cannot provide lifetime income",
+      "All retirement income annuities have the same liquidity and surrender rules"
+    ],
+    "correct": 0,
+    "correctExplanation": "This is correct because the PDF's things to consider section says the fixed annuity with lifetime income provides liquidity, while the other income annuities have no cash value and are irrevocable, but generally offer a higher level of guaranteed income.",
+    "wrongExplanations": [
+      {
+        "answer": "Income annuities always provide full liquidity and higher market returns",
+        "explanation": "This is wrong because income annuities are not presented as market-return products and generally have limited or no liquidity."
+      },
+      {
+        "answer": "Fixed annuity with lifetime income cannot provide lifetime income",
+        "explanation": "This is wrong because the product is built around lifetime income through the GLWB rider."
+      },
+      {
+        "answer": "All retirement income annuities have the same liquidity and surrender rules",
+        "explanation": "This is wrong because the PDF specifically distinguishes the liquidity of fixed annuity with lifetime income from other income annuities."
+      }
+    ]
+  },
+  {
+    "chapter": 3,
+    "chapterTitle": "Retirement Income",
+    "category": "Product Features",
+    "difficulty": "hard",
+    "questionType": "multiple-choice",
+    "id": 22,
+    "question": "Which product is most associated with a return of premium guarantee in the retirement income comparison?",
+    "answers": [
+      "Fixed Annuity with Lifetime Income",
+      "Fixed Period Income Annuity",
+      "Dividend eligible Lifetime Income Annuity",
+      "Deferred Income Annuity"
+    ],
+    "correct": 0,
+    "correctExplanation": "This is correct because the PDF lists return of premium guarantee as a consideration for fixed annuities with lifetime income.",
+    "wrongExplanations": [
+      {
+        "answer": "Fixed Period Income Annuity",
+        "explanation": "This is wrong because the PDF does not present return of premium guarantee as its key feature."
+      },
+      {
+        "answer": "Dividend eligible Lifetime Income Annuity",
+        "explanation": "This is wrong because its distinguishing feature is dividend potential, not return of premium guarantee."
+      },
+      {
+        "answer": "Deferred Income Annuity",
+        "explanation": "This is wrong because its main role is future lifetime income, not return of premium guarantee."
+      }
+    ]
+  },
+  {
+    "chapter": 3,
+    "chapterTitle": "Retirement Income",
+    "category": "Product Features",
+    "difficulty": "hard",
+    "questionType": "multiple-choice",
+    "id": 23,
+    "question": "Which retirement income product category has payments that can begin immediately or be deferred up to 12 months?",
+    "answers": [
+      "Lifetime Income Annuity and Fixed Period Income Annuity",
+      "Deferred Income Annuity and Fixed Annuity with Lifetime Income",
+      "Variable Universal Life and Whole Life",
+      "Brokerage Account and Direct Mutual Funds"
+    ],
+    "correct": 0,
+    "correctExplanation": "This is correct because the PDF states that both lifetime income annuities and fixed period income annuities can begin payments immediately or be deferred up to 12 months.",
+    "wrongExplanations": [
+      {
+        "answer": "Deferred Income Annuity and Fixed Annuity with Lifetime Income",
+        "explanation": "This is wrong because deferred income annuity payments cannot start until at least 2 years after issue, and fixed annuity with lifetime income has different income timing rules."
+      },
+      {
+        "answer": "Variable Universal Life and Whole Life",
+        "explanation": "This is wrong because these are life insurance products, not retirement income annuities."
+      },
+      {
+        "answer": "Brokerage Account and Direct Mutual Funds",
+        "explanation": "This is wrong because these are investment solutions, not guaranteed income annuities."
+      }
+    ]
+  },
+  {
+    "chapter": 3,
+    "chapterTitle": "Retirement Income",
+    "category": "Additional Premiums",
+    "difficulty": "hard",
+    "questionType": "multiple-choice",
+    "id": 24,
+    "question": "Which statement about additional premiums is accurate based on the retirement income section?",
+    "answers": [
+      "Lifetime Income Annuities and Fixed Period Income Annuities allow unlimited additional premiums",
+      "Deferred Income Annuities allow additional premiums, while Lifetime Income Annuities and Fixed Period Income Annuities do not",
+      "Fixed Period Income Annuities allow additional premiums, but Deferred Income Annuities do not",
+      "All retirement income products prohibit additional premiums"
+    ],
+    "correct": 1,
+    "correctExplanation": "This is correct because the PDF says deferred income annuities offer flexible premium payments, while lifetime income annuities and fixed period income annuities state that additional premiums are not allowed.",
+    "wrongExplanations": [
+      {
+        "answer": "Lifetime Income Annuities and Fixed Period Income Annuities allow unlimited additional premiums",
+        "explanation": "This is wrong because both sections state additional premiums are not allowed."
+      },
+      {
+        "answer": "Fixed Period Income Annuities allow additional premiums, but Deferred Income Annuities do not",
+        "explanation": "This is wrong because the opposite is true based on the PDF."
+      },
+      {
+        "answer": "All retirement income products prohibit additional premiums",
+        "explanation": "This is wrong because deferred income annuities allow additional premiums."
+      }
+    ]
+  },
+  {
+    "chapter": 3,
+    "chapterTitle": "Retirement Income",
+    "category": "Market Risk",
+    "difficulty": "medium",
+    "questionType": "multiple-choice",
+    "id": 25,
+    "question": "Which retirement income concept is repeated across the guaranteed income annuities described?",
+    "answers": [
+      "Payments are designed to fluctuate with the stock market",
+      "Payments are guaranteed and generally not tied to market ups and downs",
+      "Payments are based only on mutual fund performance",
+      "Payments are available only through brokerage accounts"
+    ],
+    "correct": 1,
+    "correctExplanation": "This is correct because the retirement income section repeatedly emphasizes guaranteed income payments that will not fluctuate with changes in financial markets.",
+    "wrongExplanations": [
+      {
+        "answer": "Payments are designed to fluctuate with the stock market",
+        "explanation": "This is wrong because the products are positioned around guaranteed income, not variable market payments."
+      },
+      {
+        "answer": "Payments are based only on mutual fund performance",
+        "explanation": "This is wrong because mutual funds are discussed in the investment solutions section, not the guaranteed income annuity section."
+      },
+      {
+        "answer": "Payments are available only through brokerage accounts",
+        "explanation": "This is wrong because these are annuity products, not brokerage accounts."
+      }
+    ]
+  },
+  {
+    "chapter": 3,
+    "chapterTitle": "Retirement Income",
+    "category": "Review and Suitability",
+    "difficulty": "medium",
+    "questionType": "multiple-choice",
+    "id": 26,
+    "question": "What should a client do before replacing an existing annuity policy?",
+    "answers": [
+      "Ignore the old policy because the new policy is always better",
+      "Carefully compare the features and benefits of the existing policy with the new policy",
+      "Choose only based on the first-year income amount",
+      "Cancel the old policy before reviewing the new one"
+    ],
+    "correct": 1,
+    "correctExplanation": "This is correct because the PDF says before replacing an annuity policy, clients should carefully consider the features and benefits of the existing policy compared to the new policy.",
+    "wrongExplanations": [
+      {
+        "answer": "Ignore the old policy because the new policy is always better",
+        "explanation": "This is wrong because replacement may involve tradeoffs and should be reviewed carefully."
+      },
+      {
+        "answer": "Choose only based on the first-year income amount",
+        "explanation": "This is wrong because the PDF emphasizes features, benefits, needs, income, and policy details."
+      },
+      {
+        "answer": "Cancel the old policy before reviewing the new one",
+        "explanation": "This is wrong because the PDF advises reviewing and comparing before replacement."
+      }
+    ]
+  },
+  {
+    "chapter": 3,
+    "chapterTitle": "Retirement Income",
+    "category": "Review and Suitability",
+    "difficulty": "medium",
+    "questionType": "multiple-choice",
+    "id": 27,
+    "question": "Why does the PDF recommend regular reviews with a financial professional?",
+    "answers": [
+      "To make sure the annuity continues keeping up with changes in needs and income",
+      "To guarantee dividends every year",
+      "To remove all surrender charges",
+      "To make market losses impossible"
+    ],
+    "correct": 0,
+    "correctExplanation": "This is correct because the PDF says clients should review plans regularly to ensure their annuity keeps up with changes in needs and income.",
+    "wrongExplanations": [
+      {
+        "answer": "To guarantee dividends every year",
+        "explanation": "This is wrong because dividends are not guaranteed."
+      },
+      {
+        "answer": "To remove all surrender charges",
+        "explanation": "This is wrong because reviews do not eliminate product rules or surrender charges."
+      },
+      {
+        "answer": "To make market losses impossible",
+        "explanation": "This is wrong because the review process does not change whether a product has market risk."
+      }
+    ]
+  },
+  {
+    "chapter": 3,
+    "chapterTitle": "Retirement Income",
+    "category": "Dividend Eligible vs Non-Dividend Eligible",
+    "difficulty": "hard",
+    "questionType": "multiple-choice",
+    "id": 28,
+    "question": "What is the strategic tradeoff between dividend eligible and non-dividend eligible income annuities?",
+    "answers": [
+      "Dividend eligible products usually offer higher initial guaranteed income, while non-dividend products offer dividend potential",
+      "Dividend eligible products may start with lower guaranteed income, but offer potential additional income through dividends; non-dividend products offer higher initial guaranteed income without dividend potential",
+      "Both product types have identical income structures",
+      "Non-dividend products are always market-based and have no guarantees"
+    ],
+    "correct": 1,
+    "correctExplanation": "This is correct because the PDF consistently explains that dividend eligible versions provide lower initial guaranteed income with potential dividends, while non-dividend eligible versions provide higher initial guaranteed income without dividend potential.",
+    "wrongExplanations": [
+      {
+        "answer": "Dividend eligible products usually offer higher initial guaranteed income, while non-dividend products offer dividend potential",
+        "explanation": "This is wrong because it reverses the PDF's comparison."
+      },
+      {
+        "answer": "Both product types have identical income structures",
+        "explanation": "This is wrong because the PDF clearly differentiates them by initial guaranteed income and dividend potential."
+      },
+      {
+        "answer": "Non-dividend products are always market-based and have no guarantees",
+        "explanation": "This is wrong because non-dividend eligible income annuities still provide guaranteed income."
+      }
+    ]
+  },
+  {
+    "chapter": 3,
+    "chapterTitle": "Retirement Income",
+    "category": "Scenario Reasoning",
+    "difficulty": "hard",
+    "questionType": "multiple-choice",
+    "id": 29,
+    "question": "A client says: 'I want guaranteed lifetime income later, I may add more money over time, and I want flexibility to design my income stream.' Which product family should you examine first?",
+    "answers": [
+      "Deferred Income Annuity",
+      "Fixed Period Income Annuity",
+      "Term Life",
+      "Brokerage Account"
+    ],
+    "correct": 0,
+    "correctExplanation": "This is correct because deferred income annuities are for future income needs, provide lifetime guaranteed income, and allow flexible premium payments.",
+    "wrongExplanations": [
+      {
+        "answer": "Fixed Period Income Annuity",
+        "explanation": "This is wrong because it is for income now over a specified period and does not allow additional premiums."
+      },
+      {
+        "answer": "Term Life",
+        "explanation": "This is wrong because term life is protection coverage, not retirement income."
+      },
+      {
+        "answer": "Brokerage Account",
+        "explanation": "This is wrong because a brokerage account does not provide the guaranteed lifetime income structure described."
+      }
+    ]
+  },
+  {
+    "chapter": 3,
+    "chapterTitle": "Retirement Income",
+    "category": "Scenario Reasoning",
+    "difficulty": "hard",
+    "questionType": "multiple-choice",
+    "id": 30,
+    "question": "A client says: 'I need income now, I do not need it for life, and I want it to last only through a defined bridge period.' Which product fits best?",
+    "answers": [
+      "Fixed Period Income Annuity",
+      "Deferred Income Annuity",
+      "Dividend eligible Lifetime Income Annuity",
+      "Fixed Annuity with Lifetime Income"
+    ],
+    "correct": 0,
+    "correctExplanation": "This is correct because the fixed period income annuity provides guaranteed income now for a specified period, which fits a bridge-period need.",
+    "wrongExplanations": [
+      {
+        "answer": "Deferred Income Annuity",
+        "explanation": "This is wrong because it is for income starting later and lasting for life."
+      },
+      {
+        "answer": "Dividend eligible Lifetime Income Annuity",
+        "explanation": "This is wrong because it is designed for lifetime income, not a defined temporary bridge period."
+      },
+      {
+        "answer": "Fixed Annuity with Lifetime Income",
+        "explanation": "This is wrong because it is designed around fixed return, liquidity, and lifetime income, not a specified fixed income period."
+      }
+    ]
+  },
+  {
+    "chapter": 3,
+    "chapterTitle": "Retirement Income",
+    "category": "Scenario Reasoning",
+    "difficulty": "hard",
+    "questionType": "multiple-choice",
+    "id": 31,
+    "question": "A client wants guaranteed income and maximum flexibility to access funds before starting lifetime income. Which product should be considered before an irrevocable income annuity?",
+    "answers": [
+      "Fixed Annuity with Lifetime Income",
+      "Fixed Period Income Annuity",
+      "Lifetime Income Annuity",
+      "Deferred Income Annuity"
+    ],
+    "correct": 0,
+    "correctExplanation": "This is correct because fixed annuity with lifetime income provides access to funds before lifetime income payments begin, while the other income annuities generally have no cash value and are irrevocable after the free look period.",
+    "wrongExplanations": [
+      {
+        "answer": "Fixed Period Income Annuity",
+        "explanation": "This is wrong because it is generally irrevocable after the free look period and designed for a guaranteed income stream over a set period."
+      },
+      {
+        "answer": "Lifetime Income Annuity",
+        "explanation": "This is wrong because it is generally irrevocable after the free look period and focused on lifetime income."
+      },
+      {
+        "answer": "Deferred Income Annuity",
+        "explanation": "This is wrong because it is generally irrevocable after the free look period and focused on future lifetime income."
+      }
+    ]
+  },
+  {
+    "chapter": 3,
+    "chapterTitle": "Retirement Income",
+    "category": "Hard Ass Question",
+    "difficulty": "expert",
+    "questionType": "multiple-choice",
+    "id": 32,
+    "question": "Hard ass question: A 62-year-old client wants income starting now, wants the highest initial guaranteed lifetime income, does not care about dividend upside, and is comfortable giving up liquidity for stronger guaranteed income. Which product is the best strategic match?",
+    "answers": [
+      "Dividend eligible Lifetime Income Annuity",
+      "Non-dividend eligible Lifetime Income Annuity",
+      "Fixed Period Income Annuity",
+      "Fixed Annuity with Lifetime Income"
+    ],
+    "correct": 1,
+    "correctExplanation": "This is correct because the client wants income now, lifetime income, the highest initial guaranteed income, and no dividend upside. The non-dividend eligible Lifetime Income Annuity is designed for immediate lifetime income and offers higher initial guaranteed income than the dividend eligible version.",
+    "wrongExplanations": [
+      {
+        "answer": "Dividend eligible Lifetime Income Annuity",
+        "explanation": "This is wrong because it offers dividend potential, but starts with lower initial guaranteed income than the non-dividend eligible version."
+      },
+      {
+        "answer": "Fixed Period Income Annuity",
+        "explanation": "This is wrong because it provides income for a specified period, not lifetime income."
+      },
+      {
+        "answer": "Fixed Annuity with Lifetime Income",
+        "explanation": "This is wrong because it offers more liquidity and control, but the PDF notes the other income annuities generally offer higher guaranteed income than the liquidity-focused fixed annuity with lifetime income."
+      }
+    ]
+  }
+]
