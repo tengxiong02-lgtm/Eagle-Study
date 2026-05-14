@@ -1,0 +1,622 @@
+[
+  {
+    "chapter": 6,
+    "chapterTitle": "Functional Relationship Map",
+    "category": "Core Map",
+    "difficulty": "easy",
+    "questionType": "multiple-choice",
+    "id": 1,
+    "question": "In the overall financial course map, what is the first major function of life insurance?",
+    "answers": [
+      "To create guaranteed retirement income immediately",
+      "To protect against financial loss from death",
+      "To provide transaction-based investment trading",
+      "To replace employer retirement plan rules"
+    ],
+    "correct": 1,
+    "correctExplanation": "Life insurance sits under the Protection objective and functions as protection against financial loss caused by death.",
+    "wrongExplanations": [
+      {
+        "answer": "To create guaranteed retirement income immediately",
+        "explanation": "That role belongs to retirement income annuities, not life insurance."
+      },
+      {
+        "answer": "To provide transaction-based investment trading",
+        "explanation": "That belongs to brokerage accounts or direct mutual funds."
+      },
+      {
+        "answer": "To replace employer retirement plan rules",
+        "explanation": "Rollovers address retirement savings transitions, but they are not the first function of life insurance."
+      }
+    ]
+  },
+  {
+    "chapter": 6,
+    "chapterTitle": "Functional Relationship Map",
+    "category": "Core Map",
+    "difficulty": "easy",
+    "questionType": "multiple-choice",
+    "id": 2,
+    "question": "Which product category is directly tied to protecting against income loss due to disability?",
+    "answers": [
+      "Individual Disability Insurance",
+      "Fixed Period Income Annuity",
+      "Brokerage Account",
+      "Whole Life"
+    ],
+    "correct": 0,
+    "correctExplanation": "Individual Disability Insurance is designed to help replace income lost because sickness or injury prevents the client from working.",
+    "wrongExplanations": [
+      {
+        "answer": "Fixed Period Income Annuity",
+        "explanation": "This provides guaranteed income for a set period, not disability income replacement."
+      },
+      {
+        "answer": "Brokerage Account",
+        "explanation": "This provides investment access and control, not disability income protection."
+      },
+      {
+        "answer": "Whole Life",
+        "explanation": "Whole life provides long-term death benefit and cash value, not disability income replacement."
+      }
+    ]
+  },
+  {
+    "chapter": 6,
+    "chapterTitle": "Functional Relationship Map",
+    "category": "Protection Relationship",
+    "difficulty": "medium",
+    "questionType": "multiple-choice",
+    "id": 3,
+    "question": "A client wants affordable temporary death benefit coverage and may later convert to long-term coverage. Which product function best fits?",
+    "answers": [
+      "Term life",
+      "Whole life",
+      "Variable annuity",
+      "Investment advisory solution"
+    ],
+    "correct": 0,
+    "correctExplanation": "Term life is built for temporary protection, can be more affordable than long-term coverage, and may include a conversion privilege.",
+    "wrongExplanations": [
+      {
+        "answer": "Whole life",
+        "explanation": "Whole life is long-term protection with cash value and fixed level premiums, usually with higher initial premiums."
+      },
+      {
+        "answer": "Variable annuity",
+        "explanation": "A variable annuity is a wealth accumulation/retirement product, not temporary death benefit coverage."
+      },
+      {
+        "answer": "Investment advisory solution",
+        "explanation": "Advisory solutions support managed investing with ongoing advice, not basic temporary insurance protection."
+      }
+    ]
+  },
+  {
+    "chapter": 6,
+    "chapterTitle": "Functional Relationship Map",
+    "category": "Protection Relationship",
+    "difficulty": "medium",
+    "questionType": "multiple-choice",
+    "id": 4,
+    "question": "Which relationship is most accurate in the protection section?",
+    "answers": [
+      "Term life emphasizes temporary protection; whole life emphasizes long-term protection with cash value.",
+      "Term life emphasizes market participation; variable universal life has no market risk.",
+      "Whole life is mainly for short-term income now; term life is mainly for lifetime income.",
+      "Universal life has fixed level premiums and more guarantees than whole life."
+    ],
+    "correct": 0,
+    "correctExplanation": "Term life is presented as temporary protection, while whole life is permanent insurance with guaranteed cash value growth and long-term death benefit protection.",
+    "wrongExplanations": [
+      {
+        "answer": "Term life emphasizes market participation; variable universal life has no market risk.",
+        "explanation": "Term life does not involve market participation, and variable universal life is subject to market risk."
+      },
+      {
+        "answer": "Whole life is mainly for short-term income now; term life is mainly for lifetime income.",
+        "explanation": "Income now belongs to retirement income products, not life insurance."
+      },
+      {
+        "answer": "Universal life has fixed level premiums and more guarantees than whole life.",
+        "explanation": "Universal life has adjustable premiums and fewer guarantees than whole life."
+      }
+    ]
+  },
+  {
+    "chapter": 6,
+    "chapterTitle": "Functional Relationship Map",
+    "category": "Protection Relationship",
+    "difficulty": "hard",
+    "questionType": "multiple-choice",
+    "id": 5,
+    "question": "A client wants long-term death benefit coverage but also wants more premium flexibility and accepts that the policy must be monitored. Which product function fits best?",
+    "answers": [
+      "Universal life",
+      "Term life",
+      "Fixed annuity",
+      "Fixed period income annuity"
+    ],
+    "correct": 0,
+    "correctExplanation": "Universal life combines long-term coverage with adjustable premiums and potential cash value accumulation, but it must be monitored because flexibility creates lapse risk.",
+    "wrongExplanations": [
+      {
+        "answer": "Term life",
+        "explanation": "Term life is temporary protection and does not focus on long-term cash value accumulation."
+      },
+      {
+        "answer": "Fixed annuity",
+        "explanation": "A fixed annuity focuses on fixed-interest wealth accumulation, not death benefit protection."
+      },
+      {
+        "answer": "Fixed period income annuity",
+        "explanation": "This provides income for a specified period, not flexible life insurance coverage."
+      }
+    ]
+  },
+  {
+    "chapter": 6,
+    "chapterTitle": "Functional Relationship Map",
+    "category": "Protection Relationship",
+    "difficulty": "hard",
+    "questionType": "multiple-choice",
+    "id": 6,
+    "question": "What is the key functional difference between universal life and variable universal life?",
+    "answers": [
+      "Variable universal life adds market participation and investment risk to the long-term life insurance structure.",
+      "Universal life is only temporary protection while variable universal life is permanent protection.",
+      "Universal life guarantees cash value growth while variable universal life guarantees no losses.",
+      "Variable universal life removes the need to monitor premiums and policy values."
+    ],
+    "correct": 0,
+    "correctExplanation": "Variable universal life still provides long-term death benefit protection, but cash value is allocated among investment options and is subject to market risk.",
+    "wrongExplanations": [
+      {
+        "answer": "Universal life is only temporary protection while variable universal life is permanent protection.",
+        "explanation": "Universal life is also a long-term life insurance product."
+      },
+      {
+        "answer": "Universal life guarantees cash value growth while variable universal life guarantees no losses.",
+        "explanation": "Universal life cash value accumulation is not guaranteed, and variable universal life can lose value due to market risk."
+      },
+      {
+        "answer": "Variable universal life removes the need to monitor premiums and policy values.",
+        "explanation": "The PDF says variable universal life must be monitored because investment returns affect cash value and premiums."
+      }
+    ]
+  },
+  {
+    "chapter": 6,
+    "chapterTitle": "Functional Relationship Map",
+    "category": "Retirement Income Relationship",
+    "difficulty": "easy",
+    "questionType": "multiple-choice",
+    "id": 7,
+    "question": "In the retirement income map, what question separates the first major path?",
+    "answers": [
+      "Do you need income now or later?",
+      "Do you want stocks or bonds?",
+      "Do you want a term or permanent policy?",
+      "Do you want a brokerage or direct mutual fund account?"
+    ],
+    "correct": 0,
+    "correctExplanation": "The retirement income section first separates products by whether the client needs income now or income later.",
+    "wrongExplanations": [
+      {
+        "answer": "Do you want stocks or bonds?",
+        "explanation": "That belongs more to investment selection, not the retirement income annuity map."
+      },
+      {
+        "answer": "Do you want a term or permanent policy?",
+        "explanation": "That separates life insurance choices."
+      },
+      {
+        "answer": "Do you want a brokerage or direct mutual fund account?",
+        "explanation": "That belongs to investment solutions, not guaranteed income annuity timing."
+      }
+    ]
+  },
+  {
+    "chapter": 6,
+    "chapterTitle": "Functional Relationship Map",
+    "category": "Retirement Income Relationship",
+    "difficulty": "medium",
+    "questionType": "multiple-choice",
+    "id": 8,
+    "question": "A client wants guaranteed income immediately and for life. Which product branch fits?",
+    "answers": [
+      "Lifetime Income Annuity",
+      "Deferred Income Annuity",
+      "Fixed Annuity",
+      "Brokerage Account"
+    ],
+    "correct": 0,
+    "correctExplanation": "A lifetime income annuity provides guaranteed income starting now and lasting for life.",
+    "wrongExplanations": [
+      {
+        "answer": "Deferred Income Annuity",
+        "explanation": "This starts later, not immediately."
+      },
+      {
+        "answer": "Fixed Annuity",
+        "explanation": "This is mainly a fixed-return wealth accumulation product, though it may later support income."
+      },
+      {
+        "answer": "Brokerage Account",
+        "explanation": "This gives investment control and transaction-based access, not guaranteed lifetime income."
+      }
+    ]
+  },
+  {
+    "chapter": 6,
+    "chapterTitle": "Functional Relationship Map",
+    "category": "Retirement Income Relationship",
+    "difficulty": "medium",
+    "questionType": "multiple-choice",
+    "id": 9,
+    "question": "A client wants guaranteed income now, but only for a fixed number of years. Which product function fits?",
+    "answers": [
+      "Fixed Period Income Annuity",
+      "Lifetime Income Annuity",
+      "Deferred Income Annuity",
+      "Advisory Variable Annuity"
+    ],
+    "correct": 0,
+    "correctExplanation": "A fixed period income annuity provides guaranteed income for a specified period of time and is not subject to market ups and downs.",
+    "wrongExplanations": [
+      {
+        "answer": "Lifetime Income Annuity",
+        "explanation": "This is designed to last for life, not just a fixed period."
+      },
+      {
+        "answer": "Deferred Income Annuity",
+        "explanation": "This starts later and is usually designed for future lifetime income."
+      },
+      {
+        "answer": "Advisory Variable Annuity",
+        "explanation": "This is a fee-based wealth accumulation annuity with advisory support, not fixed-period guaranteed income."
+      }
+    ]
+  },
+  {
+    "chapter": 6,
+    "chapterTitle": "Functional Relationship Map",
+    "category": "Retirement Income Relationship",
+    "difficulty": "hard",
+    "questionType": "multiple-choice",
+    "id": 10,
+    "question": "A client wants future guaranteed lifetime income and is willing to wait at least 2 years before payments begin. Which function fits?",
+    "answers": [
+      "Deferred Income Annuity",
+      "Fixed Period Income Annuity",
+      "Term Life",
+      "Direct Mutual Funds"
+    ],
+    "correct": 0,
+    "correctExplanation": "Deferred income annuities are designed for future income needs, with payments starting later and lasting for life.",
+    "wrongExplanations": [
+      {
+        "answer": "Fixed Period Income Annuity",
+        "explanation": "This is for guaranteed income now for a specified period, not future lifetime income."
+      },
+      {
+        "answer": "Term Life",
+        "explanation": "Term life protects against death risk and does not create retirement income."
+      },
+      {
+        "answer": "Direct Mutual Funds",
+        "explanation": "Direct mutual funds allow investment access but do not guarantee lifetime income."
+      }
+    ]
+  },
+  {
+    "chapter": 6,
+    "chapterTitle": "Functional Relationship Map",
+    "category": "Retirement Income Relationship",
+    "difficulty": "hard",
+    "questionType": "multiple-choice",
+    "id": 11,
+    "question": "Why does the fixed annuity with lifetime income sit differently from traditional income annuities?",
+    "answers": [
+      "It combines fixed-rate accumulation, lifetime withdrawal income, and more liquidity.",
+      "It has no fees, no surrender charges, and no income rules.",
+      "It is mainly a death benefit product with no retirement function.",
+      "It gives market participation without investment risk."
+    ],
+    "correct": 0,
+    "correctExplanation": "Fixed annuities with lifetime income combine fixed return, lifetime income through a rider, and access to funds before lifetime income payments begin.",
+    "wrongExplanations": [
+      {
+        "answer": "It has no fees, no surrender charges, and no income rules.",
+        "explanation": "The PDF notes GLWB rider fees and possible surrender charges/market value adjustments."
+      },
+      {
+        "answer": "It is mainly a death benefit product with no retirement function.",
+        "explanation": "It is clearly positioned as a retirement income product."
+      },
+      {
+        "answer": "It gives market participation without investment risk.",
+        "explanation": "Fixed annuities do not offer market growth potential."
+      }
+    ]
+  },
+  {
+    "chapter": 6,
+    "chapterTitle": "Functional Relationship Map",
+    "category": "Wealth Accumulation Relationship",
+    "difficulty": "easy",
+    "questionType": "multiple-choice",
+    "id": 12,
+    "question": "In the wealth accumulation map, what is the first major split after fixed return?",
+    "answers": [
+      "Fixed return vs market participation",
+      "Death benefit vs disability benefit",
+      "Immediate income vs future income",
+      "Employer plan vs IRA"
+    ],
+    "correct": 0,
+    "correctExplanation": "The wealth accumulation map separates fixed-return products from products with market participation.",
+    "wrongExplanations": [
+      {
+        "answer": "Death benefit vs disability benefit",
+        "explanation": "That split belongs to protection products."
+      },
+      {
+        "answer": "Immediate income vs future income",
+        "explanation": "That split belongs to retirement income products."
+      },
+      {
+        "answer": "Employer plan vs IRA",
+        "explanation": "That belongs to rollover options, not the main wealth accumulation map."
+      }
+    ]
+  },
+  {
+    "chapter": 6,
+    "chapterTitle": "Functional Relationship Map",
+    "category": "Wealth Accumulation Relationship",
+    "difficulty": "medium",
+    "questionType": "multiple-choice",
+    "id": 13,
+    "question": "Which product best fits a client who wants long-term low-risk growth through a guaranteed fixed interest rate?",
+    "answers": [
+      "Fixed annuity",
+      "Variable annuity",
+      "Variable universal life",
+      "Brokerage account"
+    ],
+    "correct": 0,
+    "correctExplanation": "Fixed annuities provide guaranteed fixed interest growth and are positioned for long-term, low-risk retirement savings.",
+    "wrongExplanations": [
+      {
+        "answer": "Variable annuity",
+        "explanation": "Variable annuities participate in markets and carry market risk."
+      },
+      {
+        "answer": "Variable universal life",
+        "explanation": "This is life insurance with investment options, not a fixed-interest annuity."
+      },
+      {
+        "answer": "Brokerage account",
+        "explanation": "A brokerage account provides investment control, not a guaranteed fixed interest rate."
+      }
+    ]
+  },
+  {
+    "chapter": 6,
+    "chapterTitle": "Functional Relationship Map",
+    "category": "Wealth Accumulation Relationship",
+    "difficulty": "medium",
+    "questionType": "multiple-choice",
+    "id": 14,
+    "question": "A client wants market growth potential through a wide range of investment options inside an annuity. Which function fits?",
+    "answers": [
+      "Variable annuity",
+      "Fixed annuity",
+      "Fixed period income annuity",
+      "Individual Disability Insurance"
+    ],
+    "correct": 0,
+    "correctExplanation": "Variable annuities provide access to financial markets, underlying investment options, tax-deferred growth potential, and possible legacy protection.",
+    "wrongExplanations": [
+      {
+        "answer": "Fixed annuity",
+        "explanation": "Fixed annuities provide fixed-rate growth with no market growth potential."
+      },
+      {
+        "answer": "Fixed period income annuity",
+        "explanation": "This provides guaranteed income for a set period, not market growth potential."
+      },
+      {
+        "answer": "Individual Disability Insurance",
+        "explanation": "This protects income from disability, not investment accumulation."
+      }
+    ]
+  },
+  {
+    "chapter": 6,
+    "chapterTitle": "Functional Relationship Map",
+    "category": "Wealth Accumulation Relationship",
+    "difficulty": "hard",
+    "questionType": "multiple-choice",
+    "id": 15,
+    "question": "A client wants market participation but also wants a feature that can protect the initial investment after a required holding period. Which product branch fits best?",
+    "answers": [
+      "Variable annuity with investment protection",
+      "Fixed annuity",
+      "Lifetime income annuity",
+      "Whole life"
+    ],
+    "correct": 0,
+    "correctExplanation": "Variable annuities with investment protection can include an optional rider that protects 100% of the initial investment after the holding period, while still allowing market participation.",
+    "wrongExplanations": [
+      {
+        "answer": "Fixed annuity",
+        "explanation": "Fixed annuities avoid market risk but do not provide market participation in the same way."
+      },
+      {
+        "answer": "Lifetime income annuity",
+        "explanation": "This focuses on guaranteed income, not market participation with investment protection."
+      },
+      {
+        "answer": "Whole life",
+        "explanation": "Whole life offers death benefit and cash value, not annuity-based market participation with an investment protection rider."
+      }
+    ]
+  },
+  {
+    "chapter": 6,
+    "chapterTitle": "Functional Relationship Map",
+    "category": "Investment Relationship",
+    "difficulty": "medium",
+    "questionType": "multiple-choice",
+    "id": 16,
+    "question": "What is the functional difference between brokerage/direct mutual funds and investment advisory solutions?",
+    "answers": [
+      "Brokerage/direct mutual funds fit clients who want control without ongoing advice; advisory solutions fit clients who want proactive ongoing advice for a fee.",
+      "Brokerage always guarantees income; advisory solutions never involve markets.",
+      "Direct mutual funds are insurance products; advisory solutions are term life products.",
+      "Advisory solutions are only for clients who want no professional support."
+    ],
+    "correct": 0,
+    "correctExplanation": "The PDF positions brokerage accounts and direct mutual funds for investors who want control and do not require ongoing advice, while advisory solutions provide proactive ongoing advice for a fee.",
+    "wrongExplanations": [
+      {
+        "answer": "Brokerage always guarantees income; advisory solutions never involve markets.",
+        "explanation": "Neither statement matches the PDF."
+      },
+      {
+        "answer": "Direct mutual funds are insurance products; advisory solutions are term life products.",
+        "explanation": "Both are investment solutions, not life insurance products."
+      },
+      {
+        "answer": "Advisory solutions are only for clients who want no professional support.",
+        "explanation": "Advisory solutions specifically involve ongoing professional advice."
+      }
+    ]
+  },
+  {
+    "chapter": 6,
+    "chapterTitle": "Functional Relationship Map",
+    "category": "Investment Relationship",
+    "difficulty": "hard",
+    "questionType": "multiple-choice",
+    "id": 17,
+    "question": "A client wants ongoing portfolio management, performance reporting, periodic reviews, and rebalancing. Which branch fits?",
+    "answers": [
+      "Investment Advisory Solutions",
+      "Direct Mutual Funds",
+      "Term Life",
+      "Fixed Period Income Annuity"
+    ],
+    "correct": 0,
+    "correctExplanation": "Investment Advisory Solutions are designed for clients seeking initial and ongoing advice, portfolio management, performance reporting, periodic reviews, and rebalancing.",
+    "wrongExplanations": [
+      {
+        "answer": "Direct Mutual Funds",
+        "explanation": "Direct mutual funds are more point-in-time and fund-family-specific, not ongoing advisory management."
+      },
+      {
+        "answer": "Term Life",
+        "explanation": "Term life is temporary insurance protection."
+      },
+      {
+        "answer": "Fixed Period Income Annuity",
+        "explanation": "This provides guaranteed income for a set period, not portfolio management."
+      }
+    ]
+  },
+  {
+    "chapter": 6,
+    "chapterTitle": "Functional Relationship Map",
+    "category": "Integrated Planning",
+    "difficulty": "hard",
+    "questionType": "multiple-choice",
+    "id": 18,
+    "question": "Which sequence best reflects the PDF's full strategic map?",
+    "answers": [
+      "Protect first, then address retirement income, wealth accumulation, and legacy needs.",
+      "Invest first, then decide whether protection is necessary.",
+      "Choose the highest return product first, then create the client goal later.",
+      "Start with rollovers, then ignore insurance and income planning."
+    ],
+    "correct": 0,
+    "correctExplanation": "The PDF frames protection as the foundation and springboard for growth, then connects that base to retirement income, wealth accumulation, and legacy goals.",
+    "wrongExplanations": [
+      {
+        "answer": "Invest first, then decide whether protection is necessary.",
+        "explanation": "The PDF presents protection-first planning, not investment-first planning."
+      },
+      {
+        "answer": "Choose the highest return product first, then create the client goal later.",
+        "explanation": "The PDF starts with goals, needs, risk tolerance, and financial position before product selection."
+      },
+      {
+        "answer": "Start with rollovers, then ignore insurance and income planning.",
+        "explanation": "Rollovers are one planning topic, not the entire map."
+      }
+    ]
+  },
+  {
+    "chapter": 6,
+    "chapterTitle": "Functional Relationship Map",
+    "category": "Integrated Planning",
+    "difficulty": "medium",
+    "questionType": "multiple-choice",
+    "id": 19,
+    "question": "Why is the functional relationship map not just a product list?",
+    "answers": [
+      "Because it connects each product to a client objective such as protection, income, growth, advice, liquidity, or risk control.",
+      "Because every product performs the same function.",
+      "Because it ranks products from cheapest to most expensive only.",
+      "Because it removes the need to understand client goals."
+    ],
+    "correct": 0,
+    "correctExplanation": "The map organizes products by the job they perform for the client, such as protection, retirement income, wealth accumulation, market participation, guarantees, and advice.",
+    "wrongExplanations": [
+      {
+        "answer": "Because every product performs the same function.",
+        "explanation": "The whole map exists because products serve different functions."
+      },
+      {
+        "answer": "Because it ranks products from cheapest to most expensive only.",
+        "explanation": "The PDF compares features and functions, not just cost."
+      },
+      {
+        "answer": "Because it removes the need to understand client goals.",
+        "explanation": "The PDF repeatedly says planning begins with goals, needs, and circumstances."
+      }
+    ]
+  },
+  {
+    "chapter": 6,
+    "chapterTitle": "Functional Relationship Map",
+    "category": "Hard Ass Question",
+    "difficulty": "hard",
+    "questionType": "multiple-choice",
+    "id": 20,
+    "question": "Hard ass question: A client has 3 priorities: protect family income if they die or become disabled, create guaranteed retirement income later, and still invest some assets with ongoing professional advice. Which combination best follows the functional relationship map?",
+    "answers": [
+      "Life insurance plus IDI, deferred income annuity, and investment advisory solutions",
+      "Variable annuity only",
+      "Term life only and a brokerage account only",
+      "Fixed period income annuity, direct mutual funds, and no protection products"
+    ],
+    "correct": 0,
+    "correctExplanation": "This combination matches all 3 functions: life insurance and IDI protect against death and disability income loss, deferred income annuity targets future guaranteed retirement income, and investment advisory solutions provide market participation with ongoing advice.",
+    "wrongExplanations": [
+      {
+        "answer": "Variable annuity only",
+        "explanation": "A variable annuity may support accumulation, but it does not fully solve death protection, disability income protection, and guaranteed future income by itself."
+      },
+      {
+        "answer": "Term life only and a brokerage account only",
+        "explanation": "This leaves disability income protection and guaranteed future lifetime income under-addressed."
+      },
+      {
+        "answer": "Fixed period income annuity, direct mutual funds, and no protection products",
+        "explanation": "This misses the client\u2019s protection need and uses fixed-period income instead of future lifetime income."
+      }
+    ]
+  }
+]
