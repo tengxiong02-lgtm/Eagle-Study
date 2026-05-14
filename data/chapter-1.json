@@ -1,0 +1,206 @@
+[
+  {
+    "chapter": 1,
+    "chapterTitle": "Foundation / Trust Layer",
+    "category": "Core Philosophy",
+    "difficulty": "easy",
+    "questionType": "multiple-choice",
+    "id": 1,
+    "question": "What is the core foundation of New York Life's planning philosophy?",
+    "answers": ["Aggressive investment growth", "Protection-first strategy", "Speculative wealth building", "Short-term income generation"],
+    "correct": 1,
+    "correctExplanation": "Protection-first strategy is correct because the PDF repeatedly states that protecting what matters most should be the foundation of every financial plan.",
+    "wrongExplanations": [
+      {"answer": "Aggressive investment growth", "explanation": "Growth is important later in the planning process, but it is not the starting foundation."},
+      {"answer": "Speculative wealth building", "explanation": "The material emphasizes long-term security and stability, not speculation."},
+      {"answer": "Short-term income generation", "explanation": "The planning philosophy is centered around long-term protection and financial stability."}
+    ]
+  },
+  {
+    "chapter": 1,
+    "chapterTitle": "Foundation / Trust Layer",
+    "category": "Company Philosophy",
+    "difficulty": "easy",
+    "questionType": "multiple-choice",
+    "id": 2,
+    "question": "According to the material, why does financial protection come before growth?",
+    "answers": ["Because protection creates a stable foundation for future growth", "Because investing is too dangerous", "Because retirement products cannot grow", "Because protection products outperform all investments"],
+    "correct": 0,
+    "correctExplanation": "Protection creates financial stability and peace of mind, which becomes the foundation and springboard for future growth strategies.",
+    "wrongExplanations": [
+      {"answer": "Because investing is too dangerous", "explanation": "The company still supports investing and wealth accumulation."},
+      {"answer": "Because retirement products cannot grow", "explanation": "Many retirement and accumulation products are designed specifically for growth."},
+      {"answer": "Because protection products outperform all investments", "explanation": "The material does not claim insurance products outperform all investments."}
+    ]
+  },
+  {
+    "chapter": 1,
+    "chapterTitle": "Foundation / Trust Layer",
+    "category": "Mutual Company Structure",
+    "difficulty": "medium",
+    "questionType": "multiple-choice",
+    "id": 3,
+    "question": "What is one strategic advantage of New York Life being a mutual company?",
+    "answers": ["It focuses primarily on shareholders", "It can prioritize long-term policyowner interests", "It eliminates all investment risks", "It guarantees market growth"],
+    "correct": 1,
+    "correctExplanation": "Mutual companies do not have shareholders, allowing New York Life to focus more heavily on long-term policyowner interests.",
+    "wrongExplanations": [
+      {"answer": "It focuses primarily on shareholders", "explanation": "A mutual company does not have shareholders in the traditional stock-company sense."},
+      {"answer": "It eliminates all investment risks", "explanation": "No company can eliminate all investment risk."},
+      {"answer": "It guarantees market growth", "explanation": "Market growth is never guaranteed."}
+    ]
+  },
+  {
+    "chapter": 1,
+    "chapterTitle": "Foundation / Trust Layer",
+    "category": "Advisor Relationship",
+    "difficulty": "easy",
+    "questionType": "multiple-choice",
+    "id": 4,
+    "question": "How does the advisor relationship begin according to the PDF?",
+    "answers": ["By selecting investments first", "By understanding the client's goals and financial position", "By immediately recommending insurance products", "By comparing stock portfolios"],
+    "correct": 1,
+    "correctExplanation": "The planning process begins with understanding the client's financial position, goals, and aspirations.",
+    "wrongExplanations": [
+      {"answer": "By selecting investments first", "explanation": "Investments come later after understanding the client."},
+      {"answer": "By immediately recommending insurance products", "explanation": "The process begins with discovery and understanding, not immediate selling."},
+      {"answer": "By comparing stock portfolios", "explanation": "Portfolio comparisons are not the foundation of the relationship."}
+    ]
+  },
+  {
+    "chapter": 1,
+    "chapterTitle": "Foundation / Trust Layer",
+    "category": "Planning Philosophy",
+    "difficulty": "medium",
+    "questionType": "multiple-choice",
+    "id": 5,
+    "question": "Which statement best describes the role of ongoing guidance in the planning process?",
+    "answers": ["It helps clients adjust their plan when life changes occur", "It replaces the need for financial discipline", "It guarantees perfect financial outcomes", "It removes all market risk"],
+    "correct": 0,
+    "correctExplanation": "Ongoing guidance helps clients understand when additional steps may need to be taken to stay aligned with their goals.",
+    "wrongExplanations": [
+      {"answer": "It replaces the need for financial discipline", "explanation": "Clients still need discipline and consistent planning."},
+      {"answer": "It guarantees perfect financial outcomes", "explanation": "No advisor or plan can guarantee outcomes."},
+      {"answer": "It removes all market risk", "explanation": "Risk can be managed but never fully removed."}
+    ]
+  },
+  {
+    "chapter": 1,
+    "chapterTitle": "Foundation / Trust Layer",
+    "category": "Financial Strength",
+    "difficulty": "medium",
+    "questionType": "multiple-choice",
+    "id": 6,
+    "question": "Why does the material emphasize New York Life's long history?",
+    "answers": ["To show financial endurance through different economic environments", "To prove investments always rise", "To guarantee higher returns than competitors", "To avoid discussing risk"],
+    "correct": 0,
+    "correctExplanation": "The company emphasizes its ability to remain strong through periods of uncertainty, crisis, and economic change.",
+    "wrongExplanations": [
+      {"answer": "To prove investments always rise", "explanation": "No company can guarantee markets always rise."},
+      {"answer": "To guarantee higher returns than competitors", "explanation": "The material does not make performance guarantees against competitors."},
+      {"answer": "To avoid discussing risk", "explanation": "The brochure openly discusses risks and tradeoffs in many products."}
+    ]
+  },
+  {
+    "chapter": 1,
+    "chapterTitle": "Foundation / Trust Layer",
+    "category": "Strategic Understanding",
+    "difficulty": "hard",
+    "questionType": "multiple-choice",
+    "id": 7,
+    "question": "What is the strategic purpose of establishing protection before wealth accumulation?",
+    "answers": ["To reduce the probability that future financial shocks destroy long-term plans", "To maximize investment speculation", "To eliminate all taxes", "To avoid retirement planning"],
+    "correct": 0,
+    "correctExplanation": "Protection creates financial stability that helps preserve long-term plans against unexpected risks such as death, disability, or income loss.",
+    "wrongExplanations": [
+      {"answer": "To maximize investment speculation", "explanation": "The philosophy emphasizes stability and planning, not speculation."},
+      {"answer": "To eliminate all taxes", "explanation": "Tax advantages exist, but taxes are not completely eliminated."},
+      {"answer": "To avoid retirement planning", "explanation": "Retirement planning is a major part of the overall framework."}
+    ]
+  },
+  {
+    "chapter": 1,
+    "chapterTitle": "Foundation / Trust Layer",
+    "category": "Client Journey",
+    "difficulty": "medium",
+    "questionType": "multiple-choice",
+    "id": 8,
+    "question": "Which of the following best reflects the company's approach to long-term relationships?",
+    "answers": ["Transactional product sales", "Short-term commission focus", "Long-term partnership built on trust and accountability", "One-time investment consultations"],
+    "correct": 2,
+    "correctExplanation": "The brochure repeatedly describes the advisor relationship as a long-term partnership built on trust and shared accountability.",
+    "wrongExplanations": [
+      {"answer": "Transactional product sales", "explanation": "The company emphasizes relationships and ongoing guidance rather than one-time transactions."},
+      {"answer": "Short-term commission focus", "explanation": "The material emphasizes long-term client interests rather than short-term compensation."},
+      {"answer": "One-time investment consultations", "explanation": "The relationship is intended to continue over time."}
+    ]
+  },
+  {
+    "chapter": 1,
+    "chapterTitle": "Foundation / Trust Layer",
+    "category": "Risk Management",
+    "difficulty": "medium",
+    "questionType": "multiple-choice",
+    "id": 9,
+    "question": "Which risk is primarily addressed first in the company's planning hierarchy?",
+    "answers": ["Market timing risk", "Loss of financial security", "Sector rotation risk", "Currency fluctuation risk"],
+    "correct": 1,
+    "correctExplanation": "The first layer focuses on protecting what matters most and reducing threats to financial security.",
+    "wrongExplanations": [
+      {"answer": "Market timing risk", "explanation": "Market risks are discussed later in investment-focused sections."},
+      {"answer": "Sector rotation risk", "explanation": "This is a portfolio management concept, not the foundation layer."},
+      {"answer": "Currency fluctuation risk", "explanation": "Currency risk is not the primary focus of the protection-first philosophy."}
+    ]
+  },
+  {
+    "chapter": 1,
+    "chapterTitle": "Foundation / Trust Layer",
+    "category": "Product Positioning",
+    "difficulty": "hard",
+    "questionType": "multiple-choice",
+    "id": 10,
+    "question": "Why does the PDF frame protection as both a foundation and a springboard?",
+    "answers": ["Because protection alone solves every financial problem", "Because stability allows clients to pursue growth with greater confidence", "Because investments are unnecessary after insurance", "Because all financial products become risk-free"],
+    "correct": 1,
+    "correctExplanation": "Protection stabilizes the financial foundation so future wealth accumulation and retirement strategies can be pursued more confidently.",
+    "wrongExplanations": [
+      {"answer": "Because protection alone solves every financial problem", "explanation": "Protection is important, but additional planning layers are still necessary."},
+      {"answer": "Because investments are unnecessary after insurance", "explanation": "The brochure strongly supports investing and wealth accumulation."},
+      {"answer": "Because all financial products become risk-free", "explanation": "Risk can be managed, not eliminated."}
+    ]
+  },
+  {
+    "chapter": 1,
+    "chapterTitle": "Foundation / Trust Layer",
+    "category": "Advisor Ethics",
+    "difficulty": "hard",
+    "questionType": "multiple-choice",
+    "id": 11,
+    "question": "According to the brochure, when may an advisor recommend products outside New York Life?",
+    "answers": ["Only when commissions are higher elsewhere", "When another product better fits the client's needs or underwriting situation", "Only after retirement planning fails", "Never"],
+    "correct": 1,
+    "correctExplanation": "The brochure states advisors may recommend outside products if New York Life products do not appropriately meet client needs or underwriting situations.",
+    "wrongExplanations": [
+      {"answer": "Only when commissions are higher elsewhere", "explanation": "The material frames recommendations around client suitability, not compensation."},
+      {"answer": "Only after retirement planning fails", "explanation": "Outside products can be considered whenever they better serve the client."},
+      {"answer": "Never", "explanation": "The advisor is allowed to recommend other insurers in certain situations."}
+    ]
+  },
+  {
+    "chapter": 1,
+    "chapterTitle": "Foundation / Trust Layer",
+    "category": "Strategic Layering",
+    "difficulty": "hard",
+    "questionType": "multiple-choice",
+    "id": 12,
+    "question": "Which sequence best represents the strategic flow of the brochure?",
+    "answers": ["Speculation → Wealth → Protection", "Protection → Retirement → Wealth Accumulation → Advisory", "Stocks → Options → Insurance", "Loans → Taxes → Retirement"],
+    "correct": 1,
+    "correctExplanation": "The brochure strategically layers planning from protection first, then retirement income, wealth accumulation, and advisory solutions.",
+    "wrongExplanations": [
+      {"answer": "Speculation → Wealth → Protection", "explanation": "This reverses the philosophy presented in the material."},
+      {"answer": "Stocks → Options → Insurance", "explanation": "The brochure is not structured around speculative trading products."},
+      {"answer": "Loans → Taxes → Retirement", "explanation": "This sequence does not reflect the brochure's planning hierarchy."}
+    ]
+  }
+]
