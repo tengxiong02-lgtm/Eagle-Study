@@ -1,6 +1,4 @@
 # Chapter 1 — Foundation / Trust Layer
-
-```json
 [
   {
     "chapter": 1,
@@ -373,6 +371,7 @@
         "explanation": "This sequence does not reflect the brochure's planning hierarchy."
       }
     ]
-  }
+  },
+  
 ]
-```
+
