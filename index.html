@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Learning Eagle Charting</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+
+<body>
+  <main id="app">
+
+    <header class="app-header">
+      <h1>Learning Eagle Charting</h1>
+      <p class="created-by">Created by Teng Xiong</p>
+      <p class="created-date">May 13, 2026</p>
+    </header>
+
+    <section id="menu" class="menu-grid">
+
+      <div class="chapter-column">
+        <h2>Chapters 1–5</h2>
+        <h3>PRODUCT KNOWLEDGE</h3>
+
+        <button onclick="startChapter('product', 1)">Chapter 1: Foundation / Trust Layer</button>
+        <button onclick="startChapter('product', 2)">Chapter 2: Protection Solutions</button>
+        <button onclick="startChapter('product', 3)">Chapter 3: Retirement Income</button>
+        <button onclick="startChapter('product', 4)">Chapter 4: Wealth Accumulation</button>
+        <button onclick="startChapter('product', 5)">Chapter 5: Investment Management / Advisory</button>
+      </div>
+
+      <div class="chapter-column">
+        <h2>Chapters 6–10</h2>
+        <h3>STRATEGIC UNDERSTANDING</h3>
+
+        <button onclick="startChapter('strategy', 6)">Chapter 6: Functional Relationship Map</button>
+        <button onclick="startChapter('strategy', 7)">Chapter 7: Product Relationship Hierarchy</button>
+        <button onclick="startChapter('strategy', 8)">Chapter 8: Risk vs Growth Flow</button>
+        <button onclick="startChapter('strategy', 9)">Chapter 9: Client Journey Flow</button>
+        <button onclick="startChapter('strategy', 10)">Chapter 10: Core Philosophy</button>
+      </div>
+
+    </section>
+
+    <section id="quiz" class="hidden">
+
+      <div id="confirmBox" class="confirm-box hidden">
+        <button onclick="confirmAnswer()">Confirm Answer</button>
+      </div>
+
+      <div class="quiz-card">
+        <h2 id="chapterTitle"></h2>
+        <p id="progress"></p>
+        <h3 id="questionText"></h3>
+        <div id="answers"></div>
+      </div>
+
+    </section>
+
+    <section id="results" class="hidden">
+
+      <div class="result-card">
+        <h2>Quiz Complete</h2>
+        <p id="scoreText"></p>
+
+        <div class="result-buttons">
+          <button onclick="retakeWrong()">Retake Wrong Answers</button>
+          <button onclick="reviewAnswers()">Review All Answers</button>
+          <button onclick="backToMenu()">Back to Main Menu</button>
+        </div>
+
+        <div id="reviewArea"></div>
+      </div>
+
+    </section>
+
+  </main>
+
+  <script src="script.js"></script>
+</body>
+</html>
+
