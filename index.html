@@ -44,15 +44,16 @@
 
     <section id="quiz" class="hidden">
 
-      <div id="confirmBox" class="confirm-box hidden">
-        <button onclick="confirmAnswer()">Confirm Answer</button>
-      </div>
-
       <div class="quiz-card">
         <h2 id="chapterTitle"></h2>
         <p id="progress"></p>
         <h3 id="questionText"></h3>
+
         <div id="answers"></div>
+
+        <div id="feedbackBox" class="feedback-box hidden"></div>
+
+        <button id="nextButton" class="hidden" onclick="nextQuestion()">Next Question</button>
       </div>
 
     </section>
@@ -79,4 +80,3 @@
   <script src="script.js"></script>
 </body>
 </html>
-
