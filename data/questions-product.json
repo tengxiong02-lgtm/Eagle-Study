@@ -5,20 +5,29 @@
     "category": "Company Philosophy",
     "difficulty": "easy",
     "questionType": "multiple-choice",
-
     "id": 1,
-
     "question": "What is the foundation of New York Life's financial planning approach?",
-
     "answers": [
       "Aggressive market investing",
       "Protection-first strategy",
       "Short-term retirement gains",
       "High-risk asset growth"
     ],
-
     "correct": 1,
-
-    "explanation": "The PDF emphasizes that protecting what matters most should be the foundation of every financial plan."
+    "correctExplanation": "Protection-first strategy is correct because the PDF says protecting what matters most should be the foundation of every financial plan.",
+    "wrongExplanations": [
+      {
+        "answer": "Aggressive market investing",
+        "explanation": "This is not correct because the PDF does not present aggressive investing as the foundation. Investing is part of the larger plan, not the starting point."
+      },
+      {
+        "answer": "Short-term retirement gains",
+        "explanation": "This is not correct because the PDF focuses on long-term planning, not short-term gains."
+      },
+      {
+        "answer": "High-risk asset growth",
+        "explanation": "This is not correct because the PDF emphasizes protection, stability, guidance, and long-term planning before growth."
+      }
+    ]
   },
 ]
