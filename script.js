@@ -4,8 +4,11 @@ let selectedAnswer = null;
 let userAnswers = [];
 let wrongAnswers = [];
 
-async function loadQuizData(chapterNumber) {
+function shuffleArray(array) {
+  return [...array].sort(() => Math.random() - 0.5);
+}
 
+async function loadQuizData(chapterNumber) {
   const file = `./data/chapter-${chapterNumber}.json`;
 
   const response = await fetch(file, {
@@ -25,21 +28,37 @@ async function loadQuizData(chapterNumber) {
   return data;
 }
 
+function randomizeAnswers(question) {
+  const originalAnswers = question.answers.map((answer, index) => ({
+    answer,
+    originalIndex: index
+  }));
+
+  const shuffledAnswers = shuffleArray(originalAnswers);
+
+  const newCorrectIndex = shuffledAnswers.findIndex(
+    item => item.originalIndex === question.correct
+  );
+
+  return {
+    ...question,
+    answers: shuffledAnswers.map(item => item.answer),
+    correct: newCorrectIndex
+  };
+}
+
 async function startChapter(chapterNumber) {
-
   try {
+    const data = await loadQuizData(chapterNumber);
 
-    currentQuestions =
-      await loadQuizData(chapterNumber);
+    currentQuestions = shuffleArray(data).map(randomizeAnswers);
 
   } catch (error) {
-
     alert(
       "Error loading quiz data.\n\nMake sure your JSON file is uploaded correctly."
     );
 
     console.error(error);
-
     return;
   }
 
@@ -48,131 +67,75 @@ async function startChapter(chapterNumber) {
   userAnswers = [];
   wrongAnswers = [];
 
-  document
-    .getElementById("menu")
-    .classList.add("hidden");
-
-  document
-    .getElementById("results")
-    .classList.add("hidden");
-
-  document
-    .getElementById("quiz")
-    .classList.remove("hidden");
+  document.getElementById("menu").classList.add("hidden");
+  document.getElementById("results").classList.add("hidden");
+  document.getElementById("quiz").classList.remove("hidden");
 
   if (currentQuestions.length === 0) {
-
     showNoQuestions(chapterNumber);
-
     return;
   }
-
-  currentQuestions = currentQuestions.sort(
-    () => Math.random() - 0.5
-  );
 
   showQuestion();
 }
 
 function showNoQuestions(chapterNumber) {
+  document.getElementById("chapterTitle").textContent =
+    `Chapter ${chapterNumber}`;
 
-  document
-    .getElementById("chapterTitle")
-    .textContent = `Chapter ${chapterNumber}`;
+  document.getElementById("progress").textContent = "";
 
-  document
-    .getElementById("progress")
-    .textContent = "";
-
-  document
-    .getElementById("questionText")
-    .textContent =
+  document.getElementById("questionText").textContent =
     "No questions have been added for this chapter yet.";
 
-  document
-    .getElementById("answers")
-    .innerHTML = `
-      <button onclick="backToMenu()">
-        Back to Main Menu
-      </button>
-    `;
+  document.getElementById("answers").innerHTML = `
+    <button onclick="backToMenu()">Back to Main Menu</button>
+  `;
 
-  document
-    .getElementById("feedbackBox")
-    .classList.add("hidden");
-
-  document
-    .getElementById("feedbackBox")
-    .innerHTML = "";
-
-  document
-    .getElementById("nextButton")
-    .classList.add("hidden");
+  document.getElementById("feedbackBox").classList.add("hidden");
+  document.getElementById("feedbackBox").innerHTML = "";
+  document.getElementById("nextButton").classList.add("hidden");
 }
 
 function showQuestion() {
-
   const q = currentQuestions[currentIndex];
 
   selectedAnswer = null;
 
-  document
-    .getElementById("chapterTitle")
-    .textContent =
+  document.getElementById("chapterTitle").textContent =
     q.chapterTitle || `Chapter ${q.chapter}`;
 
-  document
-    .getElementById("progress")
-    .textContent =
+  document.getElementById("progress").textContent =
     `Question ${currentIndex + 1} of ${currentQuestions.length}`;
 
-  document
-    .getElementById("questionText")
-    .textContent = q.question;
+  document.getElementById("questionText").textContent = q.question;
 
-  document
-    .getElementById("feedbackBox")
-    .classList.add("hidden");
+  document.getElementById("feedbackBox").classList.add("hidden");
+  document.getElementById("feedbackBox").innerHTML = "";
+  document.getElementById("nextButton").classList.add("hidden");
 
-  document
-    .getElementById("feedbackBox")
-    .innerHTML = "";
-
-  document
-    .getElementById("nextButton")
-    .classList.add("hidden");
-
-  const answersDiv =
-    document.getElementById("answers");
-
+  const answersDiv = document.getElementById("answers");
   answersDiv.innerHTML = "";
 
   q.answers.forEach((answer, index) => {
-
     const btn = document.createElement("button");
 
     btn.textContent = answer;
-
     btn.className = "answer-btn";
-
     btn.onclick = () => selectAnswer(index);
 
     answersDiv.appendChild(btn);
-
   });
-
 }
 
 function selectAnswer(index) {
-
   if (selectedAnswer !== null) return;
 
   selectedAnswer = index;
 
   const q = currentQuestions[currentIndex];
 
-  const isCorrect =
-    selectedAnswer === q.correct;
+  const isCorrect = selectedAnswer === q.correct;
 
   userAnswers.push({
     ...q,
@@ -184,36 +147,27 @@ function selectAnswer(index) {
     wrongAnswers.push(q);
   }
 
-  const answerButtons =
-    document.querySelectorAll(".answer-btn");
+  const answerButtons = document.querySelectorAll(".answer-btn");
 
   answerButtons.forEach((btn, btnIndex) => {
-
     btn.disabled = true;
 
     if (btnIndex === q.correct) {
       btn.classList.add("correct-answer");
     }
 
-    if (
-      btnIndex === selectedAnswer &&
-      btnIndex !== q.correct
-    ) {
+    if (btnIndex === selectedAnswer && btnIndex !== q.correct) {
       btn.classList.add("wrong-answer");
     }
-
   });
 
   showFeedback(q, isCorrect);
 }
 
 function showFeedback(q, isCorrect) {
+  const feedbackBox = document.getElementById("feedbackBox");
 
-  const feedbackBox =
-    document.getElementById("feedbackBox");
-
-  const resultText =
-    isCorrect ? "Correct" : "Wrong";
+  const resultText = isCorrect ? "Correct" : "Wrong";
 
   const correctExplanation =
     q.correctExplanation ||
@@ -238,111 +192,74 @@ function showFeedback(q, isCorrect) {
     Array.isArray(q.wrongExplanations) &&
     q.wrongExplanations.length > 0
   ) {
-
     html += `
-      <h4>
-        Why the others are not correct:
-      </h4>
-
+      <h4>Why the others are not correct:</h4>
       <ul>
     `;
 
     q.wrongExplanations.forEach(item => {
-
       html += `
         <li>
           <strong>${item.answer}:</strong>
           ${item.explanation}
         </li>
       `;
-
     });
 
     html += `</ul>`;
   }
 
   feedbackBox.innerHTML = html;
-
   feedbackBox.classList.remove("hidden");
 
-  document
-    .getElementById("nextButton")
-    .classList.remove("hidden");
+  document.getElementById("nextButton").classList.remove("hidden");
 }
 
 function nextQuestion() {
-
   currentIndex++;
 
   if (currentIndex < currentQuestions.length) {
-
     showQuestion();
-
   } else {
-
     showResults();
-
   }
-
 }
 
 function showResults() {
+  document.getElementById("quiz").classList.add("hidden");
+  document.getElementById("results").classList.remove("hidden");
 
-  document
-    .getElementById("quiz")
-    .classList.add("hidden");
+  const correct = userAnswers.filter(a => a.isCorrect).length;
 
-  document
-    .getElementById("results")
-    .classList.remove("hidden");
-
-  const correct =
-    userAnswers.filter(
-      a => a.isCorrect
-    ).length;
-
-  document
-    .getElementById("scoreText")
-    .textContent =
+  document.getElementById("scoreText").textContent =
     `Score: ${correct} / ${userAnswers.length}`;
 }
 
 function retakeWrong() {
-
   if (wrongAnswers.length === 0) {
-
     alert("No wrong answers to retake.");
-
     return;
   }
 
-  currentQuestions = [...wrongAnswers];
+  currentQuestions = shuffleArray(wrongAnswers).map(randomizeAnswers);
 
   currentIndex = 0;
   selectedAnswer = null;
   userAnswers = [];
   wrongAnswers = [];
 
-  document
-    .getElementById("results")
-    .classList.add("hidden");
-
-  document
-    .getElementById("quiz")
-    .classList.remove("hidden");
+  document.getElementById("results").classList.add("hidden");
+  document.getElementById("quiz").classList.remove("hidden");
 
   showQuestion();
 }
 
 function reviewAnswers() {
-
-  const reviewArea =
-    document.getElementById("reviewArea");
+  const reviewArea = document.getElementById("reviewArea");
 
   reviewArea.innerHTML = "";
 
   userAnswers.forEach((item, index) => {
-
     const div = document.createElement("div");
 
     div.className = "review-card";
@@ -381,30 +298,17 @@ function reviewAnswers() {
     `;
 
     reviewArea.appendChild(div);
-
   });
-
 }
 
 function backToMenu() {
+  document.getElementById("results").classList.add("hidden");
+  document.getElementById("quiz").classList.add("hidden");
+  document.getElementById("menu").classList.remove("hidden");
 
-  document
-    .getElementById("results")
-    .classList.add("hidden");
-
-  document
-    .getElementById("quiz")
-    .classList.add("hidden");
-
-  document
-    .getElementById("menu")
-    .classList.remove("hidden");
-
-  const reviewArea =
-    document.getElementById("reviewArea");
+  const reviewArea = document.getElementById("reviewArea");
 
   if (reviewArea) {
     reviewArea.innerHTML = "";
   }
-
 }
