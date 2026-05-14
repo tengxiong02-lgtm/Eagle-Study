@@ -1,0 +1,1242 @@
+[
+  {
+    "chapter": 11,
+    "chapterTitle": "Advanced Technical Concepts",
+    "category": "Disclosure Awareness",
+    "difficulty": "medium",
+    "questionType": "multiple-choice",
+    "id": 1101,
+    "question": "Why does the PDF repeatedly tell clients to review illustrations, applications, policies, and disclosures carefully?",
+    "answers": [
+      "Because product features, guarantees, limitations, fees, and risks can materially affect the decision",
+      "Because disclosures are optional marketing decoration",
+      "Because every product has the same cost and risk",
+      "Because advisors can ignore written policy terms"
+    ],
+    "correct": 0,
+    "correctExplanation": "Careful review is required because insurance, annuity, and investment products contain specific features, costs, limitations, and risks that must be understood before purchase.",
+    "wrongExplanations": [
+      {
+        "answer": "Because disclosures are optional marketing decoration",
+        "explanation": "This is wrong because it does not match the PDF's product limits, risks, or planning process."
+      },
+      {
+        "answer": "Because every product has the same cost and risk",
+        "explanation": "This is wrong because it does not match the PDF's product limits, risks, or planning process."
+      },
+      {
+        "answer": "Because advisors can ignore written policy terms",
+        "explanation": "This is wrong because it does not match the PDF's product limits, risks, or planning process."
+      }
+    ]
+  },
+  {
+    "chapter": 11,
+    "chapterTitle": "Advanced Technical Concepts",
+    "category": "Guarantee Limits",
+    "difficulty": "hard",
+    "questionType": "multiple-choice",
+    "id": 1102,
+    "question": "What is the most accurate statement about guarantees in variable annuity products?",
+    "answers": [
+      "Guarantees depend on the claims-paying ability of NYLIAC and do not apply to underlying investment performance",
+      "Guarantees remove all investment risk from the investment divisions",
+      "Guarantees mean account value can never fluctuate",
+      "Guarantees are backed by brokerage account trading profits"
+    ],
+    "correct": 0,
+    "correctExplanation": "The PDF explains that guarantees, including death benefit payments, depend on NYLIAC's claims-paying ability and do not apply to the performance of the underlying investment divisions.",
+    "wrongExplanations": [
+      {
+        "answer": "Guarantees remove all investment risk from the investment divisions",
+        "explanation": "This is wrong because it does not match the PDF's product limits, risks, or planning process."
+      },
+      {
+        "answer": "Guarantees mean account value can never fluctuate",
+        "explanation": "This is wrong because it does not match the PDF's product limits, risks, or planning process."
+      },
+      {
+        "answer": "Guarantees are backed by brokerage account trading profits",
+        "explanation": "This is wrong because it does not match the PDF's product limits, risks, or planning process."
+      }
+    ]
+  },
+  {
+    "chapter": 11,
+    "chapterTitle": "Advanced Technical Concepts",
+    "category": "Market Risk",
+    "difficulty": "medium",
+    "questionType": "multiple-choice",
+    "id": 1103,
+    "question": "What should a client understand about assets in variable annuity investment divisions?",
+    "answers": [
+      "They are subject to market risk and will fluctuate in value",
+      "They are guaranteed by the fixed account in every case",
+      "They never lose value once invested",
+      "They are always protected from daily market movement"
+    ],
+    "correct": 0,
+    "correctExplanation": "Variable annuity investment divisions are subject to market risk, so gains and losses are possible.",
+    "wrongExplanations": [
+      {
+        "answer": "They are guaranteed by the fixed account in every case",
+        "explanation": "This is wrong because it does not match the PDF's product limits, risks, or planning process."
+      },
+      {
+        "answer": "They never lose value once invested",
+        "explanation": "This is wrong because it does not match the PDF's product limits, risks, or planning process."
+      },
+      {
+        "answer": "They are always protected from daily market movement",
+        "explanation": "This is wrong because it does not match the PDF's product limits, risks, or planning process."
+      }
+    ]
+  },
+  {
+    "chapter": 11,
+    "chapterTitle": "Advanced Technical Concepts",
+    "category": "Prospectus",
+    "difficulty": "medium",
+    "questionType": "multiple-choice",
+    "id": 1104,
+    "question": "Why does the PDF direct clients to read prospectuses for variable universal life policies?",
+    "answers": [
+      "Because prospectuses contain important details about objectives, risks, charges, and expenses",
+      "Because prospectuses guarantee future returns",
+      "Because prospectuses replace the need for policy monitoring",
+      "Because prospectuses remove market risk"
+    ],
+    "correct": 0,
+    "correctExplanation": "The prospectus contains more complete information about investment objectives, risks, charges, and expenses, so it should be read carefully before investing.",
+    "wrongExplanations": [
+      {
+        "answer": "Because prospectuses guarantee future returns",
+        "explanation": "This is wrong because it does not match the PDF's product limits, risks, or planning process."
+      },
+      {
+        "answer": "Because prospectuses replace the need for policy monitoring",
+        "explanation": "This is wrong because it does not match the PDF's product limits, risks, or planning process."
+      },
+      {
+        "answer": "Because prospectuses remove market risk",
+        "explanation": "This is wrong because it does not match the PDF's product limits, risks, or planning process."
+      }
+    ]
+  },
+  {
+    "chapter": 11,
+    "chapterTitle": "Advanced Technical Concepts",
+    "category": "Tax Treatment",
+    "difficulty": "medium",
+    "questionType": "multiple-choice",
+    "id": 1105,
+    "question": "What does tax-deferred growth mean in the context of cash value or annuity accumulation?",
+    "answers": [
+      "Growth is generally not taxed until a taxable withdrawal or distribution occurs",
+      "Taxes are permanently eliminated in every situation",
+      "The client never has to report income from any product",
+      "Tax rules do not apply to insurance or annuities"
+    ],
+    "correct": 0,
+    "correctExplanation": "Tax-deferred means taxation is delayed until a taxable access event such as a withdrawal or distribution, not that taxes are automatically eliminated.",
+    "wrongExplanations": [
+      {
+        "answer": "Taxes are permanently eliminated in every situation",
+        "explanation": "This is wrong because it does not match the PDF's product limits, risks, or planning process."
+      },
+      {
+        "answer": "The client never has to report income from any product",
+        "explanation": "This is wrong because it does not match the PDF's product limits, risks, or planning process."
+      },
+      {
+        "answer": "Tax rules do not apply to insurance or annuities",
+        "explanation": "This is wrong because it does not match the PDF's product limits, risks, or planning process."
+      }
+    ]
+  },
+  {
+    "chapter": 11,
+    "chapterTitle": "Advanced Technical Concepts",
+    "category": "Withdrawals",
+    "difficulty": "hard",
+    "questionType": "multiple-choice",
+    "id": 1106,
+    "question": "What tax warning does the PDF give for certain annuity withdrawals before age 59 1/2?",
+    "answers": [
+      "Withdrawals may be subject to ordinary income taxes and a 10% IRS penalty tax",
+      "Withdrawals before age 59 1/2 are always tax free",
+      "Withdrawals before age 59 1/2 are always treated as dividends",
+      "Withdrawals before age 59 1/2 automatically avoid surrender charges"
+    ],
+    "correct": 0,
+    "correctExplanation": "The PDF warns that withdrawals can be subject to ordinary income taxes and, if made before age 59 1/2, a 10% IRS penalty tax may apply.",
+    "wrongExplanations": [
+      {
+        "answer": "Withdrawals before age 59 1/2 are always tax free",
+        "explanation": "This is wrong because it does not match the PDF's product limits, risks, or planning process."
+      },
+      {
+        "answer": "Withdrawals before age 59 1/2 are always treated as dividends",
+        "explanation": "This is wrong because it does not match the PDF's product limits, risks, or planning process."
+      },
+      {
+        "answer": "Withdrawals before age 59 1/2 automatically avoid surrender charges",
+        "explanation": "This is wrong because it does not match the PDF's product limits, risks, or planning process."
+      }
+    ]
+  },
+  {
+    "chapter": 11,
+    "chapterTitle": "Advanced Technical Concepts",
+    "category": "Surrender Charges",
+    "difficulty": "medium",
+    "questionType": "multiple-choice",
+    "id": 1107,
+    "question": "What is a surrender charge?",
+    "answers": [
+      "A charge that may apply when money is withdrawn or a policy is surrendered during a specified period",
+      "A guaranteed dividend paid to the client",
+      "A fee that removes all market risk",
+      "A tax credit for buying an annuity"
+    ],
+    "correct": 0,
+    "correctExplanation": "Surrender charges may apply when withdrawing or surrendering during the surrender charge period, reducing available value.",
+    "wrongExplanations": [
+      {
+        "answer": "A guaranteed dividend paid to the client",
+        "explanation": "This is wrong because it does not match the PDF's product limits, risks, or planning process."
+      },
+      {
+        "answer": "A fee that removes all market risk",
+        "explanation": "This is wrong because it does not match the PDF's product limits, risks, or planning process."
+      },
+      {
+        "answer": "A tax credit for buying an annuity",
+        "explanation": "This is wrong because it does not match the PDF's product limits, risks, or planning process."
+      }
+    ]
+  },
+  {
+    "chapter": 11,
+    "chapterTitle": "Advanced Technical Concepts",
+    "category": "Market Value Adjustment",
+    "difficulty": "hard",
+    "questionType": "multiple-choice",
+    "id": 1108,
+    "question": "What does a market value adjustment do in certain fixed annuity withdrawals or surrenders?",
+    "answers": [
+      "It may add or deduct value based on contract rules and interest-rate conditions during the surrender charge period",
+      "It guarantees stock market growth",
+      "It permanently removes all surrender charges",
+      "It converts a fixed annuity into a brokerage account"
+    ],
+    "correct": 0,
+    "correctExplanation": "The MVA can add or deduct an amount from the annuity or withdrawal amount during the surrender charge period, subject to contract rules.",
+    "wrongExplanations": [
+      {
+        "answer": "It guarantees stock market growth",
+        "explanation": "This is wrong because it does not match the PDF's product limits, risks, or planning process."
+      },
+      {
+        "answer": "It permanently removes all surrender charges",
+        "explanation": "This is wrong because it does not match the PDF's product limits, risks, or planning process."
+      },
+      {
+        "answer": "It converts a fixed annuity into a brokerage account",
+        "explanation": "This is wrong because it does not match the PDF's product limits, risks, or planning process."
+      }
+    ]
+  },
+  {
+    "chapter": 11,
+    "chapterTitle": "Advanced Technical Concepts",
+    "category": "Premium Credit",
+    "difficulty": "hard",
+    "questionType": "multiple-choice",
+    "id": 1109,
+    "question": "What tradeoff may come with annuity policies that include a premium credit?",
+    "answers": [
+      "They may have higher fees and expenses and longer surrender periods",
+      "They always have no fees and no surrender period",
+      "They always outperform all other products",
+      "They remove all withdrawal taxation"
+    ],
+    "correct": 0,
+    "correctExplanation": "The PDF notes that policies with a premium credit may have higher fees and expenses and may have longer surrender periods than policies without one.",
+    "wrongExplanations": [
+      {
+        "answer": "They always have no fees and no surrender period",
+        "explanation": "This is wrong because it does not match the PDF's product limits, risks, or planning process."
+      },
+      {
+        "answer": "They always outperform all other products",
+        "explanation": "This is wrong because it does not match the PDF's product limits, risks, or planning process."
+      },
+      {
+        "answer": "They remove all withdrawal taxation",
+        "explanation": "This is wrong because it does not match the PDF's product limits, risks, or planning process."
+      }
+    ]
+  },
+  {
+    "chapter": 11,
+    "chapterTitle": "Advanced Technical Concepts",
+    "category": "Riders",
+    "difficulty": "medium",
+    "questionType": "multiple-choice",
+    "id": 1110,
+    "question": "What is the best way to understand optional riders in the PDF?",
+    "answers": [
+      "They can enhance benefits, yet may add fees, restrictions, limitations, or monitoring needs",
+      "They are always free and riskless",
+      "They replace the need for suitability analysis",
+      "They guarantee every investment outcome"
+    ],
+    "correct": 0,
+    "correctExplanation": "Riders may enhance protection or income features, but they can include costs, restrictions, and limits that must be reviewed.",
+    "wrongExplanations": [
+      {
+        "answer": "They are always free and riskless",
+        "explanation": "This is wrong because it does not match the PDF's product limits, risks, or planning process."
+      },
+      {
+        "answer": "They replace the need for suitability analysis",
+        "explanation": "This is wrong because it does not match the PDF's product limits, risks, or planning process."
+      },
+      {
+        "answer": "They guarantee every investment outcome",
+        "explanation": "This is wrong because it does not match the PDF's product limits, risks, or planning process."
+      }
+    ]
+  },
+  {
+    "chapter": 11,
+    "chapterTitle": "Advanced Technical Concepts",
+    "category": "Investment Protection Rider",
+    "difficulty": "hard",
+    "questionType": "multiple-choice",
+    "id": 1111,
+    "question": "What is a key limitation of the optional investment protection rider?",
+    "answers": [
+      "It does not protect against day-to-day market fluctuations or losses before the holding period is completed",
+      "It guarantees daily account value growth",
+      "It removes all investment restrictions",
+      "It is always included for free"
+    ],
+    "correct": 0,
+    "correctExplanation": "The rider protects under specific conditions after the required holding period; it does not protect against daily volatility or early realized losses.",
+    "wrongExplanations": [
+      {
+        "answer": "It guarantees daily account value growth",
+        "explanation": "This is wrong because it does not match the PDF's product limits, risks, or planning process."
+      },
+      {
+        "answer": "It removes all investment restrictions",
+        "explanation": "This is wrong because it does not match the PDF's product limits, risks, or planning process."
+      },
+      {
+        "answer": "It is always included for free",
+        "explanation": "This is wrong because it does not match the PDF's product limits, risks, or planning process."
+      }
+    ]
+  },
+  {
+    "chapter": 11,
+    "chapterTitle": "Advanced Technical Concepts",
+    "category": "Holding Period",
+    "difficulty": "hard",
+    "questionType": "multiple-choice",
+    "id": 1112,
+    "question": "Why is the holding period important for an investment protection rider?",
+    "answers": [
+      "The rider may provide no benefit if the policy is not kept through the entire holding period after election or reset",
+      "The holding period guarantees daily gains",
+      "The holding period removes all tax consequences",
+      "The holding period makes the annuity fully liquid"
+    ],
+    "correct": 0,
+    "correctExplanation": "The PDF says the rider will not provide a benefit if the policy is not kept for the entire holding period after it is elected or reset.",
+    "wrongExplanations": [
+      {
+        "answer": "The holding period guarantees daily gains",
+        "explanation": "This is wrong because it does not match the PDF's product limits, risks, or planning process."
+      },
+      {
+        "answer": "The holding period removes all tax consequences",
+        "explanation": "This is wrong because it does not match the PDF's product limits, risks, or planning process."
+      },
+      {
+        "answer": "The holding period makes the annuity fully liquid",
+        "explanation": "This is wrong because it does not match the PDF's product limits, risks, or planning process."
+      }
+    ]
+  },
+  {
+    "chapter": 11,
+    "chapterTitle": "Advanced Technical Concepts",
+    "category": "Disability Underwriting",
+    "difficulty": "medium",
+    "questionType": "multiple-choice",
+    "id": 1113,
+    "question": "What underwriting may be required for Individual Disability Insurance?",
+    "answers": [
+      "Financial, medical, and occupational underwriting",
+      "Only a stock market risk questionnaire",
+      "No underwriting of any kind",
+      "Only beneficiary approval"
+    ],
+    "correct": 0,
+    "correctExplanation": "The PDF lists financial, medical, and occupational underwriting as part of Individual Disability Insurance considerations.",
+    "wrongExplanations": [
+      {
+        "answer": "Only a stock market risk questionnaire",
+        "explanation": "This is wrong because it does not match the PDF's product limits, risks, or planning process."
+      },
+      {
+        "answer": "No underwriting of any kind",
+        "explanation": "This is wrong because it does not match the PDF's product limits, risks, or planning process."
+      },
+      {
+        "answer": "Only beneficiary approval",
+        "explanation": "This is wrong because it does not match the PDF's product limits, risks, or planning process."
+      }
+    ]
+  },
+  {
+    "chapter": 11,
+    "chapterTitle": "Advanced Technical Concepts",
+    "category": "Medical Exam",
+    "difficulty": "medium",
+    "questionType": "multiple-choice",
+    "id": 1114,
+    "question": "What does the PDF disclose about policy issue for Individual Disability Insurance?",
+    "answers": [
+      "Policy issue is subject to underwriting and a medical exam may be required",
+      "Policy issue is automatic for every applicant",
+      "Medical condition never matters",
+      "Only investment risk determines approval"
+    ],
+    "correct": 0,
+    "correctExplanation": "The PDF states that policy issue is subject to underwriting and that a medical exam may be required.",
+    "wrongExplanations": [
+      {
+        "answer": "Policy issue is automatic for every applicant",
+        "explanation": "This is wrong because it does not match the PDF's product limits, risks, or planning process."
+      },
+      {
+        "answer": "Medical condition never matters",
+        "explanation": "This is wrong because it does not match the PDF's product limits, risks, or planning process."
+      },
+      {
+        "answer": "Only investment risk determines approval",
+        "explanation": "This is wrong because it does not match the PDF's product limits, risks, or planning process."
+      }
+    ]
+  },
+  {
+    "chapter": 11,
+    "chapterTitle": "Advanced Technical Concepts",
+    "category": "Elimination Period",
+    "difficulty": "medium",
+    "questionType": "multiple-choice",
+    "id": 1115,
+    "question": "In Individual Disability Insurance, what is an elimination period?",
+    "answers": [
+      "The waiting period before disability benefits begin to be paid",
+      "The time when all premiums are refunded",
+      "The time when market losses are erased",
+      "The period when beneficiaries choose investments"
+    ],
+    "correct": 0,
+    "correctExplanation": "The elimination period is the waiting time before disability benefits begin after disability occurs.",
+    "wrongExplanations": [
+      {
+        "answer": "The time when all premiums are refunded",
+        "explanation": "This is wrong because it does not match the PDF's product limits, risks, or planning process."
+      },
+      {
+        "answer": "The time when market losses are erased",
+        "explanation": "This is wrong because it does not match the PDF's product limits, risks, or planning process."
+      },
+      {
+        "answer": "The period when beneficiaries choose investments",
+        "explanation": "This is wrong because it does not match the PDF's product limits, risks, or planning process."
+      }
+    ]
+  },
+  {
+    "chapter": 11,
+    "chapterTitle": "Advanced Technical Concepts",
+    "category": "Benefit Caps",
+    "difficulty": "medium",
+    "questionType": "multiple-choice",
+    "id": 1116,
+    "question": "What affects the maximum cap on disability benefits?",
+    "answers": [
+      "A variety of factors, including existing disability coverage",
+      "Only the stock market return",
+      "Only whether the client owns term life",
+      "Only the annuity surrender period"
+    ],
+    "correct": 0,
+    "correctExplanation": "The PDF says disability benefit caps depend on several factors, including any existing disability coverage.",
+    "wrongExplanations": [
+      {
+        "answer": "Only the stock market return",
+        "explanation": "This is wrong because it does not match the PDF's product limits, risks, or planning process."
+      },
+      {
+        "answer": "Only whether the client owns term life",
+        "explanation": "This is wrong because it does not match the PDF's product limits, risks, or planning process."
+      },
+      {
+        "answer": "Only the annuity surrender period",
+        "explanation": "This is wrong because it does not match the PDF's product limits, risks, or planning process."
+      }
+    ]
+  },
+  {
+    "chapter": 11,
+    "chapterTitle": "Advanced Technical Concepts",
+    "category": "Replacement Risk",
+    "difficulty": "hard",
+    "questionType": "multiple-choice",
+    "id": 1117,
+    "question": "Why does the PDF warn against casually replacing existing insurance or annuity coverage?",
+    "answers": [
+      "Replacement may be costly and may cause the client to lose existing benefits",
+      "Replacement always improves the client outcome",
+      "Replacement removes all underwriting concerns",
+      "Replacement avoids all surrender charges"
+    ],
+    "correct": 0,
+    "correctExplanation": "The PDF warns that replacing coverage can be costly and may result in lost benefits, so old and new policies must be compared carefully.",
+    "wrongExplanations": [
+      {
+        "answer": "Replacement always improves the client outcome",
+        "explanation": "This is wrong because it does not match the PDF's product limits, risks, or planning process."
+      },
+      {
+        "answer": "Replacement removes all underwriting concerns",
+        "explanation": "This is wrong because it does not match the PDF's product limits, risks, or planning process."
+      },
+      {
+        "answer": "Replacement avoids all surrender charges",
+        "explanation": "This is wrong because it does not match the PDF's product limits, risks, or planning process."
+      }
+    ]
+  },
+  {
+    "chapter": 11,
+    "chapterTitle": "Advanced Technical Concepts",
+    "category": "Long-Term Commitment",
+    "difficulty": "medium",
+    "questionType": "multiple-choice",
+    "id": 1118,
+    "question": "Why does the PDF say clients should buy long-term life insurance only if they intend to stick with the plan?",
+    "answers": [
+      "Stopping during early years may be very costly",
+      "Long-term insurance is always free to exit",
+      "Long-term insurance never requires premiums",
+      "The policy cannot have any cash value"
+    ],
+    "correct": 0,
+    "correctExplanation": "The PDF says it may be very costly to stop a long-term life insurance policy during early years.",
+    "wrongExplanations": [
+      {
+        "answer": "Long-term insurance is always free to exit",
+        "explanation": "This is wrong because it does not match the PDF's product limits, risks, or planning process."
+      },
+      {
+        "answer": "Long-term insurance never requires premiums",
+        "explanation": "This is wrong because it does not match the PDF's product limits, risks, or planning process."
+      },
+      {
+        "answer": "The policy cannot have any cash value",
+        "explanation": "This is wrong because it does not match the PDF's product limits, risks, or planning process."
+      }
+    ]
+  },
+  {
+    "chapter": 11,
+    "chapterTitle": "Advanced Technical Concepts",
+    "category": "Affordability",
+    "difficulty": "medium",
+    "questionType": "multiple-choice",
+    "id": 1119,
+    "question": "Why does the PDF emphasize considering possible premium increases over time?",
+    "answers": [
+      "Because affordability must include both initial premiums and possible future premium changes",
+      "Because premiums can never change in any product",
+      "Because affordability is irrelevant after issue",
+      "Because higher premiums always mean better suitability"
+    ],
+    "correct": 0,
+    "correctExplanation": "The PDF tells clients to consider initial premium payments and possible premium increases over time before choosing coverage.",
+    "wrongExplanations": [
+      {
+        "answer": "Because premiums can never change in any product",
+        "explanation": "This is wrong because it does not match the PDF's product limits, risks, or planning process."
+      },
+      {
+        "answer": "Because affordability is irrelevant after issue",
+        "explanation": "This is wrong because it does not match the PDF's product limits, risks, or planning process."
+      },
+      {
+        "answer": "Because higher premiums always mean better suitability",
+        "explanation": "This is wrong because it does not match the PDF's product limits, risks, or planning process."
+      }
+    ]
+  },
+  {
+    "chapter": 11,
+    "chapterTitle": "Advanced Technical Concepts",
+    "category": "No-Lapse Guarantee",
+    "difficulty": "medium",
+    "questionType": "multiple-choice",
+    "id": 1120,
+    "question": "What is the function of a no-lapse guarantee in universal life?",
+    "answers": [
+      "It may help keep a policy in effect even if premiums stop under certain conditions",
+      "It guarantees unlimited market gains",
+      "It makes monitoring unnecessary forever",
+      "It converts universal life into disability insurance"
+    ],
+    "correct": 0,
+    "correctExplanation": "The no-lapse guarantee can help keep coverage in force under stated conditions, either as a core feature or rider, but it does not remove all monitoring or risk.",
+    "wrongExplanations": [
+      {
+        "answer": "It guarantees unlimited market gains",
+        "explanation": "This is wrong because it does not match the PDF's product limits, risks, or planning process."
+      },
+      {
+        "answer": "It makes monitoring unnecessary forever",
+        "explanation": "This is wrong because it does not match the PDF's product limits, risks, or planning process."
+      },
+      {
+        "answer": "It converts universal life into disability insurance",
+        "explanation": "This is wrong because it does not match the PDF's product limits, risks, or planning process."
+      }
+    ]
+  },
+  {
+    "chapter": 11,
+    "chapterTitle": "Advanced Technical Concepts",
+    "category": "Rollover Planning",
+    "difficulty": "medium",
+    "questionType": "multiple-choice",
+    "id": 1121,
+    "question": "Why do rollover options matter when changing jobs or preparing for retirement?",
+    "answers": [
+      "The client must decide what to do with employer retirement savings and compare taxes, control, fees, and plan rules",
+      "The client must always take the full amount in cash",
+      "The client must always buy life insurance with the funds",
+      "The client can ignore employer plan rules"
+    ],
+    "correct": 0,
+    "correctExplanation": "The PDF frames rollover planning around deciding what to do with retirement savings when leaving a job or preparing for retirement.",
+    "wrongExplanations": [
+      {
+        "answer": "The client must always take the full amount in cash",
+        "explanation": "This is wrong because it does not match the PDF's product limits, risks, or planning process."
+      },
+      {
+        "answer": "The client must always buy life insurance with the funds",
+        "explanation": "This is wrong because it does not match the PDF's product limits, risks, or planning process."
+      },
+      {
+        "answer": "The client can ignore employer plan rules",
+        "explanation": "This is wrong because it does not match the PDF's product limits, risks, or planning process."
+      }
+    ]
+  },
+  {
+    "chapter": 11,
+    "chapterTitle": "Advanced Technical Concepts",
+    "category": "Former Employer Plan",
+    "difficulty": "medium",
+    "questionType": "multiple-choice",
+    "id": 1122,
+    "question": "What is a potential advantage of keeping money in a former employer plan if rules permit?",
+    "answers": [
+      "No taxes or early withdrawal penalties and maintained tax-deferred status",
+      "Unlimited investment control over every security",
+      "Automatic Roth treatment",
+      "No plan rules or limits"
+    ],
+    "correct": 0,
+    "correctExplanation": "The PDF lists no taxes or early withdrawal penalties and maintaining tax-deferred status as potential advantages.",
+    "wrongExplanations": [
+      {
+        "answer": "Unlimited investment control over every security",
+        "explanation": "This is wrong because it does not match the PDF's product limits, risks, or planning process."
+      },
+      {
+        "answer": "Automatic Roth treatment",
+        "explanation": "This is wrong because it does not match the PDF's product limits, risks, or planning process."
+      },
+      {
+        "answer": "No plan rules or limits",
+        "explanation": "This is wrong because it does not match the PDF's product limits, risks, or planning process."
+      }
+    ]
+  },
+  {
+    "chapter": 11,
+    "chapterTitle": "Advanced Technical Concepts",
+    "category": "New Employer Plan",
+    "difficulty": "medium",
+    "questionType": "multiple-choice",
+    "id": 1123,
+    "question": "What is a potential advantage of rolling assets into a new employer's plan?",
+    "answers": [
+      "The plan may allow loans, additional contributions, and possible consolidation of retirement investments",
+      "It always offers unlimited investment options",
+      "It always avoids RMDs forever",
+      "It always has no fees"
+    ],
+    "correct": 0,
+    "correctExplanation": "A new employer plan may allow loans, additional contributions, and consolidation, subject to plan rules.",
+    "wrongExplanations": [
+      {
+        "answer": "It always offers unlimited investment options",
+        "explanation": "This is wrong because it does not match the PDF's product limits, risks, or planning process."
+      },
+      {
+        "answer": "It always avoids RMDs forever",
+        "explanation": "This is wrong because it does not match the PDF's product limits, risks, or planning process."
+      },
+      {
+        "answer": "It always has no fees",
+        "explanation": "This is wrong because it does not match the PDF's product limits, risks, or planning process."
+      }
+    ]
+  },
+  {
+    "chapter": 11,
+    "chapterTitle": "Advanced Technical Concepts",
+    "category": "Traditional IRA Rollover",
+    "difficulty": "medium",
+    "questionType": "multiple-choice",
+    "id": 1124,
+    "question": "What is a potential advantage of a direct rollover to a traditional IRA?",
+    "answers": [
+      "A wide range of investment options and greater control over retirement investments",
+      "Loans are always available",
+      "RMDs are eliminated forever",
+      "No fees can ever apply"
+    ],
+    "correct": 0,
+    "correctExplanation": "The PDF lists a wide range of investment options and greater control as potential advantages of a traditional IRA rollover.",
+    "wrongExplanations": [
+      {
+        "answer": "Loans are always available",
+        "explanation": "This is wrong because it does not match the PDF's product limits, risks, or planning process."
+      },
+      {
+        "answer": "RMDs are eliminated forever",
+        "explanation": "This is wrong because it does not match the PDF's product limits, risks, or planning process."
+      },
+      {
+        "answer": "No fees can ever apply",
+        "explanation": "This is wrong because it does not match the PDF's product limits, risks, or planning process."
+      }
+    ]
+  },
+  {
+    "chapter": 11,
+    "chapterTitle": "Advanced Technical Concepts",
+    "category": "Roth IRA Rollover",
+    "difficulty": "hard",
+    "questionType": "multiple-choice",
+    "id": 1125,
+    "question": "What is a key tax issue with rolling retirement assets to a Roth IRA?",
+    "answers": [
+      "Taxes must be paid in the year of the rollover, preferably with assets outside the retirement account",
+      "No taxes are ever paid",
+      "The rollover always creates a loan option",
+      "A Roth IRA is the same as taking a penalty-free lump sum"
+    ],
+    "correct": 0,
+    "correctExplanation": "The PDF says taxes must be paid in the year of the Roth rollover, preferably with assets outside the retirement account.",
+    "wrongExplanations": [
+      {
+        "answer": "No taxes are ever paid",
+        "explanation": "This is wrong because it does not match the PDF's product limits, risks, or planning process."
+      },
+      {
+        "answer": "The rollover always creates a loan option",
+        "explanation": "This is wrong because it does not match the PDF's product limits, risks, or planning process."
+      },
+      {
+        "answer": "A Roth IRA is the same as taking a penalty-free lump sum",
+        "explanation": "This is wrong because it does not match the PDF's product limits, risks, or planning process."
+      }
+    ]
+  },
+  {
+    "chapter": 11,
+    "chapterTitle": "Advanced Technical Concepts",
+    "category": "Lump Sum Distribution",
+    "difficulty": "hard",
+    "questionType": "multiple-choice",
+    "id": 1126,
+    "question": "What is a major disadvantage of taking retirement money in a lump sum?",
+    "answers": [
+      "The account may be reduced to zero, 20% may be withheld for federal taxes, and penalties or loss of tax deferral may apply",
+      "It always preserves tax-deferred growth",
+      "It always avoids state and federal taxes",
+      "It always creates more retirement income security"
+    ],
+    "correct": 0,
+    "correctExplanation": "The PDF lists automatic federal withholding, possible taxes and penalties, and loss of tax-deferred status as disadvantages of lump sums.",
+    "wrongExplanations": [
+      {
+        "answer": "It always preserves tax-deferred growth",
+        "explanation": "This is wrong because it does not match the PDF's product limits, risks, or planning process."
+      },
+      {
+        "answer": "It always avoids state and federal taxes",
+        "explanation": "This is wrong because it does not match the PDF's product limits, risks, or planning process."
+      },
+      {
+        "answer": "It always creates more retirement income security",
+        "explanation": "This is wrong because it does not match the PDF's product limits, risks, or planning process."
+      }
+    ]
+  },
+  {
+    "chapter": 11,
+    "chapterTitle": "Advanced Technical Concepts",
+    "category": "RMDs",
+    "difficulty": "medium",
+    "questionType": "multiple-choice",
+    "id": 1127,
+    "question": "How does the PDF discuss required minimum distributions under SECURE 2.0?",
+    "answers": [
+      "RMDs at age 73 may apply, with possible deferral in certain employer plans if still working and plan rules permit",
+      "RMDs never apply to any retirement account",
+      "RMDs begin at age 30",
+      "RMDs only apply to life insurance death benefits"
+    ],
+    "correct": 0,
+    "correctExplanation": "The rollover section references RMDs at age 73 under SECURE 2.0 and notes that some employer plans may allow deferral if the client is still working.",
+    "wrongExplanations": [
+      {
+        "answer": "RMDs never apply to any retirement account",
+        "explanation": "This is wrong because it does not match the PDF's product limits, risks, or planning process."
+      },
+      {
+        "answer": "RMDs begin at age 30",
+        "explanation": "This is wrong because it does not match the PDF's product limits, risks, or planning process."
+      },
+      {
+        "answer": "RMDs only apply to life insurance death benefits",
+        "explanation": "This is wrong because it does not match the PDF's product limits, risks, or planning process."
+      }
+    ]
+  },
+  {
+    "chapter": 11,
+    "chapterTitle": "Advanced Technical Concepts",
+    "category": "Control Tradeoff",
+    "difficulty": "medium",
+    "questionType": "multiple-choice",
+    "id": 1128,
+    "question": "What tradeoff often separates employer plans from IRA rollovers?",
+    "answers": [
+      "Employer plans may have lower fees or loans, while IRAs may offer more investment control and choices",
+      "Employer plans always have unlimited investments",
+      "IRAs always allow loans",
+      "Both options are identical"
+    ],
+    "correct": 0,
+    "correctExplanation": "The PDF compares options using control, investment choices, loans, fees, and plan rules as tradeoffs.",
+    "wrongExplanations": [
+      {
+        "answer": "Employer plans always have unlimited investments",
+        "explanation": "This is wrong because it does not match the PDF's product limits, risks, or planning process."
+      },
+      {
+        "answer": "IRAs always allow loans",
+        "explanation": "This is wrong because it does not match the PDF's product limits, risks, or planning process."
+      },
+      {
+        "answer": "Both options are identical",
+        "explanation": "This is wrong because it does not match the PDF's product limits, risks, or planning process."
+      }
+    ]
+  },
+  {
+    "chapter": 11,
+    "chapterTitle": "Advanced Technical Concepts",
+    "category": "Asset Allocation",
+    "difficulty": "medium",
+    "questionType": "multiple-choice",
+    "id": 1129,
+    "question": "Why does the PDF value diversification across asset classes, investment philosophies, and geography?",
+    "answers": [
+      "It helps spread investment exposure instead of concentrating everything in one area",
+      "It guarantees no investment losses",
+      "It removes all need for risk tolerance",
+      "It makes all accounts insured products"
+    ],
+    "correct": 0,
+    "correctExplanation": "The PDF describes diversification as spreading exposure across multiple investment dimensions, though it does not guarantee gains or prevent losses.",
+    "wrongExplanations": [
+      {
+        "answer": "It guarantees no investment losses",
+        "explanation": "This is wrong because it does not match the PDF's product limits, risks, or planning process."
+      },
+      {
+        "answer": "It removes all need for risk tolerance",
+        "explanation": "This is wrong because it does not match the PDF's product limits, risks, or planning process."
+      },
+      {
+        "answer": "It makes all accounts insured products",
+        "explanation": "This is wrong because it does not match the PDF's product limits, risks, or planning process."
+      }
+    ]
+  },
+  {
+    "chapter": 11,
+    "chapterTitle": "Advanced Technical Concepts",
+    "category": "Rebalancing",
+    "difficulty": "medium",
+    "questionType": "multiple-choice",
+    "id": 1130,
+    "question": "Why is rebalancing important in an advisory relationship?",
+    "answers": [
+      "It helps keep the portfolio aligned with the intended strategy as markets shift",
+      "It guarantees higher returns than brokerage accounts",
+      "It removes every fee",
+      "It replaces the need for client goals"
+    ],
+    "correct": 0,
+    "correctExplanation": "The advisory comparison emphasizes ongoing advice, portfolio management, reviews, and rebalancing to maintain discipline and alignment.",
+    "wrongExplanations": [
+      {
+        "answer": "It guarantees higher returns than brokerage accounts",
+        "explanation": "This is wrong because it does not match the PDF's product limits, risks, or planning process."
+      },
+      {
+        "answer": "It removes every fee",
+        "explanation": "This is wrong because it does not match the PDF's product limits, risks, or planning process."
+      },
+      {
+        "answer": "It replaces the need for client goals",
+        "explanation": "This is wrong because it does not match the PDF's product limits, risks, or planning process."
+      }
+    ]
+  },
+  {
+    "chapter": 11,
+    "chapterTitle": "Advanced Technical Concepts",
+    "category": "Portfolio Drift",
+    "difficulty": "hard",
+    "questionType": "multiple-choice",
+    "id": 1131,
+    "question": "What is portfolio drift in advisor-level terms?",
+    "answers": [
+      "When market movement changes the portfolio mix away from the intended allocation",
+      "When every investment is guaranteed by the insurer",
+      "When premiums stop automatically",
+      "When a policy becomes tax free forever"
+    ],
+    "correct": 0,
+    "correctExplanation": "Portfolio drift happens when market movement changes allocation, which is why advisory reviews and rebalancing matter.",
+    "wrongExplanations": [
+      {
+        "answer": "When every investment is guaranteed by the insurer",
+        "explanation": "This is wrong because it does not match the PDF's product limits, risks, or planning process."
+      },
+      {
+        "answer": "When premiums stop automatically",
+        "explanation": "This is wrong because it does not match the PDF's product limits, risks, or planning process."
+      },
+      {
+        "answer": "When a policy becomes tax free forever",
+        "explanation": "This is wrong because it does not match the PDF's product limits, risks, or planning process."
+      }
+    ]
+  },
+  {
+    "chapter": 11,
+    "chapterTitle": "Advanced Technical Concepts",
+    "category": "Sequence Risk",
+    "difficulty": "hard",
+    "questionType": "multiple-choice",
+    "id": 1132,
+    "question": "How does guaranteed retirement income help address sequence-of-returns pressure conceptually?",
+    "answers": [
+      "It can create an income floor so the client is not relying only on selling market assets during downturns",
+      "It guarantees the stock market will recover immediately",
+      "It removes every tax consequence",
+      "It turns brokerage accounts into insurance policies"
+    ],
+    "correct": 0,
+    "correctExplanation": "While the PDF does not use the phrase sequence risk directly, its guaranteed income framework supports retirement confidence by creating income that does not fluctuate with markets.",
+    "wrongExplanations": [
+      {
+        "answer": "It guarantees the stock market will recover immediately",
+        "explanation": "This is wrong because it does not match the PDF's product limits, risks, or planning process."
+      },
+      {
+        "answer": "It removes every tax consequence",
+        "explanation": "This is wrong because it does not match the PDF's product limits, risks, or planning process."
+      },
+      {
+        "answer": "It turns brokerage accounts into insurance policies",
+        "explanation": "This is wrong because it does not match the PDF's product limits, risks, or planning process."
+      }
+    ]
+  },
+  {
+    "chapter": 11,
+    "chapterTitle": "Advanced Technical Concepts",
+    "category": "Longevity Risk",
+    "difficulty": "hard",
+    "questionType": "multiple-choice",
+    "id": 1133,
+    "question": "What risk is addressed by income that a client can never outlive?",
+    "answers": [
+      "Longevity risk",
+      "Currency speculation risk",
+      "Short-term trading risk",
+      "Employer payroll risk"
+    ],
+    "correct": 0,
+    "correctExplanation": "Guaranteed lifetime income addresses the risk of outliving income in retirement.",
+    "wrongExplanations": [
+      {
+        "answer": "Currency speculation risk",
+        "explanation": "This is wrong because it does not match the PDF's product limits, risks, or planning process."
+      },
+      {
+        "answer": "Short-term trading risk",
+        "explanation": "This is wrong because it does not match the PDF's product limits, risks, or planning process."
+      },
+      {
+        "answer": "Employer payroll risk",
+        "explanation": "This is wrong because it does not match the PDF's product limits, risks, or planning process."
+      }
+    ]
+  },
+  {
+    "chapter": 11,
+    "chapterTitle": "Advanced Technical Concepts",
+    "category": "Beneficiary Mechanics",
+    "difficulty": "medium",
+    "questionType": "multiple-choice",
+    "id": 1134,
+    "question": "What tax point does the PDF commonly attach to life insurance death benefits?",
+    "answers": [
+      "Beneficiaries typically do not pay income taxes on life insurance benefits they receive",
+      "Beneficiaries always pay double tax",
+      "Death benefits are always treated as surrender charges",
+      "Death benefits always become market losses"
+    ],
+    "correct": 0,
+    "correctExplanation": "The PDF repeatedly states that beneficiaries typically do not pay income taxes on the life insurance benefits they receive.",
+    "wrongExplanations": [
+      {
+        "answer": "Beneficiaries always pay double tax",
+        "explanation": "This is wrong because it does not match the PDF's product limits, risks, or planning process."
+      },
+      {
+        "answer": "Death benefits are always treated as surrender charges",
+        "explanation": "This is wrong because it does not match the PDF's product limits, risks, or planning process."
+      },
+      {
+        "answer": "Death benefits always become market losses",
+        "explanation": "This is wrong because it does not match the PDF's product limits, risks, or planning process."
+      }
+    ]
+  },
+  {
+    "chapter": 11,
+    "chapterTitle": "Advanced Technical Concepts",
+    "category": "Living Benefits",
+    "difficulty": "medium",
+    "questionType": "multiple-choice",
+    "id": 1135,
+    "question": "Why are living benefits considered before choosing insurance coverage?",
+    "answers": [
+      "They may allow certain benefits to be used before death depending on policy terms",
+      "They guarantee all cash value growth",
+      "They remove underwriting",
+      "They are the same as brokerage trading"
+    ],
+    "correct": 0,
+    "correctExplanation": "The insurance buying process says clients should consider any living benefits that may be utilized before death.",
+    "wrongExplanations": [
+      {
+        "answer": "They guarantee all cash value growth",
+        "explanation": "This is wrong because it does not match the PDF's product limits, risks, or planning process."
+      },
+      {
+        "answer": "They remove underwriting",
+        "explanation": "This is wrong because it does not match the PDF's product limits, risks, or planning process."
+      },
+      {
+        "answer": "They are the same as brokerage trading",
+        "explanation": "This is wrong because it does not match the PDF's product limits, risks, or planning process."
+      }
+    ]
+  },
+  {
+    "chapter": 11,
+    "chapterTitle": "Advanced Technical Concepts",
+    "category": "Advisory Capacity",
+    "difficulty": "hard",
+    "questionType": "multiple-choice",
+    "id": 1136,
+    "question": "What role distinction does the PDF make for Eagle investment adviser representatives?",
+    "answers": [
+      "They may act in different capacities when recommending insurance products versus securities or advisory services",
+      "They always act only as tax attorneys",
+      "They never recommend insurance",
+      "They guarantee investment performance"
+    ],
+    "correct": 0,
+    "correctExplanation": "The disclosure explains different roles: insurance agent capacity for insurance products and registered representative/advisory capacity for securities or advisory services.",
+    "wrongExplanations": [
+      {
+        "answer": "They always act only as tax attorneys",
+        "explanation": "This is wrong because it does not match the PDF's product limits, risks, or planning process."
+      },
+      {
+        "answer": "They never recommend insurance",
+        "explanation": "This is wrong because it does not match the PDF's product limits, risks, or planning process."
+      },
+      {
+        "answer": "They guarantee investment performance",
+        "explanation": "This is wrong because it does not match the PDF's product limits, risks, or planning process."
+      }
+    ]
+  },
+  {
+    "chapter": 11,
+    "chapterTitle": "Advanced Technical Concepts",
+    "category": "No Tax Legal Advice",
+    "difficulty": "medium",
+    "questionType": "multiple-choice",
+    "id": 1137,
+    "question": "What does the PDF disclose about tax or legal advice?",
+    "answers": [
+      "Eagle, its IARs, and affiliates do not provide tax or legal advice",
+      "All tax and legal advice is guaranteed in the brochure",
+      "The brochure replaces a tax professional",
+      "Tax law never affects product selection"
+    ],
+    "correct": 0,
+    "correctExplanation": "The PDF states that no tax or legal advice is provided by Eagle, its IARs, or affiliates.",
+    "wrongExplanations": [
+      {
+        "answer": "All tax and legal advice is guaranteed in the brochure",
+        "explanation": "This is wrong because it does not match the PDF's product limits, risks, or planning process."
+      },
+      {
+        "answer": "The brochure replaces a tax professional",
+        "explanation": "This is wrong because it does not match the PDF's product limits, risks, or planning process."
+      },
+      {
+        "answer": "Tax law never affects product selection",
+        "explanation": "This is wrong because it does not match the PDF's product limits, risks, or planning process."
+      }
+    ]
+  },
+  {
+    "chapter": 11,
+    "chapterTitle": "Advanced Technical Concepts",
+    "category": "Solicitation Disclosure",
+    "difficulty": "medium",
+    "questionType": "multiple-choice",
+    "id": 1138,
+    "question": "What does the back-page disclosure say about the purpose of the material?",
+    "answers": [
+      "The material is solicitation of insurance and an insurance agent may contact the reader",
+      "The material is a guaranteed investment contract",
+      "The material replaces all state insurance licensing rules",
+      "The material is a tax return"
+    ],
+    "correct": 0,
+    "correctExplanation": "The disclosure states that the purpose of the material is solicitation of insurance and that an insurance agent may contact the reader.",
+    "wrongExplanations": [
+      {
+        "answer": "The material is a guaranteed investment contract",
+        "explanation": "This is wrong because it does not match the PDF's product limits, risks, or planning process."
+      },
+      {
+        "answer": "The material replaces all state insurance licensing rules",
+        "explanation": "This is wrong because it does not match the PDF's product limits, risks, or planning process."
+      },
+      {
+        "answer": "The material is a tax return",
+        "explanation": "This is wrong because it does not match the PDF's product limits, risks, or planning process."
+      }
+    ]
+  },
+  {
+    "chapter": 11,
+    "chapterTitle": "Advanced Technical Concepts",
+    "category": "Product Availability",
+    "difficulty": "medium",
+    "questionType": "multiple-choice",
+    "id": 1139,
+    "question": "Why should product availability and representative registration matter?",
+    "answers": [
+      "Some products or features are available only through certain representatives, registrations, jurisdictions, or adviser roles",
+      "Every representative can offer every product in every state",
+      "Registration never affects product access",
+      "Jurisdiction never matters"
+    ],
+    "correct": 0,
+    "correctExplanation": "The PDF notes that certain products, riders, or programs may be available only through specific adviser or representative channels and approved jurisdictions.",
+    "wrongExplanations": [
+      {
+        "answer": "Every representative can offer every product in every state",
+        "explanation": "This is wrong because it does not match the PDF's product limits, risks, or planning process."
+      },
+      {
+        "answer": "Registration never affects product access",
+        "explanation": "This is wrong because it does not match the PDF's product limits, risks, or planning process."
+      },
+      {
+        "answer": "Jurisdiction never matters",
+        "explanation": "This is wrong because it does not match the PDF's product limits, risks, or planning process."
+      }
+    ]
+  },
+  {
+    "chapter": 11,
+    "chapterTitle": "Advanced Technical Concepts",
+    "category": "Hard Ass Question",
+    "difficulty": "hard",
+    "questionType": "multiple-choice",
+    "id": 1140,
+    "question": "Hard ass question: A client wants guaranteed lifetime income, daily market protection, no surrender limits, no taxes before age 59 1/2, no fees, and full liquidity. What is the most accurate advisor-level response?",
+    "answers": [
+      "No single product in the PDF provides all of those features together; the advisor must explain tradeoffs, risks, taxes, fees, and suitability",
+      "Recommend any variable annuity because it guarantees everything requested",
+      "Recommend a lump sum because it has no tax impact",
+      "Recommend term life because it creates lifetime retirement income"
+    ],
+    "correct": 0,
+    "correctExplanation": "The PDF is built around tradeoffs. Guaranteed income, market participation, liquidity, tax treatment, surrender charges, fees, and riders all have limits that must be explained honestly.",
+    "wrongExplanations": [
+      {
+        "answer": "Recommend any variable annuity because it guarantees everything requested",
+        "explanation": "This is wrong because it does not match the PDF's product limits, risks, or planning process."
+      },
+      {
+        "answer": "Recommend a lump sum because it has no tax impact",
+        "explanation": "This is wrong because it does not match the PDF's product limits, risks, or planning process."
+      },
+      {
+        "answer": "Recommend term life because it creates lifetime retirement income",
+        "explanation": "This is wrong because it does not match the PDF's product limits, risks, or planning process."
+      }
+    ]
+  }
+]

@@ -1,0 +1,777 @@
+[
+  {
+    "chapter": 12,
+    "chapterTitle": "Advisor Case Studies & Suitability Analysis",
+    "category": "Protection Suitability",
+    "difficulty": "medium",
+    "questionType": "multiple-choice",
+    "id": 1201,
+    "question": "A young parent has limited budget and needs high death benefit protection for 20 years. Which starting point best fits?",
+    "answers": [
+      "Term life",
+      "Deferred income annuity",
+      "Brokerage account",
+      "Investment advisory solution"
+    ],
+    "correct": 0,
+    "correctExplanation": "Term life fits temporary protection needs and can allow more coverage at a lower initial cost than long-term insurance.",
+    "wrongExplanations": [
+      {
+        "answer": "Deferred income annuity",
+        "explanation": "This is wrong because it does not match the PDF's product limits, risks, or planning process."
+      },
+      {
+        "answer": "Brokerage account",
+        "explanation": "This is wrong because it does not match the PDF's product limits, risks, or planning process."
+      },
+      {
+        "answer": "Investment advisory solution",
+        "explanation": "This is wrong because it does not match the PDF's product limits, risks, or planning process."
+      }
+    ]
+  },
+  {
+    "chapter": 12,
+    "chapterTitle": "Advisor Case Studies & Suitability Analysis",
+    "category": "Protection Suitability",
+    "difficulty": "medium",
+    "questionType": "multiple-choice",
+    "id": 1202,
+    "question": "A client wants lifetime protection, guaranteed cash value growth, fixed level premiums, and possible dividends. Which product best fits?",
+    "answers": [
+      "Whole life",
+      "Term life",
+      "Fixed period income annuity",
+      "Direct mutual funds"
+    ],
+    "correct": 0,
+    "correctExplanation": "Whole life combines long-term death benefit protection, guaranteed cash value growth, fixed level premiums, and dividend eligibility.",
+    "wrongExplanations": [
+      {
+        "answer": "Term life",
+        "explanation": "This is wrong because it does not match the PDF's product limits, risks, or planning process."
+      },
+      {
+        "answer": "Fixed period income annuity",
+        "explanation": "This is wrong because it does not match the PDF's product limits, risks, or planning process."
+      },
+      {
+        "answer": "Direct mutual funds",
+        "explanation": "This is wrong because it does not match the PDF's product limits, risks, or planning process."
+      }
+    ]
+  },
+  {
+    "chapter": 12,
+    "chapterTitle": "Advisor Case Studies & Suitability Analysis",
+    "category": "Protection Suitability",
+    "difficulty": "hard",
+    "questionType": "multiple-choice",
+    "id": 1203,
+    "question": "A client wants long-term life insurance with adjustable premiums and accepts active monitoring because flexibility can create lapse risk. Which product fits best?",
+    "answers": [
+      "Universal life",
+      "Whole life",
+      "Fixed annuity",
+      "Lifetime income annuity"
+    ],
+    "correct": 0,
+    "correctExplanation": "Universal life offers flexible premiums and cash value potential but requires monitoring to prevent lapse risk.",
+    "wrongExplanations": [
+      {
+        "answer": "Whole life",
+        "explanation": "This is wrong because it does not match the PDF's product limits, risks, or planning process."
+      },
+      {
+        "answer": "Fixed annuity",
+        "explanation": "This is wrong because it does not match the PDF's product limits, risks, or planning process."
+      },
+      {
+        "answer": "Lifetime income annuity",
+        "explanation": "This is wrong because it does not match the PDF's product limits, risks, or planning process."
+      }
+    ]
+  },
+  {
+    "chapter": 12,
+    "chapterTitle": "Advisor Case Studies & Suitability Analysis",
+    "category": "Protection Suitability",
+    "difficulty": "hard",
+    "questionType": "multiple-choice",
+    "id": 1204,
+    "question": "A client wants long-term death benefit protection with investment options and accepts that cash value may fluctuate. Which product fits best?",
+    "answers": [
+      "Variable universal life",
+      "Term life",
+      "Fixed period income annuity",
+      "Traditional IRA rollover"
+    ],
+    "correct": 0,
+    "correctExplanation": "Variable universal life adds market participation and investment risk to long-term life insurance.",
+    "wrongExplanations": [
+      {
+        "answer": "Term life",
+        "explanation": "This is wrong because it does not match the PDF's product limits, risks, or planning process."
+      },
+      {
+        "answer": "Fixed period income annuity",
+        "explanation": "This is wrong because it does not match the PDF's product limits, risks, or planning process."
+      },
+      {
+        "answer": "Traditional IRA rollover",
+        "explanation": "This is wrong because it does not match the PDF's product limits, risks, or planning process."
+      }
+    ]
+  },
+  {
+    "chapter": 12,
+    "chapterTitle": "Advisor Case Studies & Suitability Analysis",
+    "category": "Income Protection",
+    "difficulty": "medium",
+    "questionType": "multiple-choice",
+    "id": 1205,
+    "question": "A self-employed client is worried that sickness or injury could stop income. Which product is most directly aligned?",
+    "answers": [
+      "Individual Disability Insurance",
+      "Variable annuity",
+      "Brokerage account",
+      "Fixed period income annuity"
+    ],
+    "correct": 0,
+    "correctExplanation": "Individual Disability Insurance is designed to help replace income lost because injury or sickness prevents work.",
+    "wrongExplanations": [
+      {
+        "answer": "Variable annuity",
+        "explanation": "This is wrong because it does not match the PDF's product limits, risks, or planning process."
+      },
+      {
+        "answer": "Brokerage account",
+        "explanation": "This is wrong because it does not match the PDF's product limits, risks, or planning process."
+      },
+      {
+        "answer": "Fixed period income annuity",
+        "explanation": "This is wrong because it does not match the PDF's product limits, risks, or planning process."
+      }
+    ]
+  },
+  {
+    "chapter": 12,
+    "chapterTitle": "Advisor Case Studies & Suitability Analysis",
+    "category": "Retirement Income",
+    "difficulty": "medium",
+    "questionType": "multiple-choice",
+    "id": 1206,
+    "question": "A client retires today and wants income for life starting immediately. Which product branch fits?",
+    "answers": [
+      "Lifetime Income Annuity",
+      "Deferred Income Annuity",
+      "Term life",
+      "Direct mutual funds"
+    ],
+    "correct": 0,
+    "correctExplanation": "Lifetime income annuities provide guaranteed income starting now and lasting for life.",
+    "wrongExplanations": [
+      {
+        "answer": "Deferred Income Annuity",
+        "explanation": "This is wrong because it does not match the PDF's product limits, risks, or planning process."
+      },
+      {
+        "answer": "Term life",
+        "explanation": "This is wrong because it does not match the PDF's product limits, risks, or planning process."
+      },
+      {
+        "answer": "Direct mutual funds",
+        "explanation": "This is wrong because it does not match the PDF's product limits, risks, or planning process."
+      }
+    ]
+  },
+  {
+    "chapter": 12,
+    "chapterTitle": "Advisor Case Studies & Suitability Analysis",
+    "category": "Retirement Income",
+    "difficulty": "medium",
+    "questionType": "multiple-choice",
+    "id": 1207,
+    "question": "A client wants income now for exactly 10 years and no market fluctuation in payments. Which product fits?",
+    "answers": [
+      "Fixed Period Income Annuity",
+      "Variable universal life",
+      "Deferred income annuity",
+      "Brokerage account"
+    ],
+    "correct": 0,
+    "correctExplanation": "Fixed period income annuities provide guaranteed income for a specified period and payments do not fluctuate with markets.",
+    "wrongExplanations": [
+      {
+        "answer": "Variable universal life",
+        "explanation": "This is wrong because it does not match the PDF's product limits, risks, or planning process."
+      },
+      {
+        "answer": "Deferred income annuity",
+        "explanation": "This is wrong because it does not match the PDF's product limits, risks, or planning process."
+      },
+      {
+        "answer": "Brokerage account",
+        "explanation": "This is wrong because it does not match the PDF's product limits, risks, or planning process."
+      }
+    ]
+  },
+  {
+    "chapter": 12,
+    "chapterTitle": "Advisor Case Studies & Suitability Analysis",
+    "category": "Retirement Income",
+    "difficulty": "medium",
+    "questionType": "multiple-choice",
+    "id": 1208,
+    "question": "A client is 50 and wants guaranteed lifetime income later, not now. Which product branch fits best?",
+    "answers": [
+      "Deferred Income Annuity",
+      "Fixed Period Income Annuity",
+      "Term life",
+      "Brokerage account only"
+    ],
+    "correct": 0,
+    "correctExplanation": "Deferred income annuities are designed for future lifetime income starting later.",
+    "wrongExplanations": [
+      {
+        "answer": "Fixed Period Income Annuity",
+        "explanation": "This is wrong because it does not match the PDF's product limits, risks, or planning process."
+      },
+      {
+        "answer": "Term life",
+        "explanation": "This is wrong because it does not match the PDF's product limits, risks, or planning process."
+      },
+      {
+        "answer": "Brokerage account only",
+        "explanation": "This is wrong because it does not match the PDF's product limits, risks, or planning process."
+      }
+    ]
+  },
+  {
+    "chapter": 12,
+    "chapterTitle": "Advisor Case Studies & Suitability Analysis",
+    "category": "Retirement Income",
+    "difficulty": "hard",
+    "questionType": "multiple-choice",
+    "id": 1209,
+    "question": "A client wants lifetime income later and also wants more liquidity before income starts. Which product is most aligned with that tradeoff?",
+    "answers": [
+      "Fixed Annuity with Lifetime Income",
+      "Lifetime Income Annuity",
+      "Fixed Period Income Annuity",
+      "Term life"
+    ],
+    "correct": 0,
+    "correctExplanation": "Fixed annuities with lifetime income combine fixed-rate accumulation, lifetime withdrawal income, and more liquidity before income starts.",
+    "wrongExplanations": [
+      {
+        "answer": "Lifetime Income Annuity",
+        "explanation": "This is wrong because it does not match the PDF's product limits, risks, or planning process."
+      },
+      {
+        "answer": "Fixed Period Income Annuity",
+        "explanation": "This is wrong because it does not match the PDF's product limits, risks, or planning process."
+      },
+      {
+        "answer": "Term life",
+        "explanation": "This is wrong because it does not match the PDF's product limits, risks, or planning process."
+      }
+    ]
+  },
+  {
+    "chapter": 12,
+    "chapterTitle": "Advisor Case Studies & Suitability Analysis",
+    "category": "Dividend Tradeoff",
+    "difficulty": "hard",
+    "questionType": "multiple-choice",
+    "id": 1210,
+    "question": "A retiree wants the highest initial guaranteed lifetime income and does not care about dividend potential. Which version is most aligned?",
+    "answers": [
+      "Non-dividend eligible lifetime income annuity",
+      "Dividend eligible lifetime income annuity",
+      "Variable universal life",
+      "Direct mutual fund"
+    ],
+    "correct": 0,
+    "correctExplanation": "Non-dividend eligible lifetime income annuities generally offer higher initial guaranteed income than dividend eligible versions.",
+    "wrongExplanations": [
+      {
+        "answer": "Dividend eligible lifetime income annuity",
+        "explanation": "This is wrong because it does not match the PDF's product limits, risks, or planning process."
+      },
+      {
+        "answer": "Variable universal life",
+        "explanation": "This is wrong because it does not match the PDF's product limits, risks, or planning process."
+      },
+      {
+        "answer": "Direct mutual fund",
+        "explanation": "This is wrong because it does not match the PDF's product limits, risks, or planning process."
+      }
+    ]
+  },
+  {
+    "chapter": 12,
+    "chapterTitle": "Advisor Case Studies & Suitability Analysis",
+    "category": "Dividend Tradeoff",
+    "difficulty": "hard",
+    "questionType": "multiple-choice",
+    "id": 1211,
+    "question": "A client accepts lower initial guaranteed income in exchange for potential future income through declared dividends. Which path fits?",
+    "answers": [
+      "Dividend eligible income annuity",
+      "Non-dividend eligible income annuity only",
+      "Brokerage account only",
+      "Term life only"
+    ],
+    "correct": 0,
+    "correctExplanation": "Dividend eligible annuities can provide guaranteed income plus potential additional income through dividends if declared.",
+    "wrongExplanations": [
+      {
+        "answer": "Non-dividend eligible income annuity only",
+        "explanation": "This is wrong because it does not match the PDF's product limits, risks, or planning process."
+      },
+      {
+        "answer": "Brokerage account only",
+        "explanation": "This is wrong because it does not match the PDF's product limits, risks, or planning process."
+      },
+      {
+        "answer": "Term life only",
+        "explanation": "This is wrong because it does not match the PDF's product limits, risks, or planning process."
+      }
+    ]
+  },
+  {
+    "chapter": 12,
+    "chapterTitle": "Advisor Case Studies & Suitability Analysis",
+    "category": "Wealth Accumulation",
+    "difficulty": "medium",
+    "questionType": "multiple-choice",
+    "id": 1212,
+    "question": "A conservative client wants fixed interest growth and lower market risk. Which wealth accumulation product fits best?",
+    "answers": [
+      "Fixed annuity",
+      "Variable annuity",
+      "Brokerage account with margin trading",
+      "Variable universal life"
+    ],
+    "correct": 0,
+    "correctExplanation": "Fixed annuities provide a guaranteed fixed interest rate and avoid direct market participation.",
+    "wrongExplanations": [
+      {
+        "answer": "Variable annuity",
+        "explanation": "This is wrong because it does not match the PDF's product limits, risks, or planning process."
+      },
+      {
+        "answer": "Brokerage account with margin trading",
+        "explanation": "This is wrong because it does not match the PDF's product limits, risks, or planning process."
+      },
+      {
+        "answer": "Variable universal life",
+        "explanation": "This is wrong because it does not match the PDF's product limits, risks, or planning process."
+      }
+    ]
+  },
+  {
+    "chapter": 12,
+    "chapterTitle": "Advisor Case Studies & Suitability Analysis",
+    "category": "Wealth Accumulation",
+    "difficulty": "medium",
+    "questionType": "multiple-choice",
+    "id": 1213,
+    "question": "A client wants market growth potential through annuity investment options and accepts fluctuation. Which product fits?",
+    "answers": [
+      "Variable annuity",
+      "Fixed annuity",
+      "Whole life",
+      "IDI"
+    ],
+    "correct": 0,
+    "correctExplanation": "Variable annuities provide access to financial markets through investment options and are subject to market risk.",
+    "wrongExplanations": [
+      {
+        "answer": "Fixed annuity",
+        "explanation": "This is wrong because it does not match the PDF's product limits, risks, or planning process."
+      },
+      {
+        "answer": "Whole life",
+        "explanation": "This is wrong because it does not match the PDF's product limits, risks, or planning process."
+      },
+      {
+        "answer": "IDI",
+        "explanation": "This is wrong because it does not match the PDF's product limits, risks, or planning process."
+      }
+    ]
+  },
+  {
+    "chapter": 12,
+    "chapterTitle": "Advisor Case Studies & Suitability Analysis",
+    "category": "Investment Protection",
+    "difficulty": "hard",
+    "questionType": "multiple-choice",
+    "id": 1214,
+    "question": "A client wants market participation and protection of the initial investment after a required holding period. Which solution best fits?",
+    "answers": [
+      "Variable annuity with investment protection rider",
+      "Fixed period income annuity",
+      "Term life",
+      "Traditional IRA rollover"
+    ],
+    "correct": 0,
+    "correctExplanation": "A variable annuity with investment protection can combine market participation with principal protection features after the required holding period.",
+    "wrongExplanations": [
+      {
+        "answer": "Fixed period income annuity",
+        "explanation": "This is wrong because it does not match the PDF's product limits, risks, or planning process."
+      },
+      {
+        "answer": "Term life",
+        "explanation": "This is wrong because it does not match the PDF's product limits, risks, or planning process."
+      },
+      {
+        "answer": "Traditional IRA rollover",
+        "explanation": "This is wrong because it does not match the PDF's product limits, risks, or planning process."
+      }
+    ]
+  },
+  {
+    "chapter": 12,
+    "chapterTitle": "Advisor Case Studies & Suitability Analysis",
+    "category": "Advice Model",
+    "difficulty": "medium",
+    "questionType": "multiple-choice",
+    "id": 1215,
+    "question": "A client wants ongoing advice, portfolio management, performance reporting, periodic reviews, and rebalancing. Which path fits?",
+    "answers": [
+      "Investment Advisory Solutions",
+      "Direct Mutual Funds only",
+      "Term life",
+      "Fixed Period Income Annuity"
+    ],
+    "correct": 0,
+    "correctExplanation": "Investment Advisory Solutions are designed for ongoing advice, portfolio management, reporting, reviews, and rebalancing.",
+    "wrongExplanations": [
+      {
+        "answer": "Direct Mutual Funds only",
+        "explanation": "This is wrong because it does not match the PDF's product limits, risks, or planning process."
+      },
+      {
+        "answer": "Term life",
+        "explanation": "This is wrong because it does not match the PDF's product limits, risks, or planning process."
+      },
+      {
+        "answer": "Fixed Period Income Annuity",
+        "explanation": "This is wrong because it does not match the PDF's product limits, risks, or planning process."
+      }
+    ]
+  },
+  {
+    "chapter": 12,
+    "chapterTitle": "Advisor Case Studies & Suitability Analysis",
+    "category": "Advice Model",
+    "difficulty": "medium",
+    "questionType": "multiple-choice",
+    "id": 1216,
+    "question": "A client wants control over trades and does not require ongoing advice. Which path fits better?",
+    "answers": [
+      "Brokerage Account or Direct Mutual Fund Investing",
+      "Investment Advisory Solutions",
+      "Lifetime Income Annuity",
+      "Individual Disability Insurance"
+    ],
+    "correct": 0,
+    "correctExplanation": "Brokerage and direct mutual fund options fit investors who want more control and do not require ongoing advice.",
+    "wrongExplanations": [
+      {
+        "answer": "Investment Advisory Solutions",
+        "explanation": "This is wrong because it does not match the PDF's product limits, risks, or planning process."
+      },
+      {
+        "answer": "Lifetime Income Annuity",
+        "explanation": "This is wrong because it does not match the PDF's product limits, risks, or planning process."
+      },
+      {
+        "answer": "Individual Disability Insurance",
+        "explanation": "This is wrong because it does not match the PDF's product limits, risks, or planning process."
+      }
+    ]
+  },
+  {
+    "chapter": 12,
+    "chapterTitle": "Advisor Case Studies & Suitability Analysis",
+    "category": "Rollover Suitability",
+    "difficulty": "hard",
+    "questionType": "multiple-choice",
+    "id": 1217,
+    "question": "A client is changing jobs and wants to maintain tax-deferred status and avoid early withdrawal penalties. Which path should be considered first?",
+    "answers": [
+      "A direct rollover option instead of taking a lump sum",
+      "Taking all money in cash",
+      "Buying term life with the full retirement account",
+      "Ignoring the account until it disappears"
+    ],
+    "correct": 0,
+    "correctExplanation": "Direct rollover options may maintain tax-deferred status and avoid taxes or early withdrawal penalties, depending on the chosen path and rules.",
+    "wrongExplanations": [
+      {
+        "answer": "Taking all money in cash",
+        "explanation": "This is wrong because it does not match the PDF's product limits, risks, or planning process."
+      },
+      {
+        "answer": "Buying term life with the full retirement account",
+        "explanation": "This is wrong because it does not match the PDF's product limits, risks, or planning process."
+      },
+      {
+        "answer": "Ignoring the account until it disappears",
+        "explanation": "This is wrong because it does not match the PDF's product limits, risks, or planning process."
+      }
+    ]
+  },
+  {
+    "chapter": 12,
+    "chapterTitle": "Advisor Case Studies & Suitability Analysis",
+    "category": "Rollover Suitability",
+    "difficulty": "hard",
+    "questionType": "multiple-choice",
+    "id": 1218,
+    "question": "A client values loan access and continued contributions in a new job. Which rollover path may fit if plan rules permit?",
+    "answers": [
+      "Direct rollover to the new employer's plan",
+      "Direct rollover to a traditional IRA only",
+      "Lump sum distribution",
+      "Fixed period income annuity"
+    ],
+    "correct": 0,
+    "correctExplanation": "A new employer plan may allow loans and additional contributions if plan rules permit.",
+    "wrongExplanations": [
+      {
+        "answer": "Direct rollover to a traditional IRA only",
+        "explanation": "This is wrong because it does not match the PDF's product limits, risks, or planning process."
+      },
+      {
+        "answer": "Lump sum distribution",
+        "explanation": "This is wrong because it does not match the PDF's product limits, risks, or planning process."
+      },
+      {
+        "answer": "Fixed period income annuity",
+        "explanation": "This is wrong because it does not match the PDF's product limits, risks, or planning process."
+      }
+    ]
+  },
+  {
+    "chapter": 12,
+    "chapterTitle": "Advisor Case Studies & Suitability Analysis",
+    "category": "Rollover Suitability",
+    "difficulty": "hard",
+    "questionType": "multiple-choice",
+    "id": 1219,
+    "question": "A client wants broad investment choice and more control over retirement assets, and does not need loans. Which rollover path may fit?",
+    "answers": [
+      "Direct rollover to a traditional IRA",
+      "Lump sum distribution only",
+      "Keep money in the old employer plan forever without review",
+      "Term life conversion"
+    ],
+    "correct": 0,
+    "correctExplanation": "A traditional IRA rollover may offer broader investment options and greater control, though fees, RMD rules, and lack of loans must be considered.",
+    "wrongExplanations": [
+      {
+        "answer": "Lump sum distribution only",
+        "explanation": "This is wrong because it does not match the PDF's product limits, risks, or planning process."
+      },
+      {
+        "answer": "Keep money in the old employer plan forever without review",
+        "explanation": "This is wrong because it does not match the PDF's product limits, risks, or planning process."
+      },
+      {
+        "answer": "Term life conversion",
+        "explanation": "This is wrong because it does not match the PDF's product limits, risks, or planning process."
+      }
+    ]
+  },
+  {
+    "chapter": 12,
+    "chapterTitle": "Advisor Case Studies & Suitability Analysis",
+    "category": "Roth Rollover",
+    "difficulty": "hard",
+    "questionType": "multiple-choice",
+    "id": 1220,
+    "question": "A client wants a Roth rollover from pre-tax retirement assets. What must the advisor highlight?",
+    "answers": [
+      "Taxes are due in the year of the rollover and should preferably be paid with outside assets",
+      "No tax is due under any circumstance",
+      "A Roth rollover always allows loans",
+      "The rollover removes all future rules"
+    ],
+    "correct": 0,
+    "correctExplanation": "The PDF says taxes must be paid in the year of the Roth rollover, preferably using assets outside the retirement account.",
+    "wrongExplanations": [
+      {
+        "answer": "No tax is due under any circumstance",
+        "explanation": "This is wrong because it does not match the PDF's product limits, risks, or planning process."
+      },
+      {
+        "answer": "A Roth rollover always allows loans",
+        "explanation": "This is wrong because it does not match the PDF's product limits, risks, or planning process."
+      },
+      {
+        "answer": "The rollover removes all future rules",
+        "explanation": "This is wrong because it does not match the PDF's product limits, risks, or planning process."
+      }
+    ]
+  },
+  {
+    "chapter": 12,
+    "chapterTitle": "Advisor Case Studies & Suitability Analysis",
+    "category": "Lump Sum Risk",
+    "difficulty": "hard",
+    "questionType": "multiple-choice",
+    "id": 1221,
+    "question": "A client wants to take a full employer retirement account in cash before age 59 1/2. What is the major warning?",
+    "answers": [
+      "Possible taxes, 20% withholding, 10% penalty, and loss of tax-deferred status",
+      "Guaranteed tax-free treatment",
+      "Automatic increase in retirement security",
+      "No possible federal tax impact"
+    ],
+    "correct": 0,
+    "correctExplanation": "The PDF warns lump sums can trigger federal withholding, possible taxes and penalties, and loss of future tax-deferred growth.",
+    "wrongExplanations": [
+      {
+        "answer": "Guaranteed tax-free treatment",
+        "explanation": "This is wrong because it does not match the PDF's product limits, risks, or planning process."
+      },
+      {
+        "answer": "Automatic increase in retirement security",
+        "explanation": "This is wrong because it does not match the PDF's product limits, risks, or planning process."
+      },
+      {
+        "answer": "No possible federal tax impact",
+        "explanation": "This is wrong because it does not match the PDF's product limits, risks, or planning process."
+      }
+    ]
+  },
+  {
+    "chapter": 12,
+    "chapterTitle": "Advisor Case Studies & Suitability Analysis",
+    "category": "Replacement Analysis",
+    "difficulty": "hard",
+    "questionType": "multiple-choice",
+    "id": 1222,
+    "question": "A client wants to replace an old policy only because the new premium looks lower at first. What should the advisor do?",
+    "answers": [
+      "Compare both policies carefully because replacement may be costly and benefits may be lost",
+      "Automatically replace it",
+      "Ignore surrender charges",
+      "Focus only on first-year premium"
+    ],
+    "correct": 0,
+    "correctExplanation": "The PDF warns that replacing coverage may be costly and may result in lost benefits, so comparison is required.",
+    "wrongExplanations": [
+      {
+        "answer": "Automatically replace it",
+        "explanation": "This is wrong because it does not match the PDF's product limits, risks, or planning process."
+      },
+      {
+        "answer": "Ignore surrender charges",
+        "explanation": "This is wrong because it does not match the PDF's product limits, risks, or planning process."
+      },
+      {
+        "answer": "Focus only on first-year premium",
+        "explanation": "This is wrong because it does not match the PDF's product limits, risks, or planning process."
+      }
+    ]
+  },
+  {
+    "chapter": 12,
+    "chapterTitle": "Advisor Case Studies & Suitability Analysis",
+    "category": "Behavioral Finance",
+    "difficulty": "hard",
+    "questionType": "multiple-choice",
+    "id": 1223,
+    "question": "A client panics during market volatility and wants to abandon all long-term planning. Which response fits the PDF's philosophy?",
+    "answers": [
+      "Return to goals, risk tolerance, protection layers, and the long-term plan before making reactive decisions",
+      "Liquidate everything without review",
+      "Ignore the client concerns",
+      "Guarantee the market will recover next month"
+    ],
+    "correct": 0,
+    "correctExplanation": "The PDF emphasizes long-term planning, ongoing guidance, education, and matching solutions to goals and risk tolerance.",
+    "wrongExplanations": [
+      {
+        "answer": "Liquidate everything without review",
+        "explanation": "This is wrong because it does not match the PDF's product limits, risks, or planning process."
+      },
+      {
+        "answer": "Ignore the client concerns",
+        "explanation": "This is wrong because it does not match the PDF's product limits, risks, or planning process."
+      },
+      {
+        "answer": "Guarantee the market will recover next month",
+        "explanation": "This is wrong because it does not match the PDF's product limits, risks, or planning process."
+      }
+    ]
+  },
+  {
+    "chapter": 12,
+    "chapterTitle": "Advisor Case Studies & Suitability Analysis",
+    "category": "Disclosure Logic",
+    "difficulty": "hard",
+    "questionType": "multiple-choice",
+    "id": 1224,
+    "question": "A client believes a variable annuity guarantee means the investment divisions cannot lose value. What is the correct advisor response?",
+    "answers": [
+      "Guarantees depend on NYLIAC's claims-paying ability and do not guarantee investment division performance",
+      "The client is correct because market losses are impossible",
+      "The guarantee eliminates all fees",
+      "The guarantee removes the need for a prospectus"
+    ],
+    "correct": 0,
+    "correctExplanation": "The PDF states that guarantees do not apply to underlying investment division performance and assets remain subject to market risk.",
+    "wrongExplanations": [
+      {
+        "answer": "The client is correct because market losses are impossible",
+        "explanation": "This is wrong because it does not match the PDF's product limits, risks, or planning process."
+      },
+      {
+        "answer": "The guarantee eliminates all fees",
+        "explanation": "This is wrong because it does not match the PDF's product limits, risks, or planning process."
+      },
+      {
+        "answer": "The guarantee removes the need for a prospectus",
+        "explanation": "This is wrong because it does not match the PDF's product limits, risks, or planning process."
+      }
+    ]
+  },
+  {
+    "chapter": 12,
+    "chapterTitle": "Advisor Case Studies & Suitability Analysis",
+    "category": "Hard Ass Question",
+    "difficulty": "hard",
+    "questionType": "multiple-choice",
+    "id": 1225,
+    "question": "Hard ass question: A client wants protection, income, growth, liquidity, low risk, no fees, no taxes, no underwriting, and full market upside. What is the most correct advisor-level answer?",
+    "answers": [
+      "No single solution in the PDF provides all of that; build a layered plan and explain tradeoffs, suitability, risk, taxes, fees, and limitations",
+      "Recommend one variable product for everything",
+      "Recommend a lump sum distribution because it avoids tradeoffs",
+      "Skip discovery and sell the highest feature product"
+    ],
+    "correct": 0,
+    "correctExplanation": "Advisor-level mastery means recognizing that the PDF is built around tradeoffs. The correct response is to return to discovery and layer suitable tools based on goals, timing, risk tolerance, affordability, tax impact, and product limits.",
+    "wrongExplanations": [
+      {
+        "answer": "Recommend one variable product for everything",
+        "explanation": "This is wrong because it does not match the PDF's product limits, risks, or planning process."
+      },
+      {
+        "answer": "Recommend a lump sum distribution because it avoids tradeoffs",
+        "explanation": "This is wrong because it does not match the PDF's product limits, risks, or planning process."
+      },
+      {
+        "answer": "Skip discovery and sell the highest feature product",
+        "explanation": "This is wrong because it does not match the PDF's product limits, risks, or planning process."
+      }
+    ]
+  }
+]
