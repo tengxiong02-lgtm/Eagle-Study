@@ -1,0 +1,24 @@
+[
+  {
+    "chapter": 1,
+    "chapterTitle": "Foundation / Trust Layer",
+    "category": "Company Philosophy",
+    "difficulty": "easy",
+    "questionType": "multiple-choice",
+
+    "id": 1,
+
+    "question": "What is the foundation of New York Life's financial planning approach?",
+
+    "answers": [
+      "Aggressive market investing",
+      "Protection-first strategy",
+      "Short-term retirement gains",
+      "High-risk asset growth"
+    ],
+
+    "correct": 1,
+
+    "explanation": "The PDF emphasizes that protecting what matters most should be the foundation of every financial plan."
+  }
+]
